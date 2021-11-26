@@ -1,0 +1,91 @@
+
+# Loops over all snapshots (in reverse) from last_snap to first_snap, setting up snapshot pairs [last_snap,snapfile2] to find progenitors.
+# For each galaxy in last_snap, finds progenitors in snapfile2.  progenitors are defined as having the most star particles in common.
+# Writes out an ascii file giving the top two most massive progenitors at all previous snapshots.
+# Works with multi-processor via OpenMP; doesn't help much because most of the time is in the sorting (not yet parallel).  It's fast tho!
+# Last modified: Romeel Dave 19 Feb 2019
+
+import caesar
+from pygadgetreader import *
+import numpy as np
+from scipy import stats
+import time
+import sys
+import os
+from progen import *
+
+MODEL = sys.argv[1]
+WIND = sys.argv[2]
+last_snap = int(sys.argv[3])
+if len(sys.argv)==5: nproc = int(sys.argv[4])
+else: nproc = 1
+
+BASEDIR = '/home/rad/data/%s/%s'%(MODEL,WIND)
+GDIR = 'Groups'
+first_snap = 1
+
+#=========================================================
+# MAIN DRIVER ROUTINE
+#=========================================================
+
+if __name__ == '__main__':
+
+    # Set up pairs;
+    if not os.path.isfile('%s/snap_%s_%03d.hdf5' % (BASEDIR,MODEL,last_snap)):
+        sys.exit('Reference_snap %d does not exist'%last_snap)
+    allsnaps = np.arange(last_snap,first_snap-1,-1)
+    # find snapshots with caesar files that exist in the directory, in reverse order
+    snapnums = []
+    for i in allsnaps:
+        if os.path.isfile('%s/snap_%s_%03d.hdf5' % (BASEDIR,MODEL,i)) and os.path.isfile('%s/%s/%s_%03d.hdf5' % (BASEDIR,GDIR,MODEL,i)):
+            snapnums.append(i)
+    #print('Found these snapshots with caesar files: %s'%snapnums)
+    # set up pairs to progen
+    pairs = []
+    prevsnap = snapnums[0]  # find progenitors based on a single reference (final) snapshot
+    for i in range(len(snapnums)-1):
+        pairs.append([prevsnap,snapnums[i+1]])
+
+    print('progen : Doing snapshot pairs: %s'%pairs)
+
+# Set up multiprocessing; note: this doesn't help much, because this only parallelizes over galaxy ID searches, not the sorting.
+    if nproc == 0:   # use all available cores
+        num_cores = multiprocessing.cpu_count()
+    if nproc != 1:   # if multi-core, set up Parallel processing
+        import multiprocessing
+        from joblib import Parallel, delayed
+        from functools import partial
+        num_cores = multiprocessing.cpu_count()
+        if nproc < 0: print('progen : Using %d cores (all but %d)'%(num_cores+nproc+1,-nproc-1) )
+        if nproc > 1: print('progen : Using %d of %d cores'%(nproc,num_cores))
+        else: print('progen : Using single core')
+
+# loop over pairs to find progenitors
+    output_file = '%s/%s/progen_%s_%03d.dat' % (BASEDIR,GDIR,MODEL,last_snap)
+    outfile = open(output_file,'w')
+    t0 = time.time()
+    all_index = []
+    all_index2 = []
+    snapfile1 = '%s/snap_%s_%03d.hdf5' % (BASEDIR,MODEL,last_snap)   # current snapshot; never changes
+    caesarfile1 = '%s/%s/%s_%03d.hdf5' % (BASEDIR,GDIR,MODEL,last_snap)
+    obj1 = caesar.load(caesarfile1,LoadHalo=False)
+    for pair in pairs:
+        print 'progen : Doing pair %s [t=%g s]'%(pair,np.round(time.time()-t0,3))
+        snapfile2 = '%s/snap_%s_%03d.hdf5' % (BASEDIR,MODEL,pair[1])   # progenitor snapshot
+        caesarfile2 = '%s/%s/%s_%03d.hdf5' % (BASEDIR,GDIR,MODEL,pair[1])
+        obj2 = caesar.load(caesarfile2,LoadHalo=False)
+    
+        prog_index,prog_index2 = find_progens(snapfile1,snapfile2,obj1,obj2,nproc,t0)  # find galaxies with most stars in common in prog snapshot
+        all_index.append(prog_index)
+        all_index2.append(prog_index2)
+
+    all_index = np.asarray(all_index)
+    all_index2 = np.asarray(all_index2)
+    np.set_printoptions(threshold=np.inf)
+    print >>outfile,'%d %s'%(obj1.ngalaxies,pairs)
+    print >>outfile,'%s'%(all_index.T)
+    print >>outfile,'%s'%(all_index2.T)
+    outfile.close()
+    print('progen : Wrote info to file %s [t=%g s]'%(output_file,time.time()-t0))
+
+

@@ -1,0 +1,1456 @@
+progen : Doing snapshot pairs: [[151, 150], [151, 149], [151, 148], [151, 147], [151, 146], [151, 145], [151, 144], [151, 143], [151, 142], [151, 141], [151, 140], [151, 139], [151, 138], [151, 137], [151, 136], [151, 135], [151, 134], [151, 133], [151, 132], [151, 131], [151, 130], [151, 129], [151, 128], [151, 127], [151, 126], [151, 125], [151, 124], [151, 123], [151, 122], [151, 121], [151, 120], [151, 119], [151, 118], [151, 117], [151, 115], [151, 114], [151, 113], [151, 112], [151, 111], [151, 110], [151, 109], [151, 108], [151, 107], [151, 106], [151, 105], [151, 104], [151, 103], [151, 102], [151, 101], [151, 100], [151, 99], [151, 98], [151, 97], [151, 96], [151, 95], [151, 94], [151, 93], [151, 92], [151, 91], [151, 90], [151, 89], [151, 88], [151, 87], [151, 86], [151, 85], [151, 84], [151, 83], [151, 82], [151, 81], [151, 80], [151, 79], [151, 78], [151, 77], [151, 76], [151, 75], [151, 74], [151, 73], [151, 72], [151, 71], [151, 70], [151, 69], [151, 68], [151, 67], [151, 66], [151, 65], [151, 64], [151, 63], [151, 62], [151, 61], [151, 60], [151, 59], [151, 58], [151, 57], [151, 56], [151, 55], [151, 54], [151, 53], [151, 52], [151, 51], [151, 50], [151, 49], [151, 48], [151, 47], [151, 46], [151, 45], [151, 44], [151, 43], [151, 42], [151, 41], [151, 40], [151, 39], [151, 38], [151, 37], [151, 36], [151, 35], [151, 34], [151, 33], [151, 32], [151, 31], [151, 30], [151, 29], [151, 28], [151, 27], [151, 26], [151, 25], [151, 24], [151, 23], [151, 22], [151, 21], [151, 20], [151, 19], [151, 18]]
+yt : [INFO     ] 2019-06-29 10:31:26,576 Reading /home/rad/data/m50n512/s50/Groups/m50n512_151.hdf5
+yt : [INFO     ] 2019-06-29 10:31:26,632 Restoring galaxy attributes
+progen : Doing pair [151, 150] [t=4.347 s]
+yt : [INFO     ] 2019-06-29 10:31:30,924 Reading /home/rad/data/m50n512/s50/Groups/m50n512_150.hdf5
+yt : [INFO     ] 2019-06-29 10:31:30,973 Restoring galaxy attributes
+Returning STAR  Particle IDs
+Returning STAR  Particle IDs
+Returning STAR  ID_Generations
+Returning STAR  ID_Generations
+progen : Read ID info for 7162118 current star parts and 7129827 progenitor star parts [t=9.03335 s]
+progen : Gathered ID info for 4887740 progenitor stars out of 7162118 total stars [t=11.9407 s]
+progen : Sorted progenitor IDs [t=12.5254 s]
+progen : Out of 6908 galaxies, most common prog 0 appeared 33 times. 162 had no progenitors.
+progen : Doing pair [151, 149] [t=18.363 s]
+yt : [INFO     ] 2019-06-29 10:31:44,939 Reading /home/rad/data/m50n512/s50/Groups/m50n512_149.hdf5
+yt : [INFO     ] 2019-06-29 10:31:44,990 Restoring galaxy attributes
+Returning STAR  Particle IDs
+Returning STAR  Particle IDs
+Returning STAR  ID_Generations
+Returning STAR  ID_Generations
+progen : Read ID info for 7162118 current star parts and 7096983 progenitor star parts [t=23.7283 s]
+progen : Gathered ID info for 4876844 progenitor stars out of 7162118 total stars [t=26.9901 s]
+progen : Sorted progenitor IDs [t=27.5779 s]
+progen : Out of 6908 galaxies, most common prog 0 appeared 35 times. 232 had no progenitors.
+progen : Doing pair [151, 148] [t=33.506 s]
+yt : [INFO     ] 2019-06-29 10:32:00,083 Reading /home/rad/data/m50n512/s50/Groups/m50n512_148.hdf5
+yt : [INFO     ] 2019-06-29 10:32:00,138 Restoring galaxy attributes
+Returning STAR  Particle IDs
+Returning STAR  Particle IDs
+Returning STAR  ID_Generations
+Returning STAR  ID_Generations
+progen : Read ID info for 7162118 current star parts and 7062434 progenitor star parts [t=39.3827 s]
+progen : Gathered ID info for 4853546 progenitor stars out of 7162118 total stars [t=42.3267 s]
+progen : Sorted progenitor IDs [t=42.9111 s]
+progen : Out of 6908 galaxies, most common prog 0 appeared 36 times. 291 had no progenitors.
+progen : Doing pair [151, 147] [t=48.616 s]
+yt : [INFO     ] 2019-06-29 10:32:15,192 Reading /home/rad/data/m50n512/s50/Groups/m50n512_147.hdf5
+yt : [INFO     ] 2019-06-29 10:32:15,245 Restoring galaxy attributes
+Returning STAR  Particle IDs
+Returning STAR  Particle IDs
+Returning STAR  ID_Generations
+Returning STAR  ID_Generations
+progen : Read ID info for 7162118 current star parts and 7026754 progenitor star parts [t=53.6 s]
+progen : Gathered ID info for 4825454 progenitor stars out of 7162118 total stars [t=56.4542 s]
+progen : Sorted progenitor IDs [t=57.0054 s]
+progen : Out of 6908 galaxies, most common prog 0 appeared 34 times. 365 had no progenitors.
+progen : Doing pair [151, 146] [t=62.581 s]
+yt : [INFO     ] 2019-06-29 10:32:29,157 Reading /home/rad/data/m50n512/s50/Groups/m50n512_146.hdf5
+yt : [INFO     ] 2019-06-29 10:32:29,208 Restoring galaxy attributes
+Returning STAR  Particle IDs
+Returning STAR  Particle IDs
+Returning STAR  ID_Generations
+Returning STAR  ID_Generations
+progen : Read ID info for 7162118 current star parts and 6990563 progenitor star parts [t=67.1742 s]
+progen : Gathered ID info for 4817899 progenitor stars out of 7162118 total stars [t=70.0745 s]
+progen : Sorted progenitor IDs [t=70.6662 s]
+progen : Out of 6908 galaxies, most common prog 0 appeared 36 times. 424 had no progenitors.
+progen : Doing pair [151, 145] [t=76.172 s]
+yt : [INFO     ] 2019-06-29 10:32:42,748 Reading /home/rad/data/m50n512/s50/Groups/m50n512_145.hdf5
+yt : [INFO     ] 2019-06-29 10:32:42,798 Restoring galaxy attributes
+Returning STAR  Particle IDs
+Returning STAR  Particle IDs
+Returning STAR  ID_Generations
+Returning STAR  ID_Generations
+progen : Read ID info for 7162118 current star parts and 6952610 progenitor star parts [t=80.9904 s]
+progen : Gathered ID info for 4800564 progenitor stars out of 7162118 total stars [t=83.8615 s]
+progen : Sorted progenitor IDs [t=84.4085 s]
+progen : Out of 6908 galaxies, most common prog 0 appeared 36 times. 513 had no progenitors.
+progen : Doing pair [151, 144] [t=89.873 s]
+yt : [INFO     ] 2019-06-29 10:32:56,449 Reading /home/rad/data/m50n512/s50/Groups/m50n512_144.hdf5
+yt : [INFO     ] 2019-06-29 10:32:56,530 Restoring galaxy attributes
+Returning STAR  Particle IDs
+Returning STAR  Particle IDs
+Returning STAR  ID_Generations
+Returning STAR  ID_Generations
+progen : Read ID info for 7162118 current star parts and 6914419 progenitor star parts [t=94.9325 s]
+progen : Gathered ID info for 4766360 progenitor stars out of 7162118 total stars [t=97.7887 s]
+progen : Sorted progenitor IDs [t=98.3355 s]
+progen : Out of 6908 galaxies, most common prog 0 appeared 33 times. 594 had no progenitors.
+progen : Doing pair [151, 143] [t=103.796 s]
+yt : [INFO     ] 2019-06-29 10:33:10,372 Reading /home/rad/data/m50n512/s50/Groups/m50n512_143.hdf5
+yt : [INFO     ] 2019-06-29 10:33:10,452 Restoring galaxy attributes
+Returning STAR  Particle IDs
+Returning STAR  Particle IDs
+Returning STAR  ID_Generations
+Returning STAR  ID_Generations
+progen : Read ID info for 7162118 current star parts and 6875848 progenitor star parts [t=109.167 s]
+progen : Gathered ID info for 4754197 progenitor stars out of 7162118 total stars [t=112.015 s]
+progen : Sorted progenitor IDs [t=112.557 s]
+progen : Out of 6908 galaxies, most common prog 0 appeared 37 times. 651 had no progenitors.
+progen : Doing pair [151, 142] [t=118.021 s]
+yt : [INFO     ] 2019-06-29 10:33:24,598 Reading /home/rad/data/m50n512/s50/Groups/m50n512_142.hdf5
+yt : [INFO     ] 2019-06-29 10:33:24,735 Restoring galaxy attributes
+Returning STAR  Particle IDs
+Returning STAR  Particle IDs
+Returning STAR  ID_Generations
+Returning STAR  ID_Generations
+progen : Read ID info for 7162118 current star parts and 6836514 progenitor star parts [t=122.89 s]
+progen : Gathered ID info for 4728827 progenitor stars out of 7162118 total stars [t=125.704 s]
+progen : Sorted progenitor IDs [t=126.244 s]
+progen : Out of 6908 galaxies, most common prog 0 appeared 35 times. 710 had no progenitors.
+progen : Doing pair [151, 141] [t=131.668 s]
+yt : [INFO     ] 2019-06-29 10:33:38,244 Reading /home/rad/data/m50n512/s50/Groups/m50n512_141.hdf5
+yt : [INFO     ] 2019-06-29 10:33:38,310 Restoring galaxy attributes
+Returning STAR  Particle IDs
+Returning STAR  Particle IDs
+Returning STAR  ID_Generations
+Returning STAR  ID_Generations
+progen : Read ID info for 7162118 current star parts and 6795532 progenitor star parts [t=136.876 s]
+progen : Gathered ID info for 4713777 progenitor stars out of 7162118 total stars [t=139.675 s]
+progen : Sorted progenitor IDs [t=140.207 s]
+progen : Out of 6908 galaxies, most common prog 0 appeared 33 times. 783 had no progenitors.
+progen : Doing pair [151, 140] [t=145.653 s]
+yt : [INFO     ] 2019-06-29 10:33:52,230 Reading /home/rad/data/m50n512/s50/Groups/m50n512_140.hdf5
+yt : [INFO     ] 2019-06-29 10:33:52,312 Restoring galaxy attributes
+Returning STAR  Particle IDs
+Returning STAR  Particle IDs
+Returning STAR  ID_Generations
+Returning STAR  ID_Generations
+progen : Read ID info for 7162118 current star parts and 6753772 progenitor star parts [t=150.384 s]
+progen : Gathered ID info for 4691889 progenitor stars out of 7162118 total stars [t=153.183 s]
+progen : Sorted progenitor IDs [t=153.71 s]
+progen : Out of 6908 galaxies, most common prog 0 appeared 35 times. 858 had no progenitors.
+progen : Doing pair [151, 139] [t=159.129 s]
+yt : [INFO     ] 2019-06-29 10:34:05,705 Reading /home/rad/data/m50n512/s50/Groups/m50n512_139.hdf5
+yt : [INFO     ] 2019-06-29 10:34:05,774 Restoring galaxy attributes
+Returning STAR  Particle IDs
+Returning STAR  Particle IDs
+Returning STAR  ID_Generations
+Returning STAR  ID_Generations
+progen : Read ID info for 7162118 current star parts and 6711102 progenitor star parts [t=164.066 s]
+progen : Gathered ID info for 4663631 progenitor stars out of 7162118 total stars [t=166.929 s]
+progen : Sorted progenitor IDs [t=167.457 s]
+progen : Out of 6908 galaxies, most common prog 0 appeared 33 times. 921 had no progenitors.
+progen : Doing pair [151, 138] [t=172.886 s]
+yt : [INFO     ] 2019-06-29 10:34:19,462 Reading /home/rad/data/m50n512/s50/Groups/m50n512_138.hdf5
+yt : [INFO     ] 2019-06-29 10:34:19,551 Restoring galaxy attributes
+Returning STAR  Particle IDs
+Returning STAR  Particle IDs
+Returning STAR  ID_Generations
+Returning STAR  ID_Generations
+progen : Read ID info for 7162118 current star parts and 6666960 progenitor star parts [t=178.15 s]
+progen : Gathered ID info for 4647704 progenitor stars out of 7162118 total stars [t=180.922 s]
+progen : Sorted progenitor IDs [t=181.454 s]
+progen : Out of 6908 galaxies, most common prog 0 appeared 31 times. 986 had no progenitors.
+progen : Doing pair [151, 137] [t=187.023 s]
+yt : [INFO     ] 2019-06-29 10:34:33,600 Reading /home/rad/data/m50n512/s50/Groups/m50n512_137.hdf5
+yt : [INFO     ] 2019-06-29 10:34:33,686 Restoring galaxy attributes
+Returning STAR  Particle IDs
+Returning STAR  Particle IDs
+Returning STAR  ID_Generations
+Returning STAR  ID_Generations
+progen : Read ID info for 7162118 current star parts and 6621976 progenitor star parts [t=192.301 s]
+progen : Gathered ID info for 4623066 progenitor stars out of 7162118 total stars [t=195.02 s]
+progen : Sorted progenitor IDs [t=195.547 s]
+progen : Out of 6908 galaxies, most common prog 0 appeared 35 times. 1074 had no progenitors.
+progen : Doing pair [151, 136] [t=200.936 s]
+yt : [INFO     ] 2019-06-29 10:34:47,512 Reading /home/rad/data/m50n512/s50/Groups/m50n512_136.hdf5
+yt : [INFO     ] 2019-06-29 10:34:47,663 Restoring galaxy attributes
+Returning STAR  Particle IDs
+Returning STAR  Particle IDs
+Returning STAR  ID_Generations
+Returning STAR  ID_Generations
+progen : Read ID info for 7162118 current star parts and 6575947 progenitor star parts [t=205.735 s]
+progen : Gathered ID info for 4594519 progenitor stars out of 7162118 total stars [t=208.498 s]
+progen : Sorted progenitor IDs [t=209.021 s]
+progen : Out of 6908 galaxies, most common prog 0 appeared 33 times. 1159 had no progenitors.
+progen : Doing pair [151, 135] [t=214.451 s]
+yt : [INFO     ] 2019-06-29 10:35:01,027 Reading /home/rad/data/m50n512/s50/Groups/m50n512_135.hdf5
+yt : [INFO     ] 2019-06-29 10:35:01,109 Restoring galaxy attributes
+Returning STAR  Particle IDs
+Returning STAR  Particle IDs
+Returning STAR  ID_Generations
+Returning STAR  ID_Generations
+progen : Read ID info for 7162118 current star parts and 6528311 progenitor star parts [t=219.332 s]
+progen : Gathered ID info for 4564539 progenitor stars out of 7162118 total stars [t=222.201 s]
+progen : Sorted progenitor IDs [t=222.774 s]
+progen : Out of 6908 galaxies, most common prog 0 appeared 32 times. 1239 had no progenitors.
+progen : Doing pair [151, 134] [t=228.362 s]
+yt : [INFO     ] 2019-06-29 10:35:14,939 Reading /home/rad/data/m50n512/s50/Groups/m50n512_134.hdf5
+yt : [INFO     ] 2019-06-29 10:35:15,024 Restoring galaxy attributes
+Returning STAR  Particle IDs
+Returning STAR  Particle IDs
+Returning STAR  ID_Generations
+Returning STAR  ID_Generations
+progen : Read ID info for 7162118 current star parts and 6479413 progenitor star parts [t=233.519 s]
+progen : Gathered ID info for 4539438 progenitor stars out of 7162118 total stars [t=236.535 s]
+progen : Sorted progenitor IDs [t=237.117 s]
+progen : Out of 6908 galaxies, most common prog 0 appeared 34 times. 1314 had no progenitors.
+progen : Doing pair [151, 133] [t=243.046 s]
+yt : [INFO     ] 2019-06-29 10:35:29,622 Reading /home/rad/data/m50n512/s50/Groups/m50n512_133.hdf5
+yt : [INFO     ] 2019-06-29 10:35:29,708 Restoring galaxy attributes
+Returning STAR  Particle IDs
+Returning STAR  Particle IDs
+Returning STAR  ID_Generations
+Returning STAR  ID_Generations
+progen : Read ID info for 7162118 current star parts and 6429082 progenitor star parts [t=247.848 s]
+progen : Gathered ID info for 4507107 progenitor stars out of 7162118 total stars [t=250.703 s]
+progen : Sorted progenitor IDs [t=251.268 s]
+progen : Out of 6908 galaxies, most common prog 0 appeared 31 times. 1390 had no progenitors.
+progen : Doing pair [151, 132] [t=256.801 s]
+yt : [INFO     ] 2019-06-29 10:35:43,377 Reading /home/rad/data/m50n512/s50/Groups/m50n512_132.hdf5
+yt : [INFO     ] 2019-06-29 10:35:43,449 Restoring galaxy attributes
+Returning STAR  Particle IDs
+Returning STAR  Particle IDs
+Returning STAR  ID_Generations
+Returning STAR  ID_Generations
+progen : Read ID info for 7162118 current star parts and 6376536 progenitor star parts [t=261.428 s]
+progen : Gathered ID info for 4481929 progenitor stars out of 7162118 total stars [t=264.248 s]
+progen : Sorted progenitor IDs [t=264.788 s]
+progen : Out of 6908 galaxies, most common prog 0 appeared 32 times. 1501 had no progenitors.
+progen : Doing pair [151, 131] [t=270.29 s]
+yt : [INFO     ] 2019-06-29 10:35:56,867 Reading /home/rad/data/m50n512/s50/Groups/m50n512_131.hdf5
+yt : [INFO     ] 2019-06-29 10:35:56,948 Restoring galaxy attributes
+Returning STAR  Particle IDs
+Returning STAR  Particle IDs
+Returning STAR  ID_Generations
+Returning STAR  ID_Generations
+progen : Read ID info for 7162118 current star parts and 6322662 progenitor star parts [t=275.245 s]
+progen : Gathered ID info for 4474542 progenitor stars out of 7162118 total stars [t=278.139 s]
+progen : Sorted progenitor IDs [t=278.635 s]
+progen : Out of 6908 galaxies, most common prog 0 appeared 35 times. 1574 had no progenitors.
+progen : Doing pair [151, 130] [t=284.128 s]
+yt : [INFO     ] 2019-06-29 10:36:10,704 Reading /home/rad/data/m50n512/s50/Groups/m50n512_130.hdf5
+yt : [INFO     ] 2019-06-29 10:36:10,783 Restoring galaxy attributes
+Returning STAR  Particle IDs
+Returning STAR  Particle IDs
+Returning STAR  ID_Generations
+Returning STAR  ID_Generations
+progen : Read ID info for 7162118 current star parts and 6266956 progenitor star parts [t=288.996 s]
+progen : Gathered ID info for 4438307 progenitor stars out of 7162118 total stars [t=291.68 s]
+progen : Sorted progenitor IDs [t=292.21 s]
+progen : Out of 6908 galaxies, most common prog 5 appeared 27 times. 1674 had no progenitors.
+progen : Doing pair [151, 129] [t=297.794 s]
+yt : [INFO     ] 2019-06-29 10:36:24,370 Reading /home/rad/data/m50n512/s50/Groups/m50n512_129.hdf5
+yt : [INFO     ] 2019-06-29 10:36:24,456 Restoring galaxy attributes
+Returning STAR  Particle IDs
+Returning STAR  Particle IDs
+Returning STAR  ID_Generations
+Returning STAR  ID_Generations
+progen : Read ID info for 7162118 current star parts and 6210623 progenitor star parts [t=302.769 s]
+progen : Gathered ID info for 4408201 progenitor stars out of 7162118 total stars [t=305.716 s]
+progen : Sorted progenitor IDs [t=306.217 s]
+progen : Out of 6908 galaxies, most common prog 5 appeared 29 times. 1779 had no progenitors.
+progen : Doing pair [151, 128] [t=311.757 s]
+yt : [INFO     ] 2019-06-29 10:36:38,333 Reading /home/rad/data/m50n512/s50/Groups/m50n512_128.hdf5
+yt : [INFO     ] 2019-06-29 10:36:38,412 Restoring galaxy attributes
+Returning STAR  Particle IDs
+Returning STAR  Particle IDs
+Returning STAR  ID_Generations
+Returning STAR  ID_Generations
+progen : Read ID info for 7162118 current star parts and 6153853 progenitor star parts [t=316.366 s]
+progen : Gathered ID info for 4390759 progenitor stars out of 7162118 total stars [t=319.14 s]
+progen : Sorted progenitor IDs [t=319.65 s]
+progen : Out of 6908 galaxies, most common prog 0 appeared 35 times. 1874 had no progenitors.
+progen : Doing pair [151, 127] [t=325.176 s]
+yt : [INFO     ] 2019-06-29 10:36:51,752 Reading /home/rad/data/m50n512/s50/Groups/m50n512_127.hdf5
+yt : [INFO     ] 2019-06-29 10:36:51,836 Restoring galaxy attributes
+Returning STAR  Particle IDs
+Returning STAR  Particle IDs
+Returning STAR  ID_Generations
+Returning STAR  ID_Generations
+progen : Read ID info for 7162118 current star parts and 6095680 progenitor star parts [t=330.166 s]
+progen : Gathered ID info for 4350192 progenitor stars out of 7162118 total stars [t=332.934 s]
+progen : Sorted progenitor IDs [t=333.44 s]
+progen : Out of 6908 galaxies, most common prog 3 appeared 31 times. 2003 had no progenitors.
+progen : Doing pair [151, 126] [t=339.183 s]
+yt : [INFO     ] 2019-06-29 10:37:05,759 Reading /home/rad/data/m50n512/s50/Groups/m50n512_126.hdf5
+yt : [INFO     ] 2019-06-29 10:37:05,850 Restoring galaxy attributes
+Returning STAR  Particle IDs
+Returning STAR  Particle IDs
+Returning STAR  ID_Generations
+Returning STAR  ID_Generations
+progen : Read ID info for 7162118 current star parts and 6036032 progenitor star parts [t=343.549 s]
+progen : Gathered ID info for 4242398 progenitor stars out of 7162118 total stars [t=346.365 s]
+progen : Sorted progenitor IDs [t=346.865 s]
+progen : Out of 6908 galaxies, most common prog 3 appeared 27 times. 2657 had no progenitors.
+progen : Doing pair [151, 125] [t=352.228 s]
+yt : [INFO     ] 2019-06-29 10:37:18,804 Reading /home/rad/data/m50n512/s50/Groups/m50n512_125.hdf5
+yt : [INFO     ] 2019-06-29 10:37:18,894 Restoring galaxy attributes
+Returning STAR  Particle IDs
+Returning STAR  Particle IDs
+Returning STAR  ID_Generations
+Returning STAR  ID_Generations
+progen : Read ID info for 7162118 current star parts and 5974292 progenitor star parts [t=357.204 s]
+progen : Gathered ID info for 4284218 progenitor stars out of 7162118 total stars [t=360.117 s]
+progen : Sorted progenitor IDs [t=360.639 s]
+progen : Out of 6908 galaxies, most common prog 3 appeared 28 times. 2187 had no progenitors.
+progen : Doing pair [151, 124] [t=366.282 s]
+yt : [INFO     ] 2019-06-29 10:37:32,858 Reading /home/rad/data/m50n512/s50/Groups/m50n512_124.hdf5
+yt : [INFO     ] 2019-06-29 10:37:32,955 Restoring galaxy attributes
+Returning STAR  Particle IDs
+Returning STAR  Particle IDs
+Returning STAR  ID_Generations
+Returning STAR  ID_Generations
+progen : Read ID info for 7162118 current star parts and 5911915 progenitor star parts [t=370.93 s]
+progen : Gathered ID info for 4243280 progenitor stars out of 7162118 total stars [t=373.636 s]
+progen : Sorted progenitor IDs [t=374.118 s]
+progen : Out of 6908 galaxies, most common prog 3 appeared 29 times. 2312 had no progenitors.
+progen : Doing pair [151, 123] [t=379.615 s]
+yt : [INFO     ] 2019-06-29 10:37:46,192 Reading /home/rad/data/m50n512/s50/Groups/m50n512_123.hdf5
+yt : [INFO     ] 2019-06-29 10:37:46,283 Restoring galaxy attributes
+Returning STAR  Particle IDs
+Returning STAR  Particle IDs
+Returning STAR  ID_Generations
+Returning STAR  ID_Generations
+progen : Read ID info for 7162118 current star parts and 5847702 progenitor star parts [t=383.994 s]
+progen : Gathered ID info for 4202668 progenitor stars out of 7162118 total stars [t=386.787 s]
+progen : Sorted progenitor IDs [t=387.302 s]
+progen : Out of 6908 galaxies, most common prog 3 appeared 30 times. 2395 had no progenitors.
+progen : Doing pair [151, 122] [t=392.937 s]
+yt : [INFO     ] 2019-06-29 10:37:59,514 Reading /home/rad/data/m50n512/s50/Groups/m50n512_122.hdf5
+yt : [INFO     ] 2019-06-29 10:37:59,612 Restoring galaxy attributes
+Returning STAR  Particle IDs
+Returning STAR  Particle IDs
+Returning STAR  ID_Generations
+Returning STAR  ID_Generations
+progen : Read ID info for 7162118 current star parts and 5780616 progenitor star parts [t=397.432 s]
+progen : Gathered ID info for 4167603 progenitor stars out of 7162118 total stars [t=400.313 s]
+progen : Sorted progenitor IDs [t=400.816 s]
+progen : Out of 6908 galaxies, most common prog 3 appeared 32 times. 2533 had no progenitors.
+progen : Doing pair [151, 121] [t=406.308 s]
+yt : [INFO     ] 2019-06-29 10:38:12,884 Reading /home/rad/data/m50n512/s50/Groups/m50n512_121.hdf5
+yt : [INFO     ] 2019-06-29 10:38:12,980 Restoring galaxy attributes
+Returning STAR  Particle IDs
+Returning STAR  Particle IDs
+Returning STAR  ID_Generations
+Returning STAR  ID_Generations
+progen : Read ID info for 7162118 current star parts and 5712672 progenitor star parts [t=411.135 s]
+progen : Gathered ID info for 4134212 progenitor stars out of 7162118 total stars [t=413.847 s]
+progen : Sorted progenitor IDs [t=414.309 s]
+progen : Out of 6908 galaxies, most common prog 3 appeared 29 times. 2625 had no progenitors.
+progen : Doing pair [151, 120] [t=419.685 s]
+yt : [INFO     ] 2019-06-29 10:38:26,261 Reading /home/rad/data/m50n512/s50/Groups/m50n512_120.hdf5
+yt : [INFO     ] 2019-06-29 10:38:26,347 Restoring galaxy attributes
+Returning STAR  Particle IDs
+Returning STAR  Particle IDs
+Returning STAR  ID_Generations
+Returning STAR  ID_Generations
+progen : Read ID info for 7162118 current star parts and 5643031 progenitor star parts [t=424.269 s]
+progen : Gathered ID info for 4077153 progenitor stars out of 7162118 total stars [t=426.927 s]
+progen : Sorted progenitor IDs [t=427.493 s]
+progen : Out of 6908 galaxies, most common prog 3 appeared 28 times. 2731 had no progenitors.
+progen : Doing pair [151, 119] [t=433.25 s]
+yt : [INFO     ] 2019-06-29 10:38:39,827 Reading /home/rad/data/m50n512/s50/Groups/m50n512_119.hdf5
+yt : [INFO     ] 2019-06-29 10:38:39,918 Restoring galaxy attributes
+Returning STAR  Particle IDs
+Returning STAR  Particle IDs
+Returning STAR  ID_Generations
+Returning STAR  ID_Generations
+progen : Read ID info for 7162118 current star parts and 5569458 progenitor star parts [t=438.622 s]
+progen : Gathered ID info for 4037486 progenitor stars out of 7162118 total stars [t=441.378 s]
+progen : Sorted progenitor IDs [t=441.851 s]
+progen : Out of 6908 galaxies, most common prog 3 appeared 30 times. 2836 had no progenitors.
+progen : Doing pair [151, 118] [t=447.548 s]
+yt : [INFO     ] 2019-06-29 10:38:54,124 Reading /home/rad/data/m50n512/s50/Groups/m50n512_118.hdf5
+yt : [INFO     ] 2019-06-29 10:38:54,215 Restoring galaxy attributes
+Returning STAR  Particle IDs
+Returning STAR  Particle IDs
+Returning STAR  ID_Generations
+Returning STAR  ID_Generations
+progen : Read ID info for 7162118 current star parts and 5494744 progenitor star parts [t=452.456 s]
+progen : Gathered ID info for 3984339 progenitor stars out of 7162118 total stars [t=455.15 s]
+progen : Sorted progenitor IDs [t=455.617 s]
+progen : Out of 6908 galaxies, most common prog 3 appeared 30 times. 2933 had no progenitors.
+progen : Doing pair [151, 117] [t=461.18 s]
+yt : [INFO     ] 2019-06-29 10:39:07,757 Reading /home/rad/data/m50n512/s50/Groups/m50n512_117.hdf5
+yt : [INFO     ] 2019-06-29 10:39:07,859 Restoring galaxy attributes
+Returning STAR  Particle IDs
+Returning STAR  Particle IDs
+Returning STAR  ID_Generations
+Returning STAR  ID_Generations
+progen : Read ID info for 7162118 current star parts and 5417614 progenitor star parts [t=466.209 s]
+progen : Gathered ID info for 3939250 progenitor stars out of 7162118 total stars [t=468.684 s]
+progen : Sorted progenitor IDs [t=469.138 s]
+progen : Out of 6908 galaxies, most common prog 4 appeared 30 times. 3021 had no progenitors.
+progen : Doing pair [151, 115] [t=474.345 s]
+yt : [INFO     ] 2019-06-29 10:39:20,921 Reading /home/rad/data/m50n512/s50/Groups/m50n512_115.hdf5
+yt : [INFO     ] 2019-06-29 10:39:21,010 Restoring galaxy attributes
+Returning STAR  Particle IDs
+Returning STAR  Particle IDs
+Returning STAR  ID_Generations
+Returning STAR  ID_Generations
+progen : Read ID info for 7162118 current star parts and 5259816 progenitor star parts [t=479.097 s]
+progen : Gathered ID info for 3833937 progenitor stars out of 7162118 total stars [t=481.675 s]
+progen : Sorted progenitor IDs [t=482.098 s]
+progen : Out of 6908 galaxies, most common prog 3 appeared 30 times. 3228 had no progenitors.
+progen : Doing pair [151, 114] [t=487.345 s]
+yt : [INFO     ] 2019-06-29 10:39:33,921 Reading /home/rad/data/m50n512/s50/Groups/m50n512_114.hdf5
+yt : [INFO     ] 2019-06-29 10:39:34,027 Restoring galaxy attributes
+Returning STAR  Particle IDs
+Returning STAR  Particle IDs
+Returning STAR  ID_Generations
+Returning STAR  ID_Generations
+progen : Read ID info for 7162118 current star parts and 5178483 progenitor star parts [t=491.625 s]
+progen : Gathered ID info for 3798462 progenitor stars out of 7162118 total stars [t=493.969 s]
+progen : Sorted progenitor IDs [t=494.388 s]
+progen : Out of 6908 galaxies, most common prog 5 appeared 28 times. 3304 had no progenitors.
+progen : Doing pair [151, 113] [t=499.513 s]
+yt : [INFO     ] 2019-06-29 10:39:46,089 Reading /home/rad/data/m50n512/s50/Groups/m50n512_113.hdf5
+yt : [INFO     ] 2019-06-29 10:39:46,174 Restoring galaxy attributes
+Returning STAR  Particle IDs
+Returning STAR  Particle IDs
+Returning STAR  ID_Generations
+Returning STAR  ID_Generations
+progen : Read ID info for 7162118 current star parts and 5095471 progenitor star parts [t=503.764 s]
+progen : Gathered ID info for 3744503 progenitor stars out of 7162118 total stars [t=506.172 s]
+progen : Sorted progenitor IDs [t=506.575 s]
+progen : Out of 6908 galaxies, most common prog 4 appeared 29 times. 3400 had no progenitors.
+progen : Doing pair [151, 112] [t=511.61 s]
+yt : [INFO     ] 2019-06-29 10:39:58,186 Reading /home/rad/data/m50n512/s50/Groups/m50n512_112.hdf5
+yt : [INFO     ] 2019-06-29 10:39:58,269 Restoring galaxy attributes
+Returning STAR  Particle IDs
+Returning STAR  Particle IDs
+Returning STAR  ID_Generations
+Returning STAR  ID_Generations
+progen : Read ID info for 7162118 current star parts and 5011598 progenitor star parts [t=516.21 s]
+progen : Gathered ID info for 3689289 progenitor stars out of 7162118 total stars [t=518.487 s]
+progen : Sorted progenitor IDs [t=518.883 s]
+progen : Out of 6908 galaxies, most common prog 4 appeared 33 times. 3515 had no progenitors.
+progen : Doing pair [151, 111] [t=523.909 s]
+yt : [INFO     ] 2019-06-29 10:40:10,486 Reading /home/rad/data/m50n512/s50/Groups/m50n512_111.hdf5
+yt : [INFO     ] 2019-06-29 10:40:10,565 Restoring galaxy attributes
+Returning STAR  Particle IDs
+Returning STAR  Particle IDs
+Returning STAR  ID_Generations
+Returning STAR  ID_Generations
+progen : Read ID info for 7162118 current star parts and 4927695 progenitor star parts [t=527.995 s]
+progen : Gathered ID info for 3630058 progenitor stars out of 7162118 total stars [t=530.277 s]
+progen : Sorted progenitor IDs [t=530.667 s]
+progen : Out of 6908 galaxies, most common prog 2 appeared 29 times. 3614 had no progenitors.
+progen : Doing pair [151, 110] [t=535.772 s]
+yt : [INFO     ] 2019-06-29 10:40:22,348 Reading /home/rad/data/m50n512/s50/Groups/m50n512_110.hdf5
+yt : [INFO     ] 2019-06-29 10:40:22,442 Restoring galaxy attributes
+Returning STAR  Particle IDs
+Returning STAR  Particle IDs
+Returning STAR  ID_Generations
+Returning STAR  ID_Generations
+progen : Read ID info for 7162118 current star parts and 4843816 progenitor star parts [t=539.84 s]
+progen : Gathered ID info for 3572443 progenitor stars out of 7162118 total stars [t=542.003 s]
+progen : Sorted progenitor IDs [t=542.388 s]
+progen : Out of 6908 galaxies, most common prog 3 appeared 28 times. 3728 had no progenitors.
+progen : Doing pair [151, 109] [t=547.424 s]
+yt : [INFO     ] 2019-06-29 10:40:34,000 Reading /home/rad/data/m50n512/s50/Groups/m50n512_109.hdf5
+yt : [INFO     ] 2019-06-29 10:40:34,091 Restoring galaxy attributes
+Returning STAR  Particle IDs
+Returning STAR  Particle IDs
+Returning STAR  ID_Generations
+Returning STAR  ID_Generations
+progen : Read ID info for 7162118 current star parts and 4759355 progenitor star parts [t=551.569 s]
+progen : Gathered ID info for 3503300 progenitor stars out of 7162118 total stars [t=553.763 s]
+progen : Sorted progenitor IDs [t=554.139 s]
+progen : Out of 6908 galaxies, most common prog 4 appeared 30 times. 3826 had no progenitors.
+progen : Doing pair [151, 108] [t=559.117 s]
+yt : [INFO     ] 2019-06-29 10:40:45,693 Reading /home/rad/data/m50n512/s50/Groups/m50n512_108.hdf5
+yt : [INFO     ] 2019-06-29 10:40:45,778 Restoring galaxy attributes
+Returning STAR  Particle IDs
+Returning STAR  Particle IDs
+Returning STAR  ID_Generations
+Returning STAR  ID_Generations
+progen : Read ID info for 7162118 current star parts and 4676017 progenitor star parts [t=563.208 s]
+progen : Gathered ID info for 3446895 progenitor stars out of 7162118 total stars [t=565.399 s]
+progen : Sorted progenitor IDs [t=565.774 s]
+progen : Out of 6908 galaxies, most common prog 3 appeared 28 times. 3902 had no progenitors.
+progen : Doing pair [151, 107] [t=570.769 s]
+yt : [INFO     ] 2019-06-29 10:40:57,345 Reading /home/rad/data/m50n512/s50/Groups/m50n512_107.hdf5
+yt : [INFO     ] 2019-06-29 10:40:57,441 Restoring galaxy attributes
+Returning STAR  Particle IDs
+Returning STAR  Particle IDs
+Returning STAR  ID_Generations
+Returning STAR  ID_Generations
+progen : Read ID info for 7162118 current star parts and 4592636 progenitor star parts [t=575.304 s]
+progen : Gathered ID info for 3377828 progenitor stars out of 7162118 total stars [t=577.573 s]
+progen : Sorted progenitor IDs [t=577.954 s]
+progen : Out of 6908 galaxies, most common prog 3 appeared 31 times. 3979 had no progenitors.
+progen : Doing pair [151, 106] [t=582.982 s]
+yt : [INFO     ] 2019-06-29 10:41:09,558 Reading /home/rad/data/m50n512/s50/Groups/m50n512_106.hdf5
+yt : [INFO     ] 2019-06-29 10:41:09,660 Restoring galaxy attributes
+Returning STAR  Particle IDs
+Returning STAR  Particle IDs
+Returning STAR  ID_Generations
+Returning STAR  ID_Generations
+progen : Read ID info for 7162118 current star parts and 4507700 progenitor star parts [t=586.873 s]
+progen : Gathered ID info for 3318759 progenitor stars out of 7162118 total stars [t=588.978 s]
+progen : Sorted progenitor IDs [t=589.331 s]
+progen : Out of 6908 galaxies, most common prog 3 appeared 29 times. 4051 had no progenitors.
+progen : Doing pair [151, 105] [t=594.251 s]
+yt : [INFO     ] 2019-06-29 10:41:20,828 Reading /home/rad/data/m50n512/s50/Groups/m50n512_105.hdf5
+yt : [INFO     ] 2019-06-29 10:41:20,920 Restoring galaxy attributes
+Returning STAR  Particle IDs
+Returning STAR  Particle IDs
+Returning STAR  ID_Generations
+Returning STAR  ID_Generations
+progen : Read ID info for 7162118 current star parts and 4424213 progenitor star parts [t=598.179 s]
+progen : Gathered ID info for 3254671 progenitor stars out of 7162118 total stars [t=600.245 s]
+progen : Sorted progenitor IDs [t=600.59 s]
+progen : Out of 6908 galaxies, most common prog 4 appeared 30 times. 4152 had no progenitors.
+progen : Doing pair [151, 104] [t=605.483 s]
+yt : [INFO     ] 2019-06-29 10:41:32,059 Reading /home/rad/data/m50n512/s50/Groups/m50n512_104.hdf5
+yt : [INFO     ] 2019-06-29 10:41:32,152 Restoring galaxy attributes
+Returning STAR  Particle IDs
+Returning STAR  Particle IDs
+Returning STAR  ID_Generations
+Returning STAR  ID_Generations
+progen : Read ID info for 7162118 current star parts and 4340496 progenitor star parts [t=609.7 s]
+progen : Gathered ID info for 3193180 progenitor stars out of 7162118 total stars [t=611.793 s]
+progen : Sorted progenitor IDs [t=612.122 s]
+progen : Out of 6908 galaxies, most common prog 4 appeared 29 times. 4252 had no progenitors.
+progen : Doing pair [151, 103] [t=617.07 s]
+yt : [INFO     ] 2019-06-29 10:41:43,646 Reading /home/rad/data/m50n512/s50/Groups/m50n512_103.hdf5
+yt : [INFO     ] 2019-06-29 10:41:43,746 Restoring galaxy attributes
+Returning STAR  Particle IDs
+Returning STAR  Particle IDs
+Returning STAR  ID_Generations
+Returning STAR  ID_Generations
+progen : Read ID info for 7162118 current star parts and 4256990 progenitor star parts [t=620.194 s]
+progen : Gathered ID info for 3111147 progenitor stars out of 7162118 total stars [t=622.238 s]
+progen : Sorted progenitor IDs [t=622.565 s]
+progen : Out of 6908 galaxies, most common prog 3 appeared 30 times. 4559 had no progenitors.
+progen : Doing pair [151, 102] [t=627.424 s]
+yt : [INFO     ] 2019-06-29 10:41:54,000 Reading /home/rad/data/m50n512/s50/Groups/m50n512_102.hdf5
+yt : [INFO     ] 2019-06-29 10:41:54,088 Restoring galaxy attributes
+Returning STAR  Particle IDs
+Returning STAR  Particle IDs
+Returning STAR  ID_Generations
+Returning STAR  ID_Generations
+progen : Read ID info for 7162118 current star parts and 4172064 progenitor star parts [t=631.256 s]
+progen : Gathered ID info for 3068687 progenitor stars out of 7162118 total stars [t=633.268 s]
+progen : Sorted progenitor IDs [t=633.586 s]
+progen : Out of 6908 galaxies, most common prog 3 appeared 31 times. 4401 had no progenitors.
+progen : Doing pair [151, 101] [t=638.687 s]
+yt : [INFO     ] 2019-06-29 10:42:05,263 Reading /home/rad/data/m50n512/s50/Groups/m50n512_101.hdf5
+yt : [INFO     ] 2019-06-29 10:42:05,345 Restoring galaxy attributes
+Returning STAR  Particle IDs
+Returning STAR  Particle IDs
+Returning STAR  ID_Generations
+Returning STAR  ID_Generations
+progen : Read ID info for 7162118 current star parts and 4088876 progenitor star parts [t=642.54 s]
+progen : Gathered ID info for 3006809 progenitor stars out of 7162118 total stars [t=644.563 s]
+progen : Sorted progenitor IDs [t=644.869 s]
+progen : Out of 6908 galaxies, most common prog 3 appeared 31 times. 4490 had no progenitors.
+progen : Doing pair [151, 100] [t=649.662 s]
+yt : [INFO     ] 2019-06-29 10:42:16,239 Reading /home/rad/data/m50n512/s50/Groups/m50n512_100.hdf5
+yt : [INFO     ] 2019-06-29 10:42:16,326 Restoring galaxy attributes
+Returning STAR  Particle IDs
+Returning STAR  Particle IDs
+Returning STAR  ID_Generations
+Returning STAR  ID_Generations
+progen : Read ID info for 7162118 current star parts and 4003208 progenitor star parts [t=653.388 s]
+progen : Gathered ID info for 2943990 progenitor stars out of 7162118 total stars [t=655.375 s]
+progen : Sorted progenitor IDs [t=655.67 s]
+progen : Out of 6908 galaxies, most common prog 3 appeared 32 times. 4608 had no progenitors.
+progen : Doing pair [151, 99] [t=660.444 s]
+yt : [INFO     ] 2019-06-29 10:42:27,021 Reading /home/rad/data/m50n512/s50/Groups/m50n512_099.hdf5
+yt : [INFO     ] 2019-06-29 10:42:27,116 Restoring galaxy attributes
+Returning STAR  Particle IDs
+Returning STAR  Particle IDs
+Returning STAR  ID_Generations
+Returning STAR  ID_Generations
+progen : Read ID info for 7162118 current star parts and 3917442 progenitor star parts [t=664.663 s]
+progen : Gathered ID info for 2875622 progenitor stars out of 7162118 total stars [t=666.589 s]
+progen : Sorted progenitor IDs [t=666.88 s]
+progen : Out of 6908 galaxies, most common prog 2 appeared 28 times. 4710 had no progenitors.
+progen : Doing pair [151, 98] [t=671.648 s]
+yt : [INFO     ] 2019-06-29 10:42:38,224 Reading /home/rad/data/m50n512/s50/Groups/m50n512_098.hdf5
+yt : [INFO     ] 2019-06-29 10:42:38,320 Restoring galaxy attributes
+Returning STAR  Particle IDs
+Returning STAR  Particle IDs
+Returning STAR  ID_Generations
+Returning STAR  ID_Generations
+progen : Read ID info for 7162118 current star parts and 3829973 progenitor star parts [t=674.812 s]
+progen : Gathered ID info for 2806707 progenitor stars out of 7162118 total stars [t=676.623 s]
+progen : Sorted progenitor IDs [t=676.912 s]
+progen : Out of 6908 galaxies, most common prog 3 appeared 29 times. 4984 had no progenitors.
+progen : Doing pair [151, 97] [t=681.666 s]
+yt : [INFO     ] 2019-06-29 10:42:48,242 Reading /home/rad/data/m50n512/s50/Groups/m50n512_097.hdf5
+yt : [INFO     ] 2019-06-29 10:42:48,342 Restoring galaxy attributes
+Returning STAR  Particle IDs
+Returning STAR  Particle IDs
+Returning STAR  ID_Generations
+Returning STAR  ID_Generations
+progen : Read ID info for 7162118 current star parts and 3742796 progenitor star parts [t=685.712 s]
+progen : Gathered ID info for 2761867 progenitor stars out of 7162118 total stars [t=687.501 s]
+progen : Sorted progenitor IDs [t=687.774 s]
+progen : Out of 6908 galaxies, most common prog 3 appeared 29 times. 4860 had no progenitors.
+progen : Doing pair [151, 96] [t=692.548 s]
+yt : [INFO     ] 2019-06-29 10:42:59,124 Reading /home/rad/data/m50n512/s50/Groups/m50n512_096.hdf5
+yt : [INFO     ] 2019-06-29 10:42:59,225 Restoring galaxy attributes
+Returning STAR  Particle IDs
+Returning STAR  Particle IDs
+Returning STAR  ID_Generations
+Returning STAR  ID_Generations
+progen : Read ID info for 7162118 current star parts and 3657157 progenitor star parts [t=696.39 s]
+progen : Gathered ID info for 2696784 progenitor stars out of 7162118 total stars [t=698.17 s]
+progen : Sorted progenitor IDs [t=698.444 s]
+progen : Out of 6908 galaxies, most common prog 4 appeared 28 times. 4914 had no progenitors.
+progen : Doing pair [151, 95] [t=703.155 s]
+yt : [INFO     ] 2019-06-29 10:43:09,731 Reading /home/rad/data/m50n512/s50/Groups/m50n512_095.hdf5
+yt : [INFO     ] 2019-06-29 10:43:09,829 Restoring galaxy attributes
+Returning STAR  Particle IDs
+Returning STAR  Particle IDs
+Returning STAR  ID_Generations
+Returning STAR  ID_Generations
+progen : Read ID info for 7162118 current star parts and 3571188 progenitor star parts [t=706.992 s]
+progen : Gathered ID info for 2635651 progenitor stars out of 7162118 total stars [t=708.78 s]
+progen : Sorted progenitor IDs [t=709.053 s]
+progen : Out of 6908 galaxies, most common prog 3 appeared 31 times. 4978 had no progenitors.
+progen : Doing pair [151, 94] [t=713.734 s]
+yt : [INFO     ] 2019-06-29 10:43:20,310 Reading /home/rad/data/m50n512/s50/Groups/m50n512_094.hdf5
+yt : [INFO     ] 2019-06-29 10:43:20,413 Restoring galaxy attributes
+Returning STAR  Particle IDs
+Returning STAR  Particle IDs
+Returning STAR  ID_Generations
+Returning STAR  ID_Generations
+progen : Read ID info for 7162118 current star parts and 3481870 progenitor star parts [t=717.936 s]
+progen : Gathered ID info for 2560993 progenitor stars out of 7162118 total stars [t=719.675 s]
+progen : Sorted progenitor IDs [t=719.939 s]
+progen : Out of 6908 galaxies, most common prog 3 appeared 31 times. 5055 had no progenitors.
+progen : Doing pair [151, 93] [t=724.724 s]
+yt : [INFO     ] 2019-06-29 10:43:31,300 Reading /home/rad/data/m50n512/s50/Groups/m50n512_093.hdf5
+yt : [INFO     ] 2019-06-29 10:43:31,396 Restoring galaxy attributes
+Returning STAR  Particle IDs
+Returning STAR  Particle IDs
+Returning STAR  ID_Generations
+Returning STAR  ID_Generations
+progen : Read ID info for 7162118 current star parts and 3393997 progenitor star parts [t=728.696 s]
+progen : Gathered ID info for 2496467 progenitor stars out of 7162118 total stars [t=730.381 s]
+progen : Sorted progenitor IDs [t=730.631 s]
+progen : Out of 6908 galaxies, most common prog 2 appeared 30 times. 5124 had no progenitors.
+progen : Doing pair [151, 92] [t=735.313 s]
+yt : [INFO     ] 2019-06-29 10:43:41,889 Reading /home/rad/data/m50n512/s50/Groups/m50n512_092.hdf5
+yt : [INFO     ] 2019-06-29 10:43:41,985 Restoring galaxy attributes
+Returning STAR  Particle IDs
+Returning STAR  Particle IDs
+Returning STAR  ID_Generations
+Returning STAR  ID_Generations
+progen : Read ID info for 7162118 current star parts and 3306400 progenitor star parts [t=738.852 s]
+progen : Gathered ID info for 2433932 progenitor stars out of 7162118 total stars [t=740.518 s]
+progen : Sorted progenitor IDs [t=740.752 s]
+progen : Out of 6908 galaxies, most common prog 2 appeared 31 times. 5192 had no progenitors.
+progen : Doing pair [151, 91] [t=745.37 s]
+yt : [INFO     ] 2019-06-29 10:43:51,947 Reading /home/rad/data/m50n512/s50/Groups/m50n512_091.hdf5
+yt : [INFO     ] 2019-06-29 10:43:52,050 Restoring galaxy attributes
+Returning STAR  Particle IDs
+Returning STAR  Particle IDs
+Returning STAR  ID_Generations
+Returning STAR  ID_Generations
+progen : Read ID info for 7162118 current star parts and 3220490 progenitor star parts [t=749.034 s]
+progen : Gathered ID info for 2364310 progenitor stars out of 7162118 total stars [t=750.677 s]
+progen : Sorted progenitor IDs [t=750.917 s]
+progen : Out of 6908 galaxies, most common prog 2 appeared 31 times. 5251 had no progenitors.
+progen : Doing pair [151, 90] [t=755.513 s]
+yt : [INFO     ] 2019-06-29 10:44:02,089 Reading /home/rad/data/m50n512/s50/Groups/m50n512_090.hdf5
+yt : [INFO     ] 2019-06-29 10:44:02,188 Restoring galaxy attributes
+Returning STAR  Particle IDs
+Returning STAR  Particle IDs
+Returning STAR  ID_Generations
+Returning STAR  ID_Generations
+progen : Read ID info for 7162118 current star parts and 3132190 progenitor star parts [t=759.101 s]
+progen : Gathered ID info for 2290448 progenitor stars out of 7162118 total stars [t=760.789 s]
+progen : Sorted progenitor IDs [t=761.022 s]
+progen : Out of 6908 galaxies, most common prog 2 appeared 31 times. 5324 had no progenitors.
+progen : Doing pair [151, 89] [t=765.57 s]
+yt : [INFO     ] 2019-06-29 10:44:12,146 Reading /home/rad/data/m50n512/s50/Groups/m50n512_089.hdf5
+yt : [INFO     ] 2019-06-29 10:44:12,236 Restoring galaxy attributes
+Returning STAR  Particle IDs
+Returning STAR  Particle IDs
+Returning STAR  ID_Generations
+Returning STAR  ID_Generations
+progen : Read ID info for 7162118 current star parts and 3043410 progenitor star parts [t=769.489 s]
+progen : Gathered ID info for 2222639 progenitor stars out of 7162118 total stars [t=771.051 s]
+progen : Sorted progenitor IDs [t=771.265 s]
+progen : Out of 6908 galaxies, most common prog 3 appeared 30 times. 5364 had no progenitors.
+progen : Doing pair [151, 88] [t=775.802 s]
+yt : [INFO     ] 2019-06-29 10:44:22,378 Reading /home/rad/data/m50n512/s50/Groups/m50n512_088.hdf5
+yt : [INFO     ] 2019-06-29 10:44:22,476 Restoring galaxy attributes
+Returning STAR  Particle IDs
+Returning STAR  Particle IDs
+Returning STAR  ID_Generations
+Returning STAR  ID_Generations
+progen : Read ID info for 7162118 current star parts and 2953580 progenitor star parts [t=779.341 s]
+progen : Gathered ID info for 2153610 progenitor stars out of 7162118 total stars [t=780.892 s]
+progen : Sorted progenitor IDs [t=781.102 s]
+progen : Out of 6908 galaxies, most common prog 2 appeared 30 times. 5431 had no progenitors.
+progen : Doing pair [151, 87] [t=785.672 s]
+yt : [INFO     ] 2019-06-29 10:44:32,249 Reading /home/rad/data/m50n512/s50/Groups/m50n512_087.hdf5
+yt : [INFO     ] 2019-06-29 10:44:32,356 Restoring galaxy attributes
+Returning STAR  Particle IDs
+Returning STAR  Particle IDs
+Returning STAR  ID_Generations
+Returning STAR  ID_Generations
+progen : Read ID info for 7162118 current star parts and 2865571 progenitor star parts [t=789.307 s]
+progen : Gathered ID info for 2085780 progenitor stars out of 7162118 total stars [t=790.903 s]
+progen : Sorted progenitor IDs [t=791.107 s]
+progen : Out of 6908 galaxies, most common prog 2 appeared 28 times. 5508 had no progenitors.
+progen : Doing pair [151, 86] [t=795.767 s]
+yt : [INFO     ] 2019-06-29 10:44:42,343 Reading /home/rad/data/m50n512/s50/Groups/m50n512_086.hdf5
+yt : [INFO     ] 2019-06-29 10:44:42,442 Restoring galaxy attributes
+Returning STAR  Particle IDs
+Returning STAR  Particle IDs
+Returning STAR  ID_Generations
+Returning STAR  ID_Generations
+progen : Read ID info for 7162118 current star parts and 2778929 progenitor star parts [t=799.414 s]
+progen : Gathered ID info for 2019507 progenitor stars out of 7162118 total stars [t=800.957 s]
+progen : Sorted progenitor IDs [t=801.154 s]
+progen : Out of 6908 galaxies, most common prog 2 appeared 30 times. 5541 had no progenitors.
+progen : Doing pair [151, 85] [t=805.655 s]
+yt : [INFO     ] 2019-06-29 10:44:52,231 Reading /home/rad/data/m50n512/s50/Groups/m50n512_085.hdf5
+yt : [INFO     ] 2019-06-29 10:44:52,328 Restoring galaxy attributes
+Returning STAR  Particle IDs
+Returning STAR  Particle IDs
+Returning STAR  ID_Generations
+Returning STAR  ID_Generations
+progen : Read ID info for 7162118 current star parts and 2692632 progenitor star parts [t=809.466 s]
+progen : Gathered ID info for 1946324 progenitor stars out of 7162118 total stars [t=810.859 s]
+progen : Sorted progenitor IDs [t=811.049 s]
+progen : Out of 6908 galaxies, most common prog 2 appeared 29 times. 5599 had no progenitors.
+progen : Doing pair [151, 84] [t=815.646 s]
+yt : [INFO     ] 2019-06-29 10:45:02,222 Reading /home/rad/data/m50n512/s50/Groups/m50n512_084.hdf5
+yt : [INFO     ] 2019-06-29 10:45:02,311 Restoring galaxy attributes
+Returning STAR  Particle IDs
+Returning STAR  Particle IDs
+Returning STAR  ID_Generations
+Returning STAR  ID_Generations
+progen : Read ID info for 7162118 current star parts and 2605386 progenitor star parts [t=818.064 s]
+progen : Gathered ID info for 1775272 progenitor stars out of 7162118 total stars [t=819.497 s]
+progen : Sorted progenitor IDs [t=819.67 s]
+progen : Out of 6908 galaxies, most common prog 2 appeared 28 times. 5949 had no progenitors.
+progen : Doing pair [151, 83] [t=824.106 s]
+yt : [INFO     ] 2019-06-29 10:45:10,682 Reading /home/rad/data/m50n512/s50/Groups/m50n512_083.hdf5
+yt : [INFO     ] 2019-06-29 10:45:10,780 Restoring galaxy attributes
+Returning STAR  Particle IDs
+Returning STAR  Particle IDs
+Returning STAR  ID_Generations
+Returning STAR  ID_Generations
+progen : Read ID info for 7162118 current star parts and 2519091 progenitor star parts [t=828.12 s]
+progen : Gathered ID info for 1822216 progenitor stars out of 7162118 total stars [t=829.636 s]
+progen : Sorted progenitor IDs [t=829.804 s]
+progen : Out of 6908 galaxies, most common prog 2 appeared 28 times. 5710 had no progenitors.
+progen : Doing pair [151, 82] [t=834.324 s]
+yt : [INFO     ] 2019-06-29 10:45:20,901 Reading /home/rad/data/m50n512/s50/Groups/m50n512_082.hdf5
+yt : [INFO     ] 2019-06-29 10:45:21,000 Restoring galaxy attributes
+Returning STAR  Particle IDs
+Returning STAR  Particle IDs
+Returning STAR  ID_Generations
+Returning STAR  ID_Generations
+progen : Read ID info for 7162118 current star parts and 2430315 progenitor star parts [t=837.799 s]
+progen : Gathered ID info for 1759079 progenitor stars out of 7162118 total stars [t=839.244 s]
+progen : Sorted progenitor IDs [t=839.414 s]
+progen : Out of 6908 galaxies, most common prog 1 appeared 28 times. 5746 had no progenitors.
+progen : Doing pair [151, 81] [t=843.842 s]
+yt : [INFO     ] 2019-06-29 10:45:30,418 Reading /home/rad/data/m50n512/s50/Groups/m50n512_081.hdf5
+yt : [INFO     ] 2019-06-29 10:45:30,530 Restoring galaxy attributes
+Returning STAR  Particle IDs
+Returning STAR  Particle IDs
+Returning STAR  ID_Generations
+Returning STAR  ID_Generations
+progen : Read ID info for 7162118 current star parts and 2344686 progenitor star parts [t=847.409 s]
+progen : Gathered ID info for 1694865 progenitor stars out of 7162118 total stars [t=848.688 s]
+progen : Sorted progenitor IDs [t=848.852 s]
+progen : Out of 6908 galaxies, most common prog 3 appeared 25 times. 5816 had no progenitors.
+progen : Doing pair [151, 80] [t=853.241 s]
+yt : [INFO     ] 2019-06-29 10:45:39,817 Reading /home/rad/data/m50n512/s50/Groups/m50n512_080.hdf5
+yt : [INFO     ] 2019-06-29 10:45:39,918 Restoring galaxy attributes
+Returning STAR  Particle IDs
+Returning STAR  Particle IDs
+Returning STAR  ID_Generations
+Returning STAR  ID_Generations
+progen : Read ID info for 7162118 current star parts and 2259890 progenitor star parts [t=856.735 s]
+progen : Gathered ID info for 1631490 progenitor stars out of 7162118 total stars [t=858.009 s]
+progen : Sorted progenitor IDs [t=858.156 s]
+progen : Out of 6908 galaxies, most common prog 4 appeared 21 times. 5841 had no progenitors.
+progen : Doing pair [151, 79] [t=862.539 s]
+yt : [INFO     ] 2019-06-29 10:45:49,115 Reading /home/rad/data/m50n512/s50/Groups/m50n512_079.hdf5
+yt : [INFO     ] 2019-06-29 10:45:49,207 Restoring galaxy attributes
+Returning STAR  Particle IDs
+Returning STAR  Particle IDs
+Returning STAR  ID_Generations
+Returning STAR  ID_Generations
+progen : Read ID info for 7162118 current star parts and 2177043 progenitor star parts [t=866.092 s]
+progen : Gathered ID info for 1565844 progenitor stars out of 7162118 total stars [t=867.331 s]
+progen : Sorted progenitor IDs [t=867.47 s]
+progen : Out of 6908 galaxies, most common prog 1 appeared 28 times. 5906 had no progenitors.
+progen : Doing pair [151, 78] [t=871.812 s]
+yt : [INFO     ] 2019-06-29 10:45:58,389 Reading /home/rad/data/m50n512/s50/Groups/m50n512_078.hdf5
+yt : [INFO     ] 2019-06-29 10:45:58,488 Restoring galaxy attributes
+Returning STAR  Particle IDs
+Returning STAR  Particle IDs
+Returning STAR  ID_Generations
+Returning STAR  ID_Generations
+progen : Read ID info for 7162118 current star parts and 2090953 progenitor star parts [t=875.268 s]
+progen : Gathered ID info for 1495538 progenitor stars out of 7162118 total stars [t=876.49 s]
+progen : Sorted progenitor IDs [t=876.631 s]
+progen : Out of 6908 galaxies, most common prog 9 appeared 16 times. 5946 had no progenitors.
+progen : Doing pair [151, 77] [t=880.948 s]
+yt : [INFO     ] 2019-06-29 10:46:07,525 Reading /home/rad/data/m50n512/s50/Groups/m50n512_077.hdf5
+yt : [INFO     ] 2019-06-29 10:46:07,618 Restoring galaxy attributes
+Returning STAR  Particle IDs
+Returning STAR  Particle IDs
+Returning STAR  ID_Generations
+Returning STAR  ID_Generations
+progen : Read ID info for 7162118 current star parts and 2003171 progenitor star parts [t=885.957 s]
+progen : Gathered ID info for 1429946 progenitor stars out of 7162118 total stars [t=887.217 s]
+progen : Sorted progenitor IDs [t=887.343 s]
+progen : Out of 6908 galaxies, most common prog 23 appeared 11 times. 5996 had no progenitors.
+progen : Doing pair [151, 76] [t=891.697 s]
+yt : [INFO     ] 2019-06-29 10:46:18,273 Reading /home/rad/data/m50n512/s50/Groups/m50n512_076.hdf5
+yt : [INFO     ] 2019-06-29 10:46:18,371 Restoring galaxy attributes
+Returning STAR  Particle IDs
+Returning STAR  Particle IDs
+Returning STAR  ID_Generations
+Returning STAR  ID_Generations
+progen : Read ID info for 7162118 current star parts and 1916565 progenitor star parts [t=895.137 s]
+progen : Gathered ID info for 1360551 progenitor stars out of 7162118 total stars [t=896.284 s]
+progen : Sorted progenitor IDs [t=896.402 s]
+progen : Out of 6908 galaxies, most common prog 22 appeared 12 times. 6032 had no progenitors.
+progen : Doing pair [151, 75] [t=900.713 s]
+yt : [INFO     ] 2019-06-29 10:46:27,290 Reading /home/rad/data/m50n512/s50/Groups/m50n512_075.hdf5
+yt : [INFO     ] 2019-06-29 10:46:27,391 Restoring galaxy attributes
+Returning STAR  Particle IDs
+Returning STAR  Particle IDs
+Returning STAR  ID_Generations
+Returning STAR  ID_Generations
+progen : Read ID info for 7162118 current star parts and 1831998 progenitor star parts [t=903.99 s]
+progen : Gathered ID info for 1296596 progenitor stars out of 7162118 total stars [t=905.104 s]
+progen : Sorted progenitor IDs [t=905.217 s]
+progen : Out of 6908 galaxies, most common prog 24 appeared 13 times. 6065 had no progenitors.
+progen : Doing pair [151, 74] [t=909.549 s]
+yt : [INFO     ] 2019-06-29 10:46:36,125 Reading /home/rad/data/m50n512/s50/Groups/m50n512_074.hdf5
+yt : [INFO     ] 2019-06-29 10:46:36,202 Restoring galaxy attributes
+Returning STAR  Particle IDs
+Returning STAR  Particle IDs
+Returning STAR  ID_Generations
+Returning STAR  ID_Generations
+progen : Read ID info for 7162118 current star parts and 1746911 progenitor star parts [t=913.161 s]
+progen : Gathered ID info for 1229323 progenitor stars out of 7162118 total stars [t=914.24 s]
+progen : Sorted progenitor IDs [t=914.347 s]
+progen : Out of 6908 galaxies, most common prog 31 appeared 12 times. 6105 had no progenitors.
+progen : Doing pair [151, 73] [t=918.61 s]
+yt : [INFO     ] 2019-06-29 10:46:45,186 Reading /home/rad/data/m50n512/s50/Groups/m50n512_073.hdf5
+yt : [INFO     ] 2019-06-29 10:46:45,279 Restoring galaxy attributes
+Returning STAR  Particle IDs
+Returning STAR  Particle IDs
+Returning STAR  ID_Generations
+Returning STAR  ID_Generations
+progen : Read ID info for 7162118 current star parts and 1665357 progenitor star parts [t=921.731 s]
+progen : Gathered ID info for 1162880 progenitor stars out of 7162118 total stars [t=922.75 s]
+progen : Sorted progenitor IDs [t=922.853 s]
+progen : Out of 6908 galaxies, most common prog 7 appeared 12 times. 6148 had no progenitors.
+progen : Doing pair [151, 72] [t=927.137 s]
+yt : [INFO     ] 2019-06-29 10:46:53,714 Reading /home/rad/data/m50n512/s50/Groups/m50n512_072.hdf5
+yt : [INFO     ] 2019-06-29 10:46:53,799 Restoring galaxy attributes
+Returning STAR  Particle IDs
+Returning STAR  Particle IDs
+Returning STAR  ID_Generations
+Returning STAR  ID_Generations
+progen : Read ID info for 7162118 current star parts and 1589158 progenitor star parts [t=930.313 s]
+progen : Gathered ID info for 1103039 progenitor stars out of 7162118 total stars [t=931.31 s]
+progen : Sorted progenitor IDs [t=931.403 s]
+progen : Out of 6908 galaxies, most common prog 42 appeared 11 times. 6189 had no progenitors.
+progen : Doing pair [151, 71] [t=935.898 s]
+yt : [INFO     ] 2019-06-29 10:47:02,474 Reading /home/rad/data/m50n512/s50/Groups/m50n512_071.hdf5
+yt : [INFO     ] 2019-06-29 10:47:02,598 Restoring galaxy attributes
+Returning STAR  Particle IDs
+Returning STAR  Particle IDs
+Returning STAR  ID_Generations
+Returning STAR  ID_Generations
+progen : Read ID info for 7162118 current star parts and 1515250 progenitor star parts [t=939.518 s]
+progen : Gathered ID info for 1045500 progenitor stars out of 7162118 total stars [t=940.523 s]
+progen : Sorted progenitor IDs [t=940.614 s]
+progen : Out of 6908 galaxies, most common prog 2 appeared 11 times. 6213 had no progenitors.
+progen : Doing pair [151, 70] [t=944.855 s]
+yt : [INFO     ] 2019-06-29 10:47:11,431 Reading /home/rad/data/m50n512/s50/Groups/m50n512_070.hdf5
+yt : [INFO     ] 2019-06-29 10:47:11,522 Restoring galaxy attributes
+Returning STAR  Particle IDs
+Returning STAR  Particle IDs
+Returning STAR  ID_Generations
+Returning STAR  ID_Generations
+progen : Read ID info for 7162118 current star parts and 1442951 progenitor star parts [t=947.535 s]
+progen : Gathered ID info for 991164 progenitor stars out of 7162118 total stars [t=948.516 s]
+progen : Sorted progenitor IDs [t=948.601 s]
+progen : Out of 6908 galaxies, most common prog 2 appeared 12 times. 6257 had no progenitors.
+progen : Doing pair [151, 69] [t=952.855 s]
+yt : [INFO     ] 2019-06-29 10:47:19,431 Reading /home/rad/data/m50n512/s50/Groups/m50n512_069.hdf5
+yt : [INFO     ] 2019-06-29 10:47:19,535 Restoring galaxy attributes
+Returning STAR  Particle IDs
+Returning STAR  Particle IDs
+Returning STAR  ID_Generations
+Returning STAR  ID_Generations
+progen : Read ID info for 7162118 current star parts and 1370719 progenitor star parts [t=956.445 s]
+progen : Gathered ID info for 938842 progenitor stars out of 7162118 total stars [t=957.386 s]
+progen : Sorted progenitor IDs [t=957.463 s]
+progen : Out of 6908 galaxies, most common prog 3 appeared 12 times. 6283 had no progenitors.
+progen : Doing pair [151, 68] [t=961.614 s]
+yt : [INFO     ] 2019-06-29 10:47:28,191 Reading /home/rad/data/m50n512/s50/Groups/m50n512_068.hdf5
+yt : [INFO     ] 2019-06-29 10:47:28,285 Restoring galaxy attributes
+Returning STAR  Particle IDs
+Returning STAR  Particle IDs
+Returning STAR  ID_Generations
+Returning STAR  ID_Generations
+progen : Read ID info for 7162118 current star parts and 1302179 progenitor star parts [t=964.802 s]
+progen : Gathered ID info for 885983 progenitor stars out of 7162118 total stars [t=965.726 s]
+progen : Sorted progenitor IDs [t=965.798 s]
+progen : Out of 6908 galaxies, most common prog 2 appeared 11 times. 6305 had no progenitors.
+progen : Doing pair [151, 67] [t=969.948 s]
+yt : [INFO     ] 2019-06-29 10:47:36,524 Reading /home/rad/data/m50n512/s50/Groups/m50n512_067.hdf5
+yt : [INFO     ] 2019-06-29 10:47:36,618 Restoring galaxy attributes
+Returning STAR  Particle IDs
+Returning STAR  Particle IDs
+Returning STAR  ID_Generations
+Returning STAR  ID_Generations
+progen : Read ID info for 7162118 current star parts and 1235720 progenitor star parts [t=973.228 s]
+progen : Gathered ID info for 835190 progenitor stars out of 7162118 total stars [t=974.126 s]
+progen : Sorted progenitor IDs [t=974.196 s]
+progen : Out of 6908 galaxies, most common prog 4 appeared 12 times. 6332 had no progenitors.
+progen : Doing pair [151, 66] [t=978.368 s]
+yt : [INFO     ] 2019-06-29 10:47:44,944 Reading /home/rad/data/m50n512/s50/Groups/m50n512_066.hdf5
+yt : [INFO     ] 2019-06-29 10:47:45,037 Restoring galaxy attributes
+Returning STAR  Particle IDs
+Returning STAR  Particle IDs
+Returning STAR  ID_Generations
+Returning STAR  ID_Generations
+progen : Read ID info for 7162118 current star parts and 1172560 progenitor star parts [t=981.512 s]
+progen : Gathered ID info for 787632 progenitor stars out of 7162118 total stars [t=982.381 s]
+progen : Sorted progenitor IDs [t=982.444 s]
+progen : Out of 6908 galaxies, most common prog 1 appeared 15 times. 6349 had no progenitors.
+progen : Doing pair [151, 65] [t=986.612 s]
+yt : [INFO     ] 2019-06-29 10:47:53,189 Reading /home/rad/data/m50n512/s50/Groups/m50n512_065.hdf5
+yt : [INFO     ] 2019-06-29 10:47:53,287 Restoring galaxy attributes
+Returning STAR  Particle IDs
+Returning STAR  Particle IDs
+Returning STAR  ID_Generations
+Returning STAR  ID_Generations
+progen : Read ID info for 7162118 current star parts and 1111113 progenitor star parts [t=989.116 s]
+progen : Gathered ID info for 737912 progenitor stars out of 7162118 total stars [t=990.028 s]
+progen : Sorted progenitor IDs [t=990.087 s]
+progen : Out of 6908 galaxies, most common prog 2 appeared 12 times. 6379 had no progenitors.
+progen : Doing pair [151, 64] [t=994.194 s]
+yt : [INFO     ] 2019-06-29 10:48:00,770 Reading /home/rad/data/m50n512/s50/Groups/m50n512_064.hdf5
+yt : [INFO     ] 2019-06-29 10:48:00,865 Restoring galaxy attributes
+Returning STAR  Particle IDs
+Returning STAR  Particle IDs
+Returning STAR  ID_Generations
+Returning STAR  ID_Generations
+progen : Read ID info for 7162118 current star parts and 1054372 progenitor star parts [t=997.333 s]
+progen : Gathered ID info for 692782 progenitor stars out of 7162118 total stars [t=998.168 s]
+progen : Sorted progenitor IDs [t=998.222 s]
+progen : Out of 6908 galaxies, most common prog 2 appeared 12 times. 6405 had no progenitors.
+progen : Doing pair [151, 63] [t=1002.32 s]
+yt : [INFO     ] 2019-06-29 10:48:08,896 Reading /home/rad/data/m50n512/s50/Groups/m50n512_063.hdf5
+yt : [INFO     ] 2019-06-29 10:48:08,999 Restoring galaxy attributes
+Returning STAR  Particle IDs
+Returning STAR  Particle IDs
+Returning STAR  ID_Generations
+Returning STAR  ID_Generations
+progen : Read ID info for 7162118 current star parts and 999842 progenitor star parts [t=1005.74 s]
+progen : Gathered ID info for 649021 progenitor stars out of 7162118 total stars [t=1006.55 s]
+progen : Sorted progenitor IDs [t=1006.61 s]
+progen : Out of 6908 galaxies, most common prog 4 appeared 13 times. 6437 had no progenitors.
+progen : Doing pair [151, 62] [t=1010.64 s]
+yt : [INFO     ] 2019-06-29 10:48:17,220 Reading /home/rad/data/m50n512/s50/Groups/m50n512_062.hdf5
+yt : [INFO     ] 2019-06-29 10:48:17,313 Restoring galaxy attributes
+Returning STAR  Particle IDs
+Returning STAR  Particle IDs
+Returning STAR  ID_Generations
+Returning STAR  ID_Generations
+progen : Read ID info for 7162118 current star parts and 948432 progenitor star parts [t=1013.7 s]
+progen : Gathered ID info for 611225 progenitor stars out of 7162118 total stars [t=1014.48 s]
+progen : Sorted progenitor IDs [t=1014.53 s]
+progen : Out of 6908 galaxies, most common prog 4 appeared 15 times. 6459 had no progenitors.
+progen : Doing pair [151, 61] [t=1018.62 s]
+yt : [INFO     ] 2019-06-29 10:48:25,193 Reading /home/rad/data/m50n512/s50/Groups/m50n512_061.hdf5
+yt : [INFO     ] 2019-06-29 10:48:25,290 Restoring galaxy attributes
+Returning STAR  Particle IDs
+Returning STAR  Particle IDs
+Returning STAR  ID_Generations
+Returning STAR  ID_Generations
+progen : Read ID info for 7162118 current star parts and 898181 progenitor star parts [t=1020.98 s]
+progen : Gathered ID info for 574906 progenitor stars out of 7162118 total stars [t=1021.75 s]
+progen : Sorted progenitor IDs [t=1021.8 s]
+progen : Out of 6908 galaxies, most common prog 4 appeared 17 times. 6484 had no progenitors.
+progen : Doing pair [151, 60] [t=1025.83 s]
+yt : [INFO     ] 2019-06-29 10:48:32,410 Reading /home/rad/data/m50n512/s50/Groups/m50n512_060.hdf5
+yt : [INFO     ] 2019-06-29 10:48:32,506 Restoring galaxy attributes
+Returning STAR  Particle IDs
+Returning STAR  Particle IDs
+Returning STAR  ID_Generations
+Returning STAR  ID_Generations
+progen : Read ID info for 7162118 current star parts and 849230 progenitor star parts [t=1028.99 s]
+progen : Gathered ID info for 538218 progenitor stars out of 7162118 total stars [t=1029.75 s]
+progen : Sorted progenitor IDs [t=1029.8 s]
+progen : Out of 6908 galaxies, most common prog 3 appeared 19 times. 6492 had no progenitors.
+progen : Doing pair [151, 59] [t=1033.77 s]
+yt : [INFO     ] 2019-06-29 10:48:40,345 Reading /home/rad/data/m50n512/s50/Groups/m50n512_059.hdf5
+yt : [INFO     ] 2019-06-29 10:48:40,444 Restoring galaxy attributes
+Returning STAR  Particle IDs
+Returning STAR  Particle IDs
+Returning STAR  ID_Generations
+Returning STAR  ID_Generations
+progen : Read ID info for 7162118 current star parts and 804033 progenitor star parts [t=1036.92 s]
+progen : Gathered ID info for 506990 progenitor stars out of 7162118 total stars [t=1037.66 s]
+progen : Sorted progenitor IDs [t=1037.7 s]
+progen : Out of 6908 galaxies, most common prog 3 appeared 19 times. 6525 had no progenitors.
+progen : Doing pair [151, 58] [t=1041.65 s]
+yt : [INFO     ] 2019-06-29 10:48:48,228 Reading /home/rad/data/m50n512/s50/Groups/m50n512_058.hdf5
+yt : [INFO     ] 2019-06-29 10:48:48,317 Restoring galaxy attributes
+Returning STAR  Particle IDs
+Returning STAR  Particle IDs
+Returning STAR  ID_Generations
+Returning STAR  ID_Generations
+progen : Read ID info for 7162118 current star parts and 759547 progenitor star parts [t=1043.96 s]
+progen : Gathered ID info for 475085 progenitor stars out of 7162118 total stars [t=1044.69 s]
+progen : Sorted progenitor IDs [t=1044.72 s]
+progen : Out of 6908 galaxies, most common prog 2 appeared 17 times. 6548 had no progenitors.
+progen : Doing pair [151, 57] [t=1048.7 s]
+yt : [INFO     ] 2019-06-29 10:48:55,274 Reading /home/rad/data/m50n512/s50/Groups/m50n512_057.hdf5
+yt : [INFO     ] 2019-06-29 10:48:55,360 Restoring galaxy attributes
+Returning STAR  Particle IDs
+Returning STAR  Particle IDs
+Returning STAR  ID_Generations
+Returning STAR  ID_Generations
+progen : Read ID info for 7162118 current star parts and 716876 progenitor star parts [t=1051.77 s]
+progen : Gathered ID info for 444903 progenitor stars out of 7162118 total stars [t=1052.48 s]
+progen : Sorted progenitor IDs [t=1052.51 s]
+progen : Out of 6908 galaxies, most common prog 1 appeared 19 times. 6550 had no progenitors.
+progen : Doing pair [151, 56] [t=1056.42 s]
+yt : [INFO     ] 2019-06-29 10:49:02,997 Reading /home/rad/data/m50n512/s50/Groups/m50n512_056.hdf5
+yt : [INFO     ] 2019-06-29 10:49:03,106 Restoring galaxy attributes
+Returning STAR  Particle IDs
+Returning STAR  Particle IDs
+Returning STAR  ID_Generations
+Returning STAR  ID_Generations
+progen : Read ID info for 7162118 current star parts and 675205 progenitor star parts [t=1059.11 s]
+progen : Gathered ID info for 415355 progenitor stars out of 7162118 total stars [t=1059.82 s]
+progen : Sorted progenitor IDs [t=1059.85 s]
+progen : Out of 6908 galaxies, most common prog 0 appeared 21 times. 6579 had no progenitors.
+progen : Doing pair [151, 55] [t=1063.75 s]
+yt : [INFO     ] 2019-06-29 10:49:10,324 Reading /home/rad/data/m50n512/s50/Groups/m50n512_055.hdf5
+yt : [INFO     ] 2019-06-29 10:49:10,419 Restoring galaxy attributes
+Returning STAR  Particle IDs
+Returning STAR  Particle IDs
+Returning STAR  ID_Generations
+Returning STAR  ID_Generations
+progen : Read ID info for 7162118 current star parts and 634492 progenitor star parts [t=1066.42 s]
+progen : Gathered ID info for 387884 progenitor stars out of 7162118 total stars [t=1067.1 s]
+progen : Sorted progenitor IDs [t=1067.13 s]
+progen : Out of 6908 galaxies, most common prog 0 appeared 27 times. 6594 had no progenitors.
+progen : Doing pair [151, 54] [t=1071.02 s]
+yt : [INFO     ] 2019-06-29 10:49:17,595 Reading /home/rad/data/m50n512/s50/Groups/m50n512_054.hdf5
+yt : [INFO     ] 2019-06-29 10:49:17,698 Restoring galaxy attributes
+Returning STAR  Particle IDs
+Returning STAR  Particle IDs
+Returning STAR  ID_Generations
+Returning STAR  ID_Generations
+progen : Read ID info for 7162118 current star parts and 593624 progenitor star parts [t=1073.63 s]
+progen : Gathered ID info for 360060 progenitor stars out of 7162118 total stars [t=1074.31 s]
+progen : Sorted progenitor IDs [t=1074.33 s]
+progen : Out of 6908 galaxies, most common prog 0 appeared 25 times. 6610 had no progenitors.
+progen : Doing pair [151, 53] [t=1078.21 s]
+yt : [INFO     ] 2019-06-29 10:49:24,783 Reading /home/rad/data/m50n512/s50/Groups/m50n512_053.hdf5
+yt : [INFO     ] 2019-06-29 10:49:24,876 Restoring galaxy attributes
+Returning STAR  Particle IDs
+Returning STAR  Particle IDs
+Returning STAR  ID_Generations
+Returning STAR  ID_Generations
+progen : Read ID info for 7162118 current star parts and 552661 progenitor star parts [t=1080.88 s]
+progen : Gathered ID info for 333682 progenitor stars out of 7162118 total stars [t=1081.52 s]
+progen : Sorted progenitor IDs [t=1081.54 s]
+progen : Out of 6908 galaxies, most common prog 0 appeared 28 times. 6635 had no progenitors.
+progen : Doing pair [151, 52] [t=1085.37 s]
+yt : [INFO     ] 2019-06-29 10:49:31,948 Reading /home/rad/data/m50n512/s50/Groups/m50n512_052.hdf5
+yt : [INFO     ] 2019-06-29 10:49:32,045 Restoring galaxy attributes
+Returning STAR  Particle IDs
+Returning STAR  Particle IDs
+Returning STAR  ID_Generations
+Returning STAR  ID_Generations
+progen : Read ID info for 7162118 current star parts and 511662 progenitor star parts [t=1087.94 s]
+progen : Gathered ID info for 304525 progenitor stars out of 7162118 total stars [t=1088.58 s]
+progen : Sorted progenitor IDs [t=1088.61 s]
+progen : Out of 6908 galaxies, most common prog 0 appeared 26 times. 6659 had no progenitors.
+progen : Doing pair [151, 51] [t=1092.43 s]
+yt : [INFO     ] 2019-06-29 10:49:39,003 Reading /home/rad/data/m50n512/s50/Groups/m50n512_051.hdf5
+yt : [INFO     ] 2019-06-29 10:49:39,101 Restoring galaxy attributes
+Returning STAR  Particle IDs
+Returning STAR  Particle IDs
+Returning STAR  ID_Generations
+Returning STAR  ID_Generations
+progen : Read ID info for 7162118 current star parts and 471968 progenitor star parts [t=1094.8 s]
+progen : Gathered ID info for 278399 progenitor stars out of 7162118 total stars [t=1095.41 s]
+progen : Sorted progenitor IDs [t=1095.42 s]
+progen : Out of 6908 galaxies, most common prog 0 appeared 21 times. 6682 had no progenitors.
+progen : Doing pair [151, 50] [t=1099.21 s]
+yt : [INFO     ] 2019-06-29 10:49:45,791 Reading /home/rad/data/m50n512/s50/Groups/m50n512_050.hdf5
+yt : [INFO     ] 2019-06-29 10:49:45,881 Restoring galaxy attributes
+Returning STAR  Particle IDs
+Returning STAR  Particle IDs
+Returning STAR  ID_Generations
+Returning STAR  ID_Generations
+progen : Read ID info for 7162118 current star parts and 432601 progenitor star parts [t=1101.64 s]
+progen : Gathered ID info for 249578 progenitor stars out of 7162118 total stars [t=1102.27 s]
+progen : Sorted progenitor IDs [t=1102.29 s]
+progen : Out of 6908 galaxies, most common prog 0 appeared 16 times. 6707 had no progenitors.
+progen : Doing pair [151, 49] [t=1106.48 s]
+yt : [INFO     ] 2019-06-29 10:49:53,056 Reading /home/rad/data/m50n512/s50/Groups/m50n512_049.hdf5
+yt : [INFO     ] 2019-06-29 10:49:53,153 Restoring galaxy attributes
+Returning STAR  Particle IDs
+Returning STAR  Particle IDs
+Returning STAR  ID_Generations
+Returning STAR  ID_Generations
+progen : Read ID info for 7162118 current star parts and 398574 progenitor star parts [t=1108.8 s]
+progen : Gathered ID info for 226239 progenitor stars out of 7162118 total stars [t=1109.4 s]
+progen : Sorted progenitor IDs [t=1109.41 s]
+progen : Out of 6908 galaxies, most common prog 1 appeared 13 times. 6730 had no progenitors.
+progen : Doing pair [151, 48] [t=1113.19 s]
+yt : [INFO     ] 2019-06-29 10:49:59,767 Reading /home/rad/data/m50n512/s50/Groups/m50n512_048.hdf5
+yt : [INFO     ] 2019-06-29 10:49:59,861 Restoring galaxy attributes
+Returning STAR  Particle IDs
+Returning STAR  Particle IDs
+Returning STAR  ID_Generations
+Returning STAR  ID_Generations
+progen : Read ID info for 7162118 current star parts and 366590 progenitor star parts [t=1115.48 s]
+progen : Gathered ID info for 205107 progenitor stars out of 7162118 total stars [t=1116.07 s]
+progen : Sorted progenitor IDs [t=1116.08 s]
+progen : Out of 6908 galaxies, most common prog 1 appeared 12 times. 6747 had no progenitors.
+progen : Doing pair [151, 47] [t=1119.83 s]
+yt : [INFO     ] 2019-06-29 10:50:06,403 Reading /home/rad/data/m50n512/s50/Groups/m50n512_047.hdf5
+yt : [INFO     ] 2019-06-29 10:50:06,494 Restoring galaxy attributes
+Returning STAR  Particle IDs
+Returning STAR  Particle IDs
+Returning STAR  ID_Generations
+Returning STAR  ID_Generations
+progen : Read ID info for 7162118 current star parts and 335282 progenitor star parts [t=1121.97 s]
+progen : Gathered ID info for 185396 progenitor stars out of 7162118 total stars [t=1122.63 s]
+progen : Sorted progenitor IDs [t=1122.64 s]
+progen : Out of 6908 galaxies, most common prog 1 appeared 6 times. 6766 had no progenitors.
+progen : Doing pair [151, 46] [t=1126.37 s]
+yt : [INFO     ] 2019-06-29 10:50:12,941 Reading /home/rad/data/m50n512/s50/Groups/m50n512_046.hdf5
+yt : [INFO     ] 2019-06-29 10:50:13,029 Restoring galaxy attributes
+Returning STAR  Particle IDs
+Returning STAR  Particle IDs
+Returning STAR  ID_Generations
+Returning STAR  ID_Generations
+progen : Read ID info for 7162118 current star parts and 306081 progenitor star parts [t=1127.98 s]
+progen : Gathered ID info for 166320 progenitor stars out of 7162118 total stars [t=1128.63 s]
+progen : Sorted progenitor IDs [t=1128.64 s]
+progen : Out of 6908 galaxies, most common prog 2 appeared 4 times. 6792 had no progenitors.
+progen : Doing pair [151, 45] [t=1132.34 s]
+yt : [INFO     ] 2019-06-29 10:50:18,920 Reading /home/rad/data/m50n512/s50/Groups/m50n512_045.hdf5
+yt : [INFO     ] 2019-06-29 10:50:19,020 Restoring galaxy attributes
+Returning STAR  Particle IDs
+Returning STAR  Particle IDs
+Returning STAR  ID_Generations
+Returning STAR  ID_Generations
+progen : Read ID info for 7162118 current star parts and 279297 progenitor star parts [t=1134.54 s]
+progen : Gathered ID info for 149251 progenitor stars out of 7162118 total stars [t=1135.09 s]
+progen : Sorted progenitor IDs [t=1135.1 s]
+progen : Out of 6908 galaxies, most common prog 0 appeared 2 times. 6812 had no progenitors.
+progen : Doing pair [151, 44] [t=1138.78 s]
+yt : [INFO     ] 2019-06-29 10:50:25,359 Reading /home/rad/data/m50n512/s50/Groups/m50n512_044.hdf5
+yt : [INFO     ] 2019-06-29 10:50:25,449 Restoring galaxy attributes
+Returning STAR  Particle IDs
+Returning STAR  Particle IDs
+Returning STAR  ID_Generations
+Returning STAR  ID_Generations
+progen : Read ID info for 7162118 current star parts and 254667 progenitor star parts [t=1140.62 s]
+progen : Gathered ID info for 133572 progenitor stars out of 7162118 total stars [t=1141.15 s]
+progen : Sorted progenitor IDs [t=1141.16 s]
+progen : Out of 6908 galaxies, most common prog 0 appeared 2 times. 6831 had no progenitors.
+progen : Doing pair [151, 43] [t=1144.8 s]
+yt : [INFO     ] 2019-06-29 10:50:31,379 Reading /home/rad/data/m50n512/s50/Groups/m50n512_043.hdf5
+yt : [INFO     ] 2019-06-29 10:50:31,475 Restoring galaxy attributes
+Returning STAR  Particle IDs
+Returning STAR  Particle IDs
+Returning STAR  ID_Generations
+Returning STAR  ID_Generations
+progen : Read ID info for 7162118 current star parts and 231748 progenitor star parts [t=1146.28 s]
+progen : Gathered ID info for 119634 progenitor stars out of 7162118 total stars [t=1146.81 s]
+progen : Sorted progenitor IDs [t=1146.82 s]
+progen : Out of 6908 galaxies, most common prog 0 appeared 1 times. 6842 had no progenitors.
+progen : Doing pair [151, 42] [t=1150.47 s]
+yt : [INFO     ] 2019-06-29 10:50:37,043 Reading /home/rad/data/m50n512/s50/Groups/m50n512_042.hdf5
+yt : [INFO     ] 2019-06-29 10:50:37,138 Restoring galaxy attributes
+Returning STAR  Particle IDs
+Returning STAR  Particle IDs
+Returning STAR  ID_Generations
+Returning STAR  ID_Generations
+progen : Read ID info for 7162118 current star parts and 210210 progenitor star parts [t=1152.41 s]
+progen : Gathered ID info for 106613 progenitor stars out of 7162118 total stars [t=1152.95 s]
+progen : Sorted progenitor IDs [t=1152.96 s]
+progen : Out of 6908 galaxies, most common prog 0 appeared 1 times. 6853 had no progenitors.
+progen : Doing pair [151, 41] [t=1156.58 s]
+yt : [INFO     ] 2019-06-29 10:50:43,156 Reading /home/rad/data/m50n512/s50/Groups/m50n512_041.hdf5
+yt : [INFO     ] 2019-06-29 10:50:43,247 Restoring galaxy attributes
+Returning STAR  Particle IDs
+Returning STAR  Particle IDs
+Returning STAR  ID_Generations
+Returning STAR  ID_Generations
+progen : Read ID info for 7162118 current star parts and 189757 progenitor star parts [t=1157.91 s]
+progen : Gathered ID info for 94535 progenitor stars out of 7162118 total stars [t=1158.44 s]
+progen : Sorted progenitor IDs [t=1158.45 s]
+progen : Out of 6908 galaxies, most common prog 2 appeared 2 times. 6862 had no progenitors.
+progen : Doing pair [151, 40] [t=1162.05 s]
+yt : [INFO     ] 2019-06-29 10:50:48,623 Reading /home/rad/data/m50n512/s50/Groups/m50n512_040.hdf5
+yt : [INFO     ] 2019-06-29 10:50:48,724 Restoring galaxy attributes
+Returning STAR  Particle IDs
+Returning STAR  Particle IDs
+Returning STAR  ID_Generations
+Returning STAR  ID_Generations
+progen : Read ID info for 7162118 current star parts and 169993 progenitor star parts [t=1163.75 s]
+progen : Gathered ID info for 83105 progenitor stars out of 7162118 total stars [t=1164.28 s]
+progen : Sorted progenitor IDs [t=1164.29 s]
+progen : Out of 6908 galaxies, most common prog 0 appeared 1 times. 6871 had no progenitors.
+progen : Doing pair [151, 39] [t=1167.86 s]
+yt : [INFO     ] 2019-06-29 10:50:54,438 Reading /home/rad/data/m50n512/s50/Groups/m50n512_039.hdf5
+yt : [INFO     ] 2019-06-29 10:50:54,536 Restoring galaxy attributes
+Returning STAR  Particle IDs
+Returning STAR  Particle IDs
+Returning STAR  ID_Generations
+Returning STAR  ID_Generations
+progen : Read ID info for 7162118 current star parts and 151756 progenitor star parts [t=1169.08 s]
+progen : Gathered ID info for 72753 progenitor stars out of 7162118 total stars [t=1169.62 s]
+progen : Sorted progenitor IDs [t=1169.62 s]
+progen : Out of 6908 galaxies, most common prog 0 appeared 1 times. 6874 had no progenitors.
+progen : Doing pair [151, 38] [t=1173.2 s]
+yt : [INFO     ] 2019-06-29 10:50:59,773 Reading /home/rad/data/m50n512/s50/Groups/m50n512_038.hdf5
+yt : [INFO     ] 2019-06-29 10:50:59,874 Restoring galaxy attributes
+Returning STAR  Particle IDs
+Returning STAR  Particle IDs
+Returning STAR  ID_Generations
+Returning STAR  ID_Generations
+progen : Read ID info for 7162118 current star parts and 135886 progenitor star parts [t=1174.75 s]
+progen : Gathered ID info for 63728 progenitor stars out of 7162118 total stars [t=1175.29 s]
+progen : Sorted progenitor IDs [t=1175.3 s]
+progen : Out of 6908 galaxies, most common prog 0 appeared 1 times. 6880 had no progenitors.
+progen : Doing pair [151, 37] [t=1178.86 s]
+yt : [INFO     ] 2019-06-29 10:51:05,436 Reading /home/rad/data/m50n512/s50/Groups/m50n512_037.hdf5
+yt : [INFO     ] 2019-06-29 10:51:05,553 Restoring galaxy attributes
+Returning STAR  Particle IDs
+Returning STAR  Particle IDs
+Returning STAR  ID_Generations
+Returning STAR  ID_Generations
+progen : Read ID info for 7162118 current star parts and 121135 progenitor star parts [t=1180 s]
+progen : Gathered ID info for 55571 progenitor stars out of 7162118 total stars [t=1180.52 s]
+progen : Sorted progenitor IDs [t=1180.52 s]
+progen : Out of 6908 galaxies, most common prog 3 appeared 1 times. 6885 had no progenitors.
+progen : Doing pair [151, 36] [t=1184.09 s]
+yt : [INFO     ] 2019-06-29 10:51:10,662 Reading /home/rad/data/m50n512/s50/Groups/m50n512_036.hdf5
+yt : [INFO     ] 2019-06-29 10:51:10,758 Restoring galaxy attributes
+Returning STAR  Particle IDs
+Returning STAR  Particle IDs
+Returning STAR  ID_Generations
+Returning STAR  ID_Generations
+progen : Read ID info for 7162118 current star parts and 107075 progenitor star parts [t=1185.27 s]
+progen : Gathered ID info for 48026 progenitor stars out of 7162118 total stars [t=1185.82 s]
+progen : Sorted progenitor IDs [t=1185.83 s]
+progen : Out of 6908 galaxies, most common prog 1 appeared 1 times. 6888 had no progenitors.
+progen : Doing pair [151, 35] [t=1189.35 s]
+yt : [INFO     ] 2019-06-29 10:51:15,925 Reading /home/rad/data/m50n512/s50/Groups/m50n512_035.hdf5
+yt : [INFO     ] 2019-06-29 10:51:16,021 Restoring galaxy attributes
+Returning STAR  Particle IDs
+Returning STAR  Particle IDs
+Returning STAR  ID_Generations
+Returning STAR  ID_Generations
+progen : Read ID info for 7162118 current star parts and 92764 progenitor star parts [t=1190.25 s]
+progen : Gathered ID info for 40750 progenitor stars out of 7162118 total stars [t=1190.75 s]
+progen : Sorted progenitor IDs [t=1190.75 s]
+progen : Out of 6908 galaxies, most common prog 3 appeared 1 times. 6892 had no progenitors.
+progen : Doing pair [151, 34] [t=1194.26 s]
+yt : [INFO     ] 2019-06-29 10:51:20,834 Reading /home/rad/data/m50n512/s50/Groups/m50n512_034.hdf5
+yt : [INFO     ] 2019-06-29 10:51:20,928 Restoring galaxy attributes
+Returning STAR  Particle IDs
+Returning STAR  Particle IDs
+Returning STAR  ID_Generations
+Returning STAR  ID_Generations
+progen : Read ID info for 7162118 current star parts and 79864 progenitor star parts [t=1195.5 s]
+progen : Gathered ID info for 33971 progenitor stars out of 7162118 total stars [t=1196 s]
+progen : Sorted progenitor IDs [t=1196 s]
+progen : Out of 6908 galaxies, most common prog 6 appeared 1 times. 6894 had no progenitors.
+progen : Doing pair [151, 33] [t=1199.46 s]
+yt : [INFO     ] 2019-06-29 10:51:26,034 Reading /home/rad/data/m50n512/s50/Groups/m50n512_033.hdf5
+yt : [INFO     ] 2019-06-29 10:51:26,134 Restoring galaxy attributes
+Returning STAR  Particle IDs
+Returning STAR  Particle IDs
+Returning STAR  ID_Generations
+Returning STAR  ID_Generations
+progen : Read ID info for 7162118 current star parts and 67636 progenitor star parts [t=1200.3 s]
+progen : Gathered ID info for 28363 progenitor stars out of 7162118 total stars [t=1200.8 s]
+progen : Sorted progenitor IDs [t=1200.8 s]
+progen : Out of 6908 galaxies, most common prog 4 appeared 1 times. 6897 had no progenitors.
+progen : Doing pair [151, 32] [t=1204.26 s]
+yt : [INFO     ] 2019-06-29 10:51:30,832 Reading /home/rad/data/m50n512/s50/Groups/m50n512_032.hdf5
+yt : [INFO     ] 2019-06-29 10:51:30,924 Restoring galaxy attributes
+Returning STAR  Particle IDs
+Returning STAR  Particle IDs
+Returning STAR  ID_Generations
+Returning STAR  ID_Generations
+progen : Read ID info for 7162118 current star parts and 56477 progenitor star parts [t=1204.94 s]
+progen : Gathered ID info for 22910 progenitor stars out of 7162118 total stars [t=1205.51 s]
+progen : Sorted progenitor IDs [t=1205.51 s]
+progen : Out of 6908 galaxies, most common prog 77 appeared 1 times. 6900 had no progenitors.
+progen : Doing pair [151, 31] [t=1208.97 s]
+yt : [INFO     ] 2019-06-29 10:51:35,545 Reading /home/rad/data/m50n512/s50/Groups/m50n512_031.hdf5
+yt : [INFO     ] 2019-06-29 10:51:35,637 Restoring galaxy attributes
+Returning STAR  Particle IDs
+Returning STAR  Particle IDs
+Returning STAR  ID_Generations
+Returning STAR  ID_Generations
+progen : Read ID info for 7162118 current star parts and 46954 progenitor star parts [t=1209.68 s]
+progen : Gathered ID info for 18427 progenitor stars out of 7162118 total stars [t=1210.19 s]
+progen : Sorted progenitor IDs [t=1210.19 s]
+progen : Out of 6908 galaxies, most common prog 117 appeared 1 times. 6901 had no progenitors.
+progen : Doing pair [151, 30] [t=1213.68 s]
+yt : [INFO     ] 2019-06-29 10:51:40,254 Reading /home/rad/data/m50n512/s50/Groups/m50n512_030.hdf5
+yt : [INFO     ] 2019-06-29 10:51:40,351 Restoring galaxy attributes
+Returning STAR  Particle IDs
+Returning STAR  Particle IDs
+Returning STAR  ID_Generations
+Returning STAR  ID_Generations
+progen : Read ID info for 7162118 current star parts and 38122 progenitor star parts [t=1214.42 s]
+progen : Gathered ID info for 14664 progenitor stars out of 7162118 total stars [t=1214.9 s]
+progen : Sorted progenitor IDs [t=1214.9 s]
+progen : Out of 6908 galaxies, most common prog 137 appeared 1 times. 6905 had no progenitors.
+progen : Doing pair [151, 29] [t=1218.34 s]
+yt : [INFO     ] 2019-06-29 10:51:44,913 Reading /home/rad/data/m50n512/s50/Groups/m50n512_029.hdf5
+yt : [INFO     ] 2019-06-29 10:51:45,005 Restoring galaxy attributes
+Returning STAR  Particle IDs
+Returning STAR  Particle IDs
+Returning STAR  ID_Generations
+Returning STAR  ID_Generations
+progen : Read ID info for 7162118 current star parts and 30696 progenitor star parts [t=1219.35 s]
+progen : Gathered ID info for 11830 progenitor stars out of 7162118 total stars [t=1219.82 s]
+progen : Sorted progenitor IDs [t=1219.82 s]
+progen : Out of 6908 galaxies, most common prog 105 appeared 1 times. 6906 had no progenitors.
+progen : Doing pair [151, 28] [t=1223.22 s]
+yt : [INFO     ] 2019-06-29 10:51:49,794 Reading /home/rad/data/m50n512/s50/Groups/m50n512_028.hdf5
+yt : [INFO     ] 2019-06-29 10:51:49,895 Restoring galaxy attributes
+Returning STAR  Particle IDs
+Returning STAR  Particle IDs
+Returning STAR  ID_Generations
+Returning STAR  ID_Generations
+progen : Read ID info for 7162118 current star parts and 24702 progenitor star parts [t=1223.9 s]
+progen : Gathered ID info for 9408 progenitor stars out of 7162118 total stars [t=1224.35 s]
+progen : Sorted progenitor IDs [t=1224.35 s]
+progen : Out of 6908 galaxies, most common prog 119 appeared 1 times. 6906 had no progenitors.
+progen : Doing pair [151, 27] [t=1227.75 s]
+yt : [INFO     ] 2019-06-29 10:51:54,327 Reading /home/rad/data/m50n512/s50/Groups/m50n512_027.hdf5
+yt : [INFO     ] 2019-06-29 10:51:54,419 Restoring galaxy attributes
+Returning STAR  Particle IDs
+Returning STAR  Particle IDs
+Returning STAR  ID_Generations
+Returning STAR  ID_Generations
+progen : Read ID info for 7162118 current star parts and 19443 progenitor star parts [t=1228.22 s]
+progen : Gathered ID info for 7183 progenitor stars out of 7162118 total stars [t=1228.7 s]
+progen : Sorted progenitor IDs [t=1228.7 s]
+progen : Out of 6908 galaxies, most common prog 89 appeared 1 times. 6906 had no progenitors.
+progen : Doing pair [151, 26] [t=1232.08 s]
+yt : [INFO     ] 2019-06-29 10:51:58,657 Reading /home/rad/data/m50n512/s50/Groups/m50n512_026.hdf5
+yt : [INFO     ] 2019-06-29 10:51:58,746 Restoring galaxy attributes
+Returning STAR  Particle IDs
+Returning STAR  Particle IDs
+Returning STAR  ID_Generations
+Returning STAR  ID_Generations
+progen : Read ID info for 7162118 current star parts and 14878 progenitor star parts [t=1232.65 s]
+progen : Gathered ID info for 5256 progenitor stars out of 7162118 total stars [t=1233.15 s]
+progen : Sorted progenitor IDs [t=1233.15 s]
+progen : Out of 6908 galaxies, most common prog 0 had no progenitors.
+progen : Doing pair [151, 25] [t=1236.89 s]
+yt : [INFO     ] 2019-06-29 10:52:03,465 Reading /home/rad/data/m50n512/s50/Groups/m50n512_025.hdf5
+yt : [INFO     ] 2019-06-29 10:52:03,570 Restoring galaxy attributes
+Returning STAR  Particle IDs
+Returning STAR  Particle IDs
+Returning STAR  ID_Generations
+Returning STAR  ID_Generations
+progen : Read ID info for 7162118 current star parts and 11251 progenitor star parts [t=1237.43 s]
+progen : Gathered ID info for 4097 progenitor stars out of 7162118 total stars [t=1237.93 s]
+progen : Sorted progenitor IDs [t=1237.93 s]
+progen : Out of 6908 galaxies, most common prog 0 had no progenitors.
+progen : Doing pair [151, 24] [t=1241.46 s]
+yt : [INFO     ] 2019-06-29 10:52:08,035 Reading /home/rad/data/m50n512/s50/Groups/m50n512_024.hdf5
+yt : [INFO     ] 2019-06-29 10:52:08,125 Restoring galaxy attributes
+Returning STAR  Particle IDs
+Returning STAR  Particle IDs
+Returning STAR  ID_Generations
+Returning STAR  ID_Generations
+progen : Read ID info for 7162118 current star parts and 8615 progenitor star parts [t=1241.94 s]
+progen : Gathered ID info for 3176 progenitor stars out of 7162118 total stars [t=1242.47 s]
+progen : Sorted progenitor IDs [t=1242.47 s]
+progen : Out of 6908 galaxies, most common prog 0 had no progenitors.
+progen : Doing pair [151, 23] [t=1245.77 s]
+yt : [INFO     ] 2019-06-29 10:52:12,344 Reading /home/rad/data/m50n512/s50/Groups/m50n512_023.hdf5
+yt : [INFO     ] 2019-06-29 10:52:12,436 Restoring galaxy attributes
+Returning STAR  Particle IDs
+Returning STAR  Particle IDs
+Returning STAR  ID_Generations
+Returning STAR  ID_Generations
+progen : Read ID info for 7162118 current star parts and 6403 progenitor star parts [t=1246.24 s]
+progen : Gathered ID info for 2214 progenitor stars out of 7162118 total stars [t=1246.77 s]
+progen : Sorted progenitor IDs [t=1246.77 s]
+progen : Out of 6908 galaxies, most common prog 0 had no progenitors.
+progen : Doing pair [151, 22] [t=1250.02 s]
+yt : [INFO     ] 2019-06-29 10:52:16,599 Reading /home/rad/data/m50n512/s50/Groups/m50n512_022.hdf5
+yt : [INFO     ] 2019-06-29 10:52:16,691 Restoring galaxy attributes
+Returning STAR  Particle IDs
+Returning STAR  Particle IDs
+Returning STAR  ID_Generations
+Returning STAR  ID_Generations
+progen : Read ID info for 7162118 current star parts and 4558 progenitor star parts [t=1250.41 s]
+progen : Gathered ID info for 1558 progenitor stars out of 7162118 total stars [t=1250.91 s]
+progen : Sorted progenitor IDs [t=1250.91 s]
+progen : Out of 6908 galaxies, most common prog 0 had no progenitors.
+progen : Doing pair [151, 21] [t=1254.16 s]
+yt : [INFO     ] 2019-06-29 10:52:20,739 Reading /home/rad/data/m50n512/s50/Groups/m50n512_021.hdf5
+yt : [INFO     ] 2019-06-29 10:52:20,829 Restoring galaxy attributes
+Returning STAR  Particle IDs
+Returning STAR  Particle IDs
+Returning STAR  ID_Generations
+Returning STAR  ID_Generations
+progen : Read ID info for 7162118 current star parts and 2877 progenitor star parts [t=1254.6 s]
+progen : Gathered ID info for 865 progenitor stars out of 7162118 total stars [t=1255.09 s]
+progen : Sorted progenitor IDs [t=1255.09 s]
+progen : Out of 6908 galaxies, most common prog 0 had no progenitors.
+progen : Doing pair [151, 20] [t=1258.33 s]
+yt : [INFO     ] 2019-06-29 10:52:24,902 Reading /home/rad/data/m50n512/s50/Groups/m50n512_020.hdf5
+yt : [INFO     ] 2019-06-29 10:52:24,996 Restoring galaxy attributes
+Returning STAR  Particle IDs
+Returning STAR  Particle IDs
+Returning STAR  ID_Generations
+Returning STAR  ID_Generations
+progen : Read ID info for 7162118 current star parts and 1888 progenitor star parts [t=1258.78 s]
+progen : Gathered ID info for 474 progenitor stars out of 7162118 total stars [t=1259.31 s]
+progen : Sorted progenitor IDs [t=1259.31 s]
+progen : Out of 6908 galaxies, most common prog 0 had no progenitors.
+progen : Doing pair [151, 19] [t=1262.49 s]
+yt : [INFO     ] 2019-06-29 10:52:29,065 Reading /home/rad/data/m50n512/s50/Groups/m50n512_019.hdf5
+yt : [INFO     ] 2019-06-29 10:52:29,167 Restoring galaxy attributes
+Returning STAR  Particle IDs
+Returning STAR  Particle IDs
+Returning STAR  ID_Generations
+Returning STAR  ID_Generations
+progen : Read ID info for 7162118 current star parts and 1263 progenitor star parts [t=1262.94 s]
+progen : Gathered ID info for 305 progenitor stars out of 7162118 total stars [t=1263.46 s]
+progen : Sorted progenitor IDs [t=1263.46 s]
+progen : Out of 6908 galaxies, most common prog 0 had no progenitors.
+progen : Doing pair [151, 18] [t=1266.63 s]
+yt : [INFO     ] 2019-06-29 10:52:33,208 Reading /home/rad/data/m50n512/s50/Groups/m50n512_018.hdf5
+yt : [INFO     ] 2019-06-29 10:52:33,295 Restoring galaxy attributes
+Returning STAR  Particle IDs
+Returning STAR  Particle IDs
+Returning STAR  ID_Generations
+Returning STAR  ID_Generations
+progen : Read ID info for 7162118 current star parts and 834 progenitor star parts [t=1267.09 s]
+progen : Gathered ID info for 130 progenitor stars out of 7162118 total stars [t=1267.62 s]
+progen : Sorted progenitor IDs [t=1267.62 s]
+progen : Out of 6908 galaxies, most common prog 0 had no progenitors.
+progen : Wrote info to file /home/rad/data/m50n512/s50/Groups/progen_m50n512_151.dat [t=1275.6 s]

@@ -1,0 +1,1350 @@
+progen : Doing snapshot pairs: [[151, 150], [151, 149], [151, 148], [151, 147], [151, 146], [151, 145], [151, 144], [151, 143], [151, 142], [151, 141], [151, 140], [151, 139], [151, 138], [151, 137], [151, 136], [151, 135], [151, 134], [151, 133], [151, 132], [151, 131], [151, 130], [151, 129], [151, 128], [151, 127], [151, 126], [151, 125], [151, 124], [151, 123], [151, 122], [151, 121], [151, 120], [151, 119], [151, 118], [151, 117], [151, 115], [151, 114], [151, 113], [151, 112], [151, 111], [151, 110], [151, 109], [151, 108], [151, 107], [151, 106], [151, 105], [151, 104], [151, 103], [151, 102], [151, 101], [151, 100], [151, 99], [151, 98], [151, 97], [151, 96], [151, 95], [151, 94], [151, 93], [151, 92], [151, 91], [151, 90], [151, 89], [151, 88], [151, 87], [151, 86], [151, 85], [151, 84], [151, 83], [151, 82], [151, 81], [151, 80], [151, 79], [151, 78], [151, 77], [151, 76], [151, 75], [151, 74], [151, 73], [151, 72], [151, 71], [151, 70], [151, 69], [151, 68], [151, 67], [151, 66], [151, 65], [151, 64], [151, 63], [151, 62], [151, 61], [151, 60], [151, 59], [151, 58], [151, 57], [151, 56], [151, 55], [151, 54], [151, 53], [151, 52], [151, 51], [151, 50], [151, 49], [151, 48], [151, 47], [151, 46], [151, 45], [151, 44], [151, 43], [151, 42], [151, 41], [151, 40], [151, 39], [151, 38], [151, 37], [151, 36], [151, 35], [151, 34], [151, 33], [151, 32], [151, 31], [151, 30], [151, 29], [151, 28], [151, 27], [151, 26], [151, 25], [151, 24], [151, 23], [151, 22], [151, 21], [151, 20], [151, 19], [151, 18]]
+yt : [INFO     ] 2019-06-28 09:52:00,186 Reading /home/rad/data/m50n512/s50/Groups/m50n512_151.hdf5
+yt : [INFO     ] 2019-06-28 09:52:00,315 Restoring galaxy attributes
+progen : Doing pair [151, 150] [t=9.332 s]
+yt : [INFO     ] 2019-06-28 09:52:09,518 Reading /home/rad/data/m50n512/s50/Groups/m50n512_150.hdf5
+yt : [INFO     ] 2019-06-28 09:52:09,657 Restoring galaxy attributes
+Returning BNDRY Particle IDs
+Returning BNDRY Particle IDs
+Returning BNDRY ID_Generations
+Returning BNDRY ID_Generations
+progen : Read ID info for 6407 current bndry parts and 6249 progenitor bndry parts [t=19.1877 s]
+progen : Gathered ID info for 3178 progenitor stars out of 6407 total stars [t=19.2033 s]
+progen : Sorted progenitor IDs [t=19.2037 s]
+progen : Out of 6908 galaxies, most common prog 2 appeared 2 times. 4005 had no progenitors.
+progen : Doing pair [151, 149] [t=20.078 s]
+yt : [INFO     ] 2019-06-28 09:52:20,264 Reading /home/rad/data/m50n512/s50/Groups/m50n512_149.hdf5
+yt : [INFO     ] 2019-06-28 09:52:20,404 Restoring galaxy attributes
+Returning BNDRY Particle IDs
+Returning BNDRY Particle IDs
+Returning BNDRY ID_Generations
+Returning BNDRY ID_Generations
+progen : Read ID info for 6407 current bndry parts and 6120 progenitor bndry parts [t=30.5098 s]
+progen : Gathered ID info for 3159 progenitor stars out of 6407 total stars [t=30.5249 s]
+progen : Sorted progenitor IDs [t=30.5253 s]
+progen : Out of 6908 galaxies, most common prog 8 appeared 3 times. 4055 had no progenitors.
+progen : Doing pair [151, 148] [t=31.421 s]
+yt : [INFO     ] 2019-06-28 09:52:31,607 Reading /home/rad/data/m50n512/s50/Groups/m50n512_148.hdf5
+yt : [INFO     ] 2019-06-28 09:52:31,755 Restoring galaxy attributes
+Returning BNDRY Particle IDs
+Returning BNDRY Particle IDs
+Returning BNDRY ID_Generations
+Returning BNDRY ID_Generations
+progen : Read ID info for 6407 current bndry parts and 5967 progenitor bndry parts [t=42.2896 s]
+progen : Gathered ID info for 3111 progenitor stars out of 6407 total stars [t=42.3048 s]
+progen : Sorted progenitor IDs [t=42.3053 s]
+progen : Out of 6908 galaxies, most common prog 0 appeared 2 times. 4103 had no progenitors.
+progen : Doing pair [151, 147] [t=43.185 s]
+yt : [INFO     ] 2019-06-28 09:52:43,371 Reading /home/rad/data/m50n512/s50/Groups/m50n512_147.hdf5
+yt : [INFO     ] 2019-06-28 09:52:43,523 Restoring galaxy attributes
+Returning BNDRY Particle IDs
+Returning BNDRY Particle IDs
+Returning BNDRY ID_Generations
+Returning BNDRY ID_Generations
+progen : Read ID info for 6407 current bndry parts and 5861 progenitor bndry parts [t=51.3907 s]
+progen : Gathered ID info for 3131 progenitor stars out of 6407 total stars [t=51.406 s]
+progen : Sorted progenitor IDs [t=51.4063 s]
+progen : Out of 6908 galaxies, most common prog 3 appeared 2 times. 4149 had no progenitors.
+progen : Doing pair [151, 146] [t=51.864 s]
+yt : [INFO     ] 2019-06-28 09:52:52,050 Reading /home/rad/data/m50n512/s50/Groups/m50n512_146.hdf5
+yt : [INFO     ] 2019-06-28 09:52:52,169 Restoring galaxy attributes
+Returning BNDRY Particle IDs
+Returning BNDRY Particle IDs
+Returning BNDRY ID_Generations
+Returning BNDRY ID_Generations
+progen : Read ID info for 6407 current bndry parts and 5722 progenitor bndry parts [t=60.1437 s]
+progen : Gathered ID info for 3076 progenitor stars out of 6407 total stars [t=60.1573 s]
+progen : Sorted progenitor IDs [t=60.1578 s]
+progen : Out of 6908 galaxies, most common prog 0 appeared 2 times. 4198 had no progenitors.
+progen : Doing pair [151, 145] [t=60.826 s]
+yt : [INFO     ] 2019-06-28 09:53:01,011 Reading /home/rad/data/m50n512/s50/Groups/m50n512_145.hdf5
+yt : [INFO     ] 2019-06-28 09:53:01,144 Restoring galaxy attributes
+Returning BNDRY Particle IDs
+Returning BNDRY Particle IDs
+Returning BNDRY ID_Generations
+Returning BNDRY ID_Generations
+progen : Read ID info for 6407 current bndry parts and 5600 progenitor bndry parts [t=69.1994 s]
+progen : Gathered ID info for 3058 progenitor stars out of 6407 total stars [t=69.2108 s]
+progen : Sorted progenitor IDs [t=69.2112 s]
+progen : Out of 6908 galaxies, most common prog 3 appeared 2 times. 4242 had no progenitors.
+progen : Doing pair [151, 144] [t=69.807 s]
+yt : [INFO     ] 2019-06-28 09:53:09,993 Reading /home/rad/data/m50n512/s50/Groups/m50n512_144.hdf5
+yt : [INFO     ] 2019-06-28 09:53:10,115 Restoring galaxy attributes
+Returning BNDRY Particle IDs
+Returning BNDRY Particle IDs
+Returning BNDRY ID_Generations
+Returning BNDRY ID_Generations
+progen : Read ID info for 6407 current bndry parts and 5470 progenitor bndry parts [t=77.7625 s]
+progen : Gathered ID info for 3002 progenitor stars out of 6407 total stars [t=77.7747 s]
+progen : Sorted progenitor IDs [t=77.7752 s]
+progen : Out of 6908 galaxies, most common prog 0 appeared 2 times. 4289 had no progenitors.
+progen : Doing pair [151, 143] [t=78.405 s]
+yt : [INFO     ] 2019-06-28 09:53:18,591 Reading /home/rad/data/m50n512/s50/Groups/m50n512_143.hdf5
+yt : [INFO     ] 2019-06-28 09:53:18,722 Restoring galaxy attributes
+Returning BNDRY Particle IDs
+Returning BNDRY Particle IDs
+Returning BNDRY ID_Generations
+Returning BNDRY ID_Generations
+progen : Read ID info for 6407 current bndry parts and 5314 progenitor bndry parts [t=86.7158 s]
+progen : Gathered ID info for 2998 progenitor stars out of 6407 total stars [t=86.7279 s]
+progen : Sorted progenitor IDs [t=86.7283 s]
+progen : Out of 6908 galaxies, most common prog 0 appeared 2 times. 4334 had no progenitors.
+progen : Doing pair [151, 142] [t=87.316 s]
+yt : [INFO     ] 2019-06-28 09:53:27,501 Reading /home/rad/data/m50n512/s50/Groups/m50n512_142.hdf5
+yt : [INFO     ] 2019-06-28 09:53:27,634 Restoring galaxy attributes
+Returning BNDRY Particle IDs
+Returning BNDRY Particle IDs
+Returning BNDRY ID_Generations
+Returning BNDRY ID_Generations
+progen : Read ID info for 6407 current bndry parts and 5157 progenitor bndry parts [t=95.2578 s]
+progen : Gathered ID info for 2943 progenitor stars out of 6407 total stars [t=95.2701 s]
+progen : Sorted progenitor IDs [t=95.2705 s]
+progen : Out of 6908 galaxies, most common prog 0 appeared 1 times. 4381 had no progenitors.
+progen : Doing pair [151, 141] [t=95.894 s]
+yt : [INFO     ] 2019-06-28 09:53:36,080 Reading /home/rad/data/m50n512/s50/Groups/m50n512_141.hdf5
+yt : [INFO     ] 2019-06-28 09:53:36,201 Restoring galaxy attributes
+Returning BNDRY Particle IDs
+Returning BNDRY Particle IDs
+Returning BNDRY ID_Generations
+Returning BNDRY ID_Generations
+progen : Read ID info for 6407 current bndry parts and 5072 progenitor bndry parts [t=104.192 s]
+progen : Gathered ID info for 2931 progenitor stars out of 6407 total stars [t=104.2 s]
+progen : Sorted progenitor IDs [t=104.2 s]
+progen : Out of 6908 galaxies, most common prog 0 appeared 2 times. 4426 had no progenitors.
+progen : Doing pair [151, 140] [t=104.63 s]
+yt : [INFO     ] 2019-06-28 09:53:44,816 Reading /home/rad/data/m50n512/s50/Groups/m50n512_140.hdf5
+yt : [INFO     ] 2019-06-28 09:53:44,925 Restoring galaxy attributes
+Returning BNDRY Particle IDs
+Returning BNDRY Particle IDs
+Returning BNDRY ID_Generations
+Returning BNDRY ID_Generations
+progen : Read ID info for 6407 current bndry parts and 5002 progenitor bndry parts [t=110.347 s]
+progen : Gathered ID info for 2916 progenitor stars out of 6407 total stars [t=110.353 s]
+progen : Sorted progenitor IDs [t=110.353 s]
+progen : Out of 6908 galaxies, most common prog 8 appeared 2 times. 4476 had no progenitors.
+progen : Doing pair [151, 139] [t=110.761 s]
+yt : [INFO     ] 2019-06-28 09:53:50,947 Reading /home/rad/data/m50n512/s50/Groups/m50n512_139.hdf5
+yt : [INFO     ] 2019-06-28 09:53:51,050 Restoring galaxy attributes
+Returning BNDRY Particle IDs
+Returning BNDRY Particle IDs
+Returning BNDRY ID_Generations
+Returning BNDRY ID_Generations
+progen : Read ID info for 6407 current bndry parts and 4935 progenitor bndry parts [t=117.316 s]
+progen : Gathered ID info for 2894 progenitor stars out of 6407 total stars [t=117.323 s]
+progen : Sorted progenitor IDs [t=117.323 s]
+progen : Out of 6908 galaxies, most common prog 485 appeared 2 times. 4511 had no progenitors.
+progen : Doing pair [151, 138] [t=117.707 s]
+yt : [INFO     ] 2019-06-28 09:53:57,892 Reading /home/rad/data/m50n512/s50/Groups/m50n512_138.hdf5
+yt : [INFO     ] 2019-06-28 09:53:58,193 Restoring galaxy attributes
+Returning BNDRY Particle IDs
+Returning BNDRY Particle IDs
+Returning BNDRY ID_Generations
+Returning BNDRY ID_Generations
+progen : Read ID info for 6407 current bndry parts and 4892 progenitor bndry parts [t=125.549 s]
+progen : Gathered ID info for 2855 progenitor stars out of 6407 total stars [t=125.556 s]
+progen : Sorted progenitor IDs [t=125.556 s]
+progen : Out of 6908 galaxies, most common prog 10 appeared 2 times. 4543 had no progenitors.
+progen : Doing pair [151, 137] [t=125.927 s]
+yt : [INFO     ] 2019-06-28 09:54:06,113 Reading /home/rad/data/m50n512/s50/Groups/m50n512_137.hdf5
+yt : [INFO     ] 2019-06-28 09:54:06,389 Restoring galaxy attributes
+Returning BNDRY Particle IDs
+Returning BNDRY Particle IDs
+Returning BNDRY ID_Generations
+Returning BNDRY ID_Generations
+progen : Read ID info for 6407 current bndry parts and 4828 progenitor bndry parts [t=132.067 s]
+progen : Gathered ID info for 2852 progenitor stars out of 6407 total stars [t=132.074 s]
+progen : Sorted progenitor IDs [t=132.074 s]
+progen : Out of 6908 galaxies, most common prog 1 appeared 1 times. 4587 had no progenitors.
+progen : Doing pair [151, 136] [t=132.468 s]
+yt : [INFO     ] 2019-06-28 09:54:12,654 Reading /home/rad/data/m50n512/s50/Groups/m50n512_136.hdf5
+yt : [INFO     ] 2019-06-28 09:54:12,753 Restoring galaxy attributes
+Returning BNDRY Particle IDs
+Returning BNDRY Particle IDs
+Returning BNDRY ID_Generations
+Returning BNDRY ID_Generations
+progen : Read ID info for 6407 current bndry parts and 4724 progenitor bndry parts [t=137.562 s]
+progen : Gathered ID info for 2822 progenitor stars out of 6407 total stars [t=137.569 s]
+progen : Sorted progenitor IDs [t=137.569 s]
+progen : Out of 6908 galaxies, most common prog 1 appeared 1 times. 4629 had no progenitors.
+progen : Doing pair [151, 135] [t=137.927 s]
+yt : [INFO     ] 2019-06-28 09:54:18,113 Reading /home/rad/data/m50n512/s50/Groups/m50n512_135.hdf5
+yt : [INFO     ] 2019-06-28 09:54:18,234 Restoring galaxy attributes
+Returning BNDRY Particle IDs
+Returning BNDRY Particle IDs
+Returning BNDRY ID_Generations
+Returning BNDRY ID_Generations
+progen : Read ID info for 6407 current bndry parts and 4621 progenitor bndry parts [t=143.067 s]
+progen : Gathered ID info for 2790 progenitor stars out of 6407 total stars [t=143.074 s]
+progen : Sorted progenitor IDs [t=143.074 s]
+progen : Out of 6908 galaxies, most common prog 1 appeared 1 times. 4684 had no progenitors.
+progen : Doing pair [151, 134] [t=143.433 s]
+yt : [INFO     ] 2019-06-28 09:54:23,619 Reading /home/rad/data/m50n512/s50/Groups/m50n512_134.hdf5
+yt : [INFO     ] 2019-06-28 09:54:23,713 Restoring galaxy attributes
+Returning BNDRY Particle IDs
+Returning BNDRY Particle IDs
+Returning BNDRY ID_Generations
+Returning BNDRY ID_Generations
+progen : Read ID info for 6407 current bndry parts and 4565 progenitor bndry parts [t=148.896 s]
+progen : Gathered ID info for 2780 progenitor stars out of 6407 total stars [t=148.903 s]
+progen : Sorted progenitor IDs [t=148.903 s]
+progen : Out of 6908 galaxies, most common prog 0 appeared 1 times. 4718 had no progenitors.
+progen : Doing pair [151, 133] [t=149.259 s]
+yt : [INFO     ] 2019-06-28 09:54:29,445 Reading /home/rad/data/m50n512/s50/Groups/m50n512_133.hdf5
+yt : [INFO     ] 2019-06-28 09:54:29,545 Restoring galaxy attributes
+Returning BNDRY Particle IDs
+Returning BNDRY Particle IDs
+Returning BNDRY ID_Generations
+Returning BNDRY ID_Generations
+progen : Read ID info for 6407 current bndry parts and 4465 progenitor bndry parts [t=154.439 s]
+progen : Gathered ID info for 2722 progenitor stars out of 6407 total stars [t=154.446 s]
+progen : Sorted progenitor IDs [t=154.447 s]
+progen : Out of 6908 galaxies, most common prog 0 appeared 1 times. 4762 had no progenitors.
+progen : Doing pair [151, 132] [t=154.817 s]
+yt : [INFO     ] 2019-06-28 09:54:35,003 Reading /home/rad/data/m50n512/s50/Groups/m50n512_132.hdf5
+yt : [INFO     ] 2019-06-28 09:54:35,107 Restoring galaxy attributes
+Returning BNDRY Particle IDs
+Returning BNDRY Particle IDs
+Returning BNDRY ID_Generations
+Returning BNDRY ID_Generations
+progen : Read ID info for 6407 current bndry parts and 4358 progenitor bndry parts [t=163.195 s]
+progen : Gathered ID info for 2712 progenitor stars out of 6407 total stars [t=163.203 s]
+progen : Sorted progenitor IDs [t=163.203 s]
+progen : Out of 6908 galaxies, most common prog 0 appeared 1 times. 4801 had no progenitors.
+progen : Doing pair [151, 131] [t=163.538 s]
+yt : [INFO     ] 2019-06-28 09:54:43,724 Reading /home/rad/data/m50n512/s50/Groups/m50n512_131.hdf5
+yt : [INFO     ] 2019-06-28 09:54:43,931 Restoring galaxy attributes
+Returning BNDRY Particle IDs
+Returning BNDRY Particle IDs
+Returning BNDRY ID_Generations
+Returning BNDRY ID_Generations
+progen : Read ID info for 6407 current bndry parts and 4235 progenitor bndry parts [t=170.677 s]
+progen : Gathered ID info for 2663 progenitor stars out of 6407 total stars [t=170.684 s]
+progen : Sorted progenitor IDs [t=170.684 s]
+progen : Out of 6908 galaxies, most common prog 1 appeared 1 times. 4841 had no progenitors.
+progen : Doing pair [151, 130] [t=171.034 s]
+yt : [INFO     ] 2019-06-28 09:54:51,220 Reading /home/rad/data/m50n512/s50/Groups/m50n512_130.hdf5
+yt : [INFO     ] 2019-06-28 09:54:51,334 Restoring galaxy attributes
+Returning BNDRY Particle IDs
+Returning BNDRY Particle IDs
+Returning BNDRY ID_Generations
+Returning BNDRY ID_Generations
+progen : Read ID info for 6407 current bndry parts and 4166 progenitor bndry parts [t=176.29 s]
+progen : Gathered ID info for 2645 progenitor stars out of 6407 total stars [t=176.298 s]
+progen : Sorted progenitor IDs [t=176.299 s]
+progen : Out of 6908 galaxies, most common prog 1 appeared 1 times. 4879 had no progenitors.
+progen : Doing pair [151, 129] [t=176.631 s]
+yt : [INFO     ] 2019-06-28 09:54:56,817 Reading /home/rad/data/m50n512/s50/Groups/m50n512_129.hdf5
+yt : [INFO     ] 2019-06-28 09:54:56,926 Restoring galaxy attributes
+Returning BNDRY Particle IDs
+Returning BNDRY Particle IDs
+Returning BNDRY ID_Generations
+Returning BNDRY ID_Generations
+progen : Read ID info for 6407 current bndry parts and 4016 progenitor bndry parts [t=183.2 s]
+progen : Gathered ID info for 2564 progenitor stars out of 6407 total stars [t=183.207 s]
+progen : Sorted progenitor IDs [t=183.207 s]
+progen : Out of 6908 galaxies, most common prog 8 appeared 2 times. 4923 had no progenitors.
+progen : Doing pair [151, 128] [t=183.554 s]
+yt : [INFO     ] 2019-06-28 09:55:03,740 Reading /home/rad/data/m50n512/s50/Groups/m50n512_128.hdf5
+yt : [INFO     ] 2019-06-28 09:55:04,035 Restoring galaxy attributes
+Returning BNDRY Particle IDs
+Returning BNDRY Particle IDs
+Returning BNDRY ID_Generations
+Returning BNDRY ID_Generations
+progen : Read ID info for 6407 current bndry parts and 3940 progenitor bndry parts [t=189.258 s]
+progen : Gathered ID info for 2561 progenitor stars out of 6407 total stars [t=189.265 s]
+progen : Sorted progenitor IDs [t=189.265 s]
+progen : Out of 6908 galaxies, most common prog 1 appeared 1 times. 4959 had no progenitors.
+progen : Doing pair [151, 127] [t=189.596 s]
+yt : [INFO     ] 2019-06-28 09:55:09,782 Reading /home/rad/data/m50n512/s50/Groups/m50n512_127.hdf5
+yt : [INFO     ] 2019-06-28 09:55:09,895 Restoring galaxy attributes
+Returning BNDRY Particle IDs
+Returning BNDRY Particle IDs
+Returning BNDRY ID_Generations
+Returning BNDRY ID_Generations
+progen : Read ID info for 6407 current bndry parts and 3833 progenitor bndry parts [t=195.819 s]
+progen : Gathered ID info for 2515 progenitor stars out of 6407 total stars [t=195.824 s]
+progen : Sorted progenitor IDs [t=195.824 s]
+progen : Out of 6908 galaxies, most common prog 1 appeared 1 times. 5005 had no progenitors.
+progen : Doing pair [151, 126] [t=196.153 s]
+yt : [INFO     ] 2019-06-28 09:55:16,339 Reading /home/rad/data/m50n512/s50/Groups/m50n512_126.hdf5
+yt : [INFO     ] 2019-06-28 09:55:16,651 Restoring galaxy attributes
+Returning BNDRY Particle IDs
+Returning BNDRY Particle IDs
+Returning BNDRY ID_Generations
+Returning BNDRY ID_Generations
+progen : Read ID info for 6407 current bndry parts and 3737 progenitor bndry parts [t=202.26 s]
+progen : Gathered ID info for 2475 progenitor stars out of 6407 total stars [t=202.266 s]
+progen : Sorted progenitor IDs [t=202.266 s]
+progen : Out of 6908 galaxies, most common prog 1 appeared 1 times. 5051 had no progenitors.
+progen : Doing pair [151, 125] [t=202.596 s]
+yt : [INFO     ] 2019-06-28 09:55:22,782 Reading /home/rad/data/m50n512/s50/Groups/m50n512_125.hdf5
+yt : [INFO     ] 2019-06-28 09:55:22,896 Restoring galaxy attributes
+Returning BNDRY Particle IDs
+Returning BNDRY Particle IDs
+Returning BNDRY ID_Generations
+Returning BNDRY ID_Generations
+progen : Read ID info for 6407 current bndry parts and 3677 progenitor bndry parts [t=207.939 s]
+progen : Gathered ID info for 2451 progenitor stars out of 6407 total stars [t=207.946 s]
+progen : Sorted progenitor IDs [t=207.946 s]
+progen : Out of 6908 galaxies, most common prog 1 appeared 1 times. 5094 had no progenitors.
+progen : Doing pair [151, 124] [t=208.25 s]
+yt : [INFO     ] 2019-06-28 09:55:28,436 Reading /home/rad/data/m50n512/s50/Groups/m50n512_124.hdf5
+yt : [INFO     ] 2019-06-28 09:55:28,546 Restoring galaxy attributes
+Returning BNDRY Particle IDs
+Returning BNDRY Particle IDs
+Returning BNDRY ID_Generations
+Returning BNDRY ID_Generations
+progen : Read ID info for 6407 current bndry parts and 3556 progenitor bndry parts [t=216.352 s]
+progen : Gathered ID info for 2396 progenitor stars out of 6407 total stars [t=216.358 s]
+progen : Sorted progenitor IDs [t=216.358 s]
+progen : Out of 6908 galaxies, most common prog 1 appeared 1 times. 5138 had no progenitors.
+progen : Doing pair [151, 123] [t=216.673 s]
+yt : [INFO     ] 2019-06-28 09:55:36,859 Reading /home/rad/data/m50n512/s50/Groups/m50n512_123.hdf5
+yt : [INFO     ] 2019-06-28 09:55:37,099 Restoring galaxy attributes
+Returning BNDRY Particle IDs
+Returning BNDRY Particle IDs
+Returning BNDRY ID_Generations
+Returning BNDRY ID_Generations
+progen : Read ID info for 6407 current bndry parts and 3424 progenitor bndry parts [t=221.876 s]
+progen : Gathered ID info for 2353 progenitor stars out of 6407 total stars [t=221.883 s]
+progen : Sorted progenitor IDs [t=221.883 s]
+progen : Out of 6908 galaxies, most common prog 0 appeared 1 times. 5181 had no progenitors.
+progen : Doing pair [151, 122] [t=222.195 s]
+yt : [INFO     ] 2019-06-28 09:55:42,380 Reading /home/rad/data/m50n512/s50/Groups/m50n512_122.hdf5
+yt : [INFO     ] 2019-06-28 09:55:42,481 Restoring galaxy attributes
+Returning BNDRY Particle IDs
+Returning BNDRY Particle IDs
+Returning BNDRY ID_Generations
+Returning BNDRY ID_Generations
+progen : Read ID info for 6407 current bndry parts and 3314 progenitor bndry parts [t=226.754 s]
+progen : Gathered ID info for 2321 progenitor stars out of 6407 total stars [t=226.759 s]
+progen : Sorted progenitor IDs [t=226.759 s]
+progen : Out of 6908 galaxies, most common prog 1 appeared 1 times. 5218 had no progenitors.
+progen : Doing pair [151, 121] [t=227.052 s]
+yt : [INFO     ] 2019-06-28 09:55:47,238 Reading /home/rad/data/m50n512/s50/Groups/m50n512_121.hdf5
+yt : [INFO     ] 2019-06-28 09:55:47,352 Restoring galaxy attributes
+Returning BNDRY Particle IDs
+Returning BNDRY Particle IDs
+Returning BNDRY ID_Generations
+Returning BNDRY ID_Generations
+progen : Read ID info for 6407 current bndry parts and 3179 progenitor bndry parts [t=232.089 s]
+progen : Gathered ID info for 2258 progenitor stars out of 6407 total stars [t=232.095 s]
+progen : Sorted progenitor IDs [t=232.096 s]
+progen : Out of 6908 galaxies, most common prog 1 appeared 1 times. 5272 had no progenitors.
+progen : Doing pair [151, 120] [t=232.377 s]
+yt : [INFO     ] 2019-06-28 09:55:52,563 Reading /home/rad/data/m50n512/s50/Groups/m50n512_120.hdf5
+yt : [INFO     ] 2019-06-28 09:55:52,659 Restoring galaxy attributes
+Returning BNDRY Particle IDs
+Returning BNDRY Particle IDs
+Returning BNDRY ID_Generations
+Returning BNDRY ID_Generations
+progen : Read ID info for 6407 current bndry parts and 3098 progenitor bndry parts [t=237.35 s]
+progen : Gathered ID info for 2223 progenitor stars out of 6407 total stars [t=237.357 s]
+progen : Sorted progenitor IDs [t=237.357 s]
+progen : Out of 6908 galaxies, most common prog 1 appeared 1 times. 5310 had no progenitors.
+progen : Doing pair [151, 119] [t=237.636 s]
+yt : [INFO     ] 2019-06-28 09:55:57,822 Reading /home/rad/data/m50n512/s50/Groups/m50n512_119.hdf5
+yt : [INFO     ] 2019-06-28 09:55:57,928 Restoring galaxy attributes
+Returning BNDRY Particle IDs
+Returning BNDRY Particle IDs
+Returning BNDRY ID_Generations
+Returning BNDRY ID_Generations
+progen : Read ID info for 6407 current bndry parts and 2996 progenitor bndry parts [t=243.888 s]
+progen : Gathered ID info for 2157 progenitor stars out of 6407 total stars [t=243.894 s]
+progen : Sorted progenitor IDs [t=243.894 s]
+progen : Out of 6908 galaxies, most common prog 1 appeared 1 times. 5354 had no progenitors.
+progen : Doing pair [151, 118] [t=244.17 s]
+yt : [INFO     ] 2019-06-28 09:56:04,355 Reading /home/rad/data/m50n512/s50/Groups/m50n512_118.hdf5
+yt : [INFO     ] 2019-06-28 09:56:04,526 Restoring galaxy attributes
+Returning BNDRY Particle IDs
+Returning BNDRY Particle IDs
+Returning BNDRY ID_Generations
+Returning BNDRY ID_Generations
+progen : Read ID info for 6407 current bndry parts and 2948 progenitor bndry parts [t=249.858 s]
+progen : Gathered ID info for 2162 progenitor stars out of 6407 total stars [t=249.864 s]
+progen : Sorted progenitor IDs [t=249.865 s]
+progen : Out of 6908 galaxies, most common prog 1 appeared 1 times. 5402 had no progenitors.
+progen : Doing pair [151, 117] [t=250.138 s]
+yt : [INFO     ] 2019-06-28 09:56:10,324 Reading /home/rad/data/m50n512/s50/Groups/m50n512_117.hdf5
+yt : [INFO     ] 2019-06-28 09:56:10,439 Restoring galaxy attributes
+Returning BNDRY Particle IDs
+Returning BNDRY Particle IDs
+Returning BNDRY ID_Generations
+Returning BNDRY ID_Generations
+progen : Read ID info for 6407 current bndry parts and 2829 progenitor bndry parts [t=255.137 s]
+progen : Gathered ID info for 2106 progenitor stars out of 6407 total stars [t=255.142 s]
+progen : Sorted progenitor IDs [t=255.143 s]
+progen : Out of 6908 galaxies, most common prog 1 appeared 1 times. 5434 had no progenitors.
+progen : Doing pair [151, 115] [t=255.408 s]
+yt : [INFO     ] 2019-06-28 09:56:15,594 Reading /home/rad/data/m50n512/s50/Groups/m50n512_115.hdf5
+yt : [INFO     ] 2019-06-28 09:56:15,693 Restoring galaxy attributes
+Returning BNDRY Particle IDs
+Returning BNDRY Particle IDs
+Returning BNDRY ID_Generations
+Returning BNDRY ID_Generations
+progen : Read ID info for 6407 current bndry parts and 2657 progenitor bndry parts [t=260.908 s]
+progen : Gathered ID info for 2032 progenitor stars out of 6407 total stars [t=260.914 s]
+progen : Sorted progenitor IDs [t=260.914 s]
+progen : Out of 6908 galaxies, most common prog 1 appeared 1 times. 5516 had no progenitors.
+progen : Doing pair [151, 114] [t=261.177 s]
+yt : [INFO     ] 2019-06-28 09:56:21,363 Reading /home/rad/data/m50n512/s50/Groups/m50n512_114.hdf5
+yt : [INFO     ] 2019-06-28 09:56:21,546 Restoring galaxy attributes
+Returning BNDRY Particle IDs
+Returning BNDRY Particle IDs
+Returning BNDRY ID_Generations
+Returning BNDRY ID_Generations
+progen : Read ID info for 6407 current bndry parts and 2585 progenitor bndry parts [t=267.409 s]
+progen : Gathered ID info for 1986 progenitor stars out of 6407 total stars [t=267.416 s]
+progen : Sorted progenitor IDs [t=267.416 s]
+progen : Out of 6908 galaxies, most common prog 1 appeared 1 times. 5543 had no progenitors.
+progen : Doing pair [151, 113] [t=267.684 s]
+yt : [INFO     ] 2019-06-28 09:56:27,869 Reading /home/rad/data/m50n512/s50/Groups/m50n512_113.hdf5
+yt : [INFO     ] 2019-06-28 09:56:27,978 Restoring galaxy attributes
+Returning BNDRY Particle IDs
+Returning BNDRY Particle IDs
+Returning BNDRY ID_Generations
+Returning BNDRY ID_Generations
+progen : Read ID info for 6407 current bndry parts and 2536 progenitor bndry parts [t=272.347 s]
+progen : Gathered ID info for 1971 progenitor stars out of 6407 total stars [t=272.353 s]
+progen : Sorted progenitor IDs [t=272.354 s]
+progen : Out of 6908 galaxies, most common prog 1 appeared 1 times. 5572 had no progenitors.
+progen : Doing pair [151, 112] [t=272.609 s]
+yt : [INFO     ] 2019-06-28 09:56:32,794 Reading /home/rad/data/m50n512/s50/Groups/m50n512_112.hdf5
+yt : [INFO     ] 2019-06-28 09:56:32,905 Restoring galaxy attributes
+Returning BNDRY Particle IDs
+Returning BNDRY Particle IDs
+Returning BNDRY ID_Generations
+Returning BNDRY ID_Generations
+progen : Read ID info for 6407 current bndry parts and 2464 progenitor bndry parts [t=278.891 s]
+progen : Gathered ID info for 1931 progenitor stars out of 6407 total stars [t=278.896 s]
+progen : Sorted progenitor IDs [t=278.896 s]
+progen : Out of 6908 galaxies, most common prog 1 appeared 1 times. 5601 had no progenitors.
+progen : Doing pair [151, 111] [t=279.144 s]
+yt : [INFO     ] 2019-06-28 09:56:39,330 Reading /home/rad/data/m50n512/s50/Groups/m50n512_111.hdf5
+yt : [INFO     ] 2019-06-28 09:56:39,531 Restoring galaxy attributes
+Returning BNDRY Particle IDs
+Returning BNDRY Particle IDs
+Returning BNDRY ID_Generations
+Returning BNDRY ID_Generations
+progen : Read ID info for 6407 current bndry parts and 2411 progenitor bndry parts [t=286.31 s]
+progen : Gathered ID info for 1927 progenitor stars out of 6407 total stars [t=286.316 s]
+progen : Sorted progenitor IDs [t=286.316 s]
+progen : Out of 6908 galaxies, most common prog 1 appeared 1 times. 5649 had no progenitors.
+progen : Doing pair [151, 110] [t=286.564 s]
+yt : [INFO     ] 2019-06-28 09:56:46,749 Reading /home/rad/data/m50n512/s50/Groups/m50n512_110.hdf5
+yt : [INFO     ] 2019-06-28 09:56:46,967 Restoring galaxy attributes
+Returning BNDRY Particle IDs
+Returning BNDRY Particle IDs
+Returning BNDRY ID_Generations
+Returning BNDRY ID_Generations
+progen : Read ID info for 6407 current bndry parts and 2358 progenitor bndry parts [t=293.799 s]
+progen : Gathered ID info for 1880 progenitor stars out of 6407 total stars [t=293.805 s]
+progen : Sorted progenitor IDs [t=293.805 s]
+progen : Out of 6908 galaxies, most common prog 1 appeared 1 times. 5695 had no progenitors.
+progen : Doing pair [151, 109] [t=294.043 s]
+yt : [INFO     ] 2019-06-28 09:56:54,229 Reading /home/rad/data/m50n512/s50/Groups/m50n512_109.hdf5
+yt : [INFO     ] 2019-06-28 09:56:54,541 Restoring galaxy attributes
+Returning BNDRY Particle IDs
+Returning BNDRY Particle IDs
+Returning BNDRY ID_Generations
+Returning BNDRY ID_Generations
+progen : Read ID info for 6407 current bndry parts and 2240 progenitor bndry parts [t=301.251 s]
+progen : Gathered ID info for 1788 progenitor stars out of 6407 total stars [t=301.256 s]
+progen : Sorted progenitor IDs [t=301.256 s]
+progen : Out of 6908 galaxies, most common prog 1 appeared 1 times. 5739 had no progenitors.
+progen : Doing pair [151, 108] [t=301.478 s]
+yt : [INFO     ] 2019-06-28 09:57:01,663 Reading /home/rad/data/m50n512/s50/Groups/m50n512_108.hdf5
+yt : [INFO     ] 2019-06-28 09:57:01,989 Restoring galaxy attributes
+Returning BNDRY Particle IDs
+Returning BNDRY Particle IDs
+Returning BNDRY ID_Generations
+Returning BNDRY ID_Generations
+progen : Read ID info for 6407 current bndry parts and 2218 progenitor bndry parts [t=309.609 s]
+progen : Gathered ID info for 1784 progenitor stars out of 6407 total stars [t=309.615 s]
+progen : Sorted progenitor IDs [t=309.615 s]
+progen : Out of 6908 galaxies, most common prog 1 appeared 1 times. 5775 had no progenitors.
+progen : Doing pair [151, 107] [t=309.844 s]
+yt : [INFO     ] 2019-06-28 09:57:10,030 Reading /home/rad/data/m50n512/s50/Groups/m50n512_107.hdf5
+yt : [INFO     ] 2019-06-28 09:57:10,252 Restoring galaxy attributes
+Returning BNDRY Particle IDs
+Returning BNDRY Particle IDs
+Returning BNDRY ID_Generations
+Returning BNDRY ID_Generations
+progen : Read ID info for 6407 current bndry parts and 2131 progenitor bndry parts [t=319.186 s]
+progen : Gathered ID info for 1709 progenitor stars out of 6407 total stars [t=319.204 s]
+progen : Sorted progenitor IDs [t=319.211 s]
+progen : Out of 6908 galaxies, most common prog 1 appeared 1 times. 5817 had no progenitors.
+progen : Doing pair [151, 106] [t=319.422 s]
+yt : [INFO     ] 2019-06-28 09:57:19,607 Reading /home/rad/data/m50n512/s50/Groups/m50n512_106.hdf5
+yt : [INFO     ] 2019-06-28 09:57:19,849 Restoring galaxy attributes
+Returning BNDRY Particle IDs
+Returning BNDRY Particle IDs
+Returning BNDRY ID_Generations
+Returning BNDRY ID_Generations
+progen : Read ID info for 6407 current bndry parts and 2045 progenitor bndry parts [t=328.364 s]
+progen : Gathered ID info for 1656 progenitor stars out of 6407 total stars [t=328.371 s]
+progen : Sorted progenitor IDs [t=328.371 s]
+progen : Out of 6908 galaxies, most common prog 1 appeared 1 times. 5854 had no progenitors.
+progen : Doing pair [151, 105] [t=328.584 s]
+yt : [INFO     ] 2019-06-28 09:57:28,769 Reading /home/rad/data/m50n512/s50/Groups/m50n512_105.hdf5
+yt : [INFO     ] 2019-06-28 09:57:28,969 Restoring galaxy attributes
+Returning BNDRY Particle IDs
+Returning BNDRY Particle IDs
+Returning BNDRY ID_Generations
+Returning BNDRY ID_Generations
+progen : Read ID info for 6407 current bndry parts and 2009 progenitor bndry parts [t=333.455 s]
+progen : Gathered ID info for 1614 progenitor stars out of 6407 total stars [t=333.46 s]
+progen : Sorted progenitor IDs [t=333.46 s]
+progen : Out of 6908 galaxies, most common prog 1 appeared 1 times. 5890 had no progenitors.
+progen : Doing pair [151, 104] [t=333.67 s]
+yt : [INFO     ] 2019-06-28 09:57:33,856 Reading /home/rad/data/m50n512/s50/Groups/m50n512_104.hdf5
+yt : [INFO     ] 2019-06-28 09:57:33,968 Restoring galaxy attributes
+Returning BNDRY Particle IDs
+Returning BNDRY Particle IDs
+Returning BNDRY ID_Generations
+Returning BNDRY ID_Generations
+progen : Read ID info for 6407 current bndry parts and 1930 progenitor bndry parts [t=338.32 s]
+progen : Gathered ID info for 1555 progenitor stars out of 6407 total stars [t=338.325 s]
+progen : Sorted progenitor IDs [t=338.326 s]
+progen : Out of 6908 galaxies, most common prog 1 appeared 1 times. 5925 had no progenitors.
+progen : Doing pair [151, 103] [t=338.53 s]
+yt : [INFO     ] 2019-06-28 09:57:38,715 Reading /home/rad/data/m50n512/s50/Groups/m50n512_103.hdf5
+yt : [INFO     ] 2019-06-28 09:57:38,848 Restoring galaxy attributes
+Returning BNDRY Particle IDs
+Returning BNDRY Particle IDs
+Returning BNDRY ID_Generations
+Returning BNDRY ID_Generations
+progen : Read ID info for 6407 current bndry parts and 1905 progenitor bndry parts [t=342.027 s]
+progen : Gathered ID info for 1546 progenitor stars out of 6407 total stars [t=342.032 s]
+progen : Sorted progenitor IDs [t=342.033 s]
+progen : Out of 6908 galaxies, most common prog 1 appeared 1 times. 5963 had no progenitors.
+progen : Doing pair [151, 102] [t=342.242 s]
+yt : [INFO     ] 2019-06-28 09:57:42,428 Reading /home/rad/data/m50n512/s50/Groups/m50n512_102.hdf5
+yt : [INFO     ] 2019-06-28 09:57:42,542 Restoring galaxy attributes
+Returning BNDRY Particle IDs
+Returning BNDRY Particle IDs
+Returning BNDRY ID_Generations
+Returning BNDRY ID_Generations
+progen : Read ID info for 6407 current bndry parts and 1872 progenitor bndry parts [t=346.563 s]
+progen : Gathered ID info for 1521 progenitor stars out of 6407 total stars [t=346.569 s]
+progen : Sorted progenitor IDs [t=346.569 s]
+progen : Out of 6908 galaxies, most common prog 1 appeared 1 times. 5994 had no progenitors.
+progen : Doing pair [151, 101] [t=346.765 s]
+yt : [INFO     ] 2019-06-28 09:57:46,950 Reading /home/rad/data/m50n512/s50/Groups/m50n512_101.hdf5
+yt : [INFO     ] 2019-06-28 09:57:47,056 Restoring galaxy attributes
+Returning BNDRY Particle IDs
+Returning BNDRY Particle IDs
+Returning BNDRY ID_Generations
+Returning BNDRY ID_Generations
+progen : Read ID info for 6407 current bndry parts and 1837 progenitor bndry parts [t=350.944 s]
+progen : Gathered ID info for 1493 progenitor stars out of 6407 total stars [t=350.949 s]
+progen : Sorted progenitor IDs [t=350.949 s]
+progen : Out of 6908 galaxies, most common prog 1 appeared 1 times. 6014 had no progenitors.
+progen : Doing pair [151, 100] [t=351.138 s]
+yt : [INFO     ] 2019-06-28 09:57:51,323 Reading /home/rad/data/m50n512/s50/Groups/m50n512_100.hdf5
+yt : [INFO     ] 2019-06-28 09:57:51,445 Restoring galaxy attributes
+Returning BNDRY Particle IDs
+Returning BNDRY Particle IDs
+Returning BNDRY ID_Generations
+Returning BNDRY ID_Generations
+progen : Read ID info for 6407 current bndry parts and 1729 progenitor bndry parts [t=356.227 s]
+progen : Gathered ID info for 1406 progenitor stars out of 6407 total stars [t=356.232 s]
+progen : Sorted progenitor IDs [t=356.233 s]
+progen : Out of 6908 galaxies, most common prog 0 appeared 1 times. 6054 had no progenitors.
+progen : Doing pair [151, 99] [t=356.421 s]
+yt : [INFO     ] 2019-06-28 09:57:56,607 Reading /home/rad/data/m50n512/s50/Groups/m50n512_099.hdf5
+yt : [INFO     ] 2019-06-28 09:57:56,794 Restoring galaxy attributes
+Returning BNDRY Particle IDs
+Returning BNDRY Particle IDs
+Returning BNDRY ID_Generations
+Returning BNDRY ID_Generations
+progen : Read ID info for 6407 current bndry parts and 1676 progenitor bndry parts [t=364.039 s]
+progen : Gathered ID info for 1358 progenitor stars out of 6407 total stars [t=364.044 s]
+progen : Sorted progenitor IDs [t=364.044 s]
+progen : Out of 6908 galaxies, most common prog 0 appeared 1 times. 6079 had no progenitors.
+progen : Doing pair [151, 98] [t=364.226 s]
+yt : [INFO     ] 2019-06-28 09:58:04,412 Reading /home/rad/data/m50n512/s50/Groups/m50n512_098.hdf5
+yt : [INFO     ] 2019-06-28 09:58:04,701 Restoring galaxy attributes
+Returning BNDRY Particle IDs
+Returning BNDRY Particle IDs
+Returning BNDRY ID_Generations
+Returning BNDRY ID_Generations
+progen : Read ID info for 6407 current bndry parts and 1657 progenitor bndry parts [t=368.614 s]
+progen : Gathered ID info for 1373 progenitor stars out of 6407 total stars [t=368.618 s]
+progen : Sorted progenitor IDs [t=368.618 s]
+progen : Out of 6908 galaxies, most common prog 0 appeared 1 times. 6106 had no progenitors.
+progen : Doing pair [151, 97] [t=368.795 s]
+yt : [INFO     ] 2019-06-28 09:58:08,980 Reading /home/rad/data/m50n512/s50/Groups/m50n512_097.hdf5
+yt : [INFO     ] 2019-06-28 09:58:09,102 Restoring galaxy attributes
+Returning BNDRY Particle IDs
+Returning BNDRY Particle IDs
+Returning BNDRY ID_Generations
+Returning BNDRY ID_Generations
+progen : Read ID info for 6407 current bndry parts and 1591 progenitor bndry parts [t=372.926 s]
+progen : Gathered ID info for 1331 progenitor stars out of 6407 total stars [t=372.931 s]
+progen : Sorted progenitor IDs [t=372.931 s]
+progen : Out of 6908 galaxies, most common prog 0 appeared 1 times. 6137 had no progenitors.
+progen : Doing pair [151, 96] [t=373.108 s]
+yt : [INFO     ] 2019-06-28 09:58:13,294 Reading /home/rad/data/m50n512/s50/Groups/m50n512_096.hdf5
+yt : [INFO     ] 2019-06-28 09:58:13,412 Restoring galaxy attributes
+Returning BNDRY Particle IDs
+Returning BNDRY Particle IDs
+Returning BNDRY ID_Generations
+Returning BNDRY ID_Generations
+progen : Read ID info for 6407 current bndry parts and 1528 progenitor bndry parts [t=377.257 s]
+progen : Gathered ID info for 1260 progenitor stars out of 6407 total stars [t=377.261 s]
+progen : Sorted progenitor IDs [t=377.262 s]
+progen : Out of 6908 galaxies, most common prog 1 appeared 1 times. 6167 had no progenitors.
+progen : Doing pair [151, 95] [t=377.428 s]
+yt : [INFO     ] 2019-06-28 09:58:17,613 Reading /home/rad/data/m50n512/s50/Groups/m50n512_095.hdf5
+yt : [INFO     ] 2019-06-28 09:58:17,718 Restoring galaxy attributes
+Returning BNDRY Particle IDs
+Returning BNDRY Particle IDs
+Returning BNDRY ID_Generations
+Returning BNDRY ID_Generations
+progen : Read ID info for 6407 current bndry parts and 1501 progenitor bndry parts [t=381.708 s]
+progen : Gathered ID info for 1233 progenitor stars out of 6407 total stars [t=381.716 s]
+progen : Sorted progenitor IDs [t=381.717 s]
+progen : Out of 6908 galaxies, most common prog 1 appeared 1 times. 6196 had no progenitors.
+progen : Doing pair [151, 94] [t=382.018 s]
+yt : [INFO     ] 2019-06-28 09:58:22,204 Reading /home/rad/data/m50n512/s50/Groups/m50n512_094.hdf5
+yt : [INFO     ] 2019-06-28 09:58:22,373 Restoring galaxy attributes
+Returning BNDRY Particle IDs
+Returning BNDRY Particle IDs
+Returning BNDRY ID_Generations
+Returning BNDRY ID_Generations
+progen : Read ID info for 6407 current bndry parts and 1483 progenitor bndry parts [t=389.472 s]
+progen : Gathered ID info for 1224 progenitor stars out of 6407 total stars [t=389.481 s]
+progen : Sorted progenitor IDs [t=389.481 s]
+progen : Out of 6908 galaxies, most common prog 1 appeared 1 times. 6220 had no progenitors.
+progen : Doing pair [151, 93] [t=389.862 s]
+yt : [INFO     ] 2019-06-28 09:58:30,048 Reading /home/rad/data/m50n512/s50/Groups/m50n512_093.hdf5
+yt : [INFO     ] 2019-06-28 09:58:30,197 Restoring galaxy attributes
+Returning BNDRY Particle IDs
+Returning BNDRY Particle IDs
+Returning BNDRY ID_Generations
+Returning BNDRY ID_Generations
+progen : Read ID info for 6407 current bndry parts and 1449 progenitor bndry parts [t=396.668 s]
+progen : Gathered ID info for 1174 progenitor stars out of 6407 total stars [t=396.677 s]
+progen : Sorted progenitor IDs [t=396.677 s]
+progen : Out of 6908 galaxies, most common prog 1 appeared 1 times. 6247 had no progenitors.
+progen : Doing pair [151, 92] [t=397.017 s]
+yt : [INFO     ] 2019-06-28 09:58:37,203 Reading /home/rad/data/m50n512/s50/Groups/m50n512_092.hdf5
+yt : [INFO     ] 2019-06-28 09:58:37,361 Restoring galaxy attributes
+Returning BNDRY Particle IDs
+Returning BNDRY Particle IDs
+Returning BNDRY ID_Generations
+Returning BNDRY ID_Generations
+progen : Read ID info for 6407 current bndry parts and 1424 progenitor bndry parts [t=401.203 s]
+progen : Gathered ID info for 1154 progenitor stars out of 6407 total stars [t=401.211 s]
+progen : Sorted progenitor IDs [t=401.211 s]
+progen : Out of 6908 galaxies, most common prog 1 appeared 1 times. 6270 had no progenitors.
+progen : Doing pair [151, 91] [t=401.534 s]
+yt : [INFO     ] 2019-06-28 09:58:41,720 Reading /home/rad/data/m50n512/s50/Groups/m50n512_091.hdf5
+yt : [INFO     ] 2019-06-28 09:58:41,870 Restoring galaxy attributes
+Returning BNDRY Particle IDs
+Returning BNDRY Particle IDs
+Returning BNDRY ID_Generations
+Returning BNDRY ID_Generations
+progen : Read ID info for 6407 current bndry parts and 1347 progenitor bndry parts [t=407.09 s]
+progen : Gathered ID info for 1090 progenitor stars out of 6407 total stars [t=407.103 s]
+progen : Sorted progenitor IDs [t=407.103 s]
+progen : Out of 6908 galaxies, most common prog 1 appeared 1 times. 6296 had no progenitors.
+progen : Doing pair [151, 90] [t=407.441 s]
+yt : [INFO     ] 2019-06-28 09:58:47,627 Reading /home/rad/data/m50n512/s50/Groups/m50n512_090.hdf5
+yt : [INFO     ] 2019-06-28 09:58:47,757 Restoring galaxy attributes
+Returning BNDRY Particle IDs
+Returning BNDRY Particle IDs
+Returning BNDRY ID_Generations
+Returning BNDRY ID_Generations
+progen : Read ID info for 6407 current bndry parts and 1327 progenitor bndry parts [t=414.762 s]
+progen : Gathered ID info for 1082 progenitor stars out of 6407 total stars [t=414.771 s]
+progen : Sorted progenitor IDs [t=414.771 s]
+progen : Out of 6908 galaxies, most common prog 1 appeared 1 times. 6311 had no progenitors.
+progen : Doing pair [151, 89] [t=415.101 s]
+yt : [INFO     ] 2019-06-28 09:58:55,287 Reading /home/rad/data/m50n512/s50/Groups/m50n512_089.hdf5
+yt : [INFO     ] 2019-06-28 09:58:55,425 Restoring galaxy attributes
+Returning BNDRY Particle IDs
+Returning BNDRY Particle IDs
+Returning BNDRY ID_Generations
+Returning BNDRY ID_Generations
+progen : Read ID info for 6407 current bndry parts and 1286 progenitor bndry parts [t=422.174 s]
+progen : Gathered ID info for 1048 progenitor stars out of 6407 total stars [t=422.184 s]
+progen : Sorted progenitor IDs [t=422.184 s]
+progen : Out of 6908 galaxies, most common prog 1 appeared 1 times. 6334 had no progenitors.
+progen : Doing pair [151, 88] [t=422.427 s]
+yt : [INFO     ] 2019-06-28 09:59:02,612 Reading /home/rad/data/m50n512/s50/Groups/m50n512_088.hdf5
+yt : [INFO     ] 2019-06-28 09:59:02,801 Restoring galaxy attributes
+Returning BNDRY Particle IDs
+Returning BNDRY Particle IDs
+Returning BNDRY ID_Generations
+Returning BNDRY ID_Generations
+progen : Read ID info for 6407 current bndry parts and 1239 progenitor bndry parts [t=428.811 s]
+progen : Gathered ID info for 1008 progenitor stars out of 6407 total stars [t=428.825 s]
+progen : Sorted progenitor IDs [t=428.825 s]
+progen : Out of 6908 galaxies, most common prog 1 appeared 1 times. 6360 had no progenitors.
+progen : Doing pair [151, 87] [t=429.1 s]
+yt : [INFO     ] 2019-06-28 09:59:09,286 Reading /home/rad/data/m50n512/s50/Groups/m50n512_087.hdf5
+yt : [INFO     ] 2019-06-28 09:59:09,424 Restoring galaxy attributes
+Returning BNDRY Particle IDs
+Returning BNDRY Particle IDs
+Returning BNDRY ID_Generations
+Returning BNDRY ID_Generations
+progen : Read ID info for 6407 current bndry parts and 1167 progenitor bndry parts [t=435.304 s]
+progen : Gathered ID info for 961 progenitor stars out of 6407 total stars [t=435.317 s]
+progen : Sorted progenitor IDs [t=435.318 s]
+progen : Out of 6908 galaxies, most common prog 1 appeared 1 times. 6386 had no progenitors.
+progen : Doing pair [151, 86] [t=435.592 s]
+yt : [INFO     ] 2019-06-28 09:59:15,778 Reading /home/rad/data/m50n512/s50/Groups/m50n512_086.hdf5
+yt : [INFO     ] 2019-06-28 09:59:15,940 Restoring galaxy attributes
+Returning BNDRY Particle IDs
+Returning BNDRY Particle IDs
+Returning BNDRY ID_Generations
+Returning BNDRY ID_Generations
+progen : Read ID info for 6407 current bndry parts and 1131 progenitor bndry parts [t=442.012 s]
+progen : Gathered ID info for 931 progenitor stars out of 6407 total stars [t=442.019 s]
+progen : Sorted progenitor IDs [t=442.019 s]
+progen : Out of 6908 galaxies, most common prog 1 appeared 1 times. 6401 had no progenitors.
+progen : Doing pair [151, 85] [t=442.24 s]
+yt : [INFO     ] 2019-06-28 09:59:22,426 Reading /home/rad/data/m50n512/s50/Groups/m50n512_085.hdf5
+yt : [INFO     ] 2019-06-28 09:59:22,569 Restoring galaxy attributes
+Returning BNDRY Particle IDs
+Returning BNDRY Particle IDs
+Returning BNDRY ID_Generations
+Returning BNDRY ID_Generations
+progen : Read ID info for 6407 current bndry parts and 1095 progenitor bndry parts [t=449.188 s]
+progen : Gathered ID info for 919 progenitor stars out of 6407 total stars [t=449.198 s]
+progen : Sorted progenitor IDs [t=449.198 s]
+progen : Out of 6908 galaxies, most common prog 1 appeared 1 times. 6417 had no progenitors.
+progen : Doing pair [151, 84] [t=449.423 s]
+yt : [INFO     ] 2019-06-28 09:59:29,609 Reading /home/rad/data/m50n512/s50/Groups/m50n512_084.hdf5
+yt : [INFO     ] 2019-06-28 09:59:29,740 Restoring galaxy attributes
+Returning BNDRY Particle IDs
+Returning BNDRY Particle IDs
+Returning BNDRY ID_Generations
+Returning BNDRY ID_Generations
+progen : Read ID info for 6407 current bndry parts and 1050 progenitor bndry parts [t=453.429 s]
+progen : Gathered ID info for 877 progenitor stars out of 6407 total stars [t=453.437 s]
+progen : Sorted progenitor IDs [t=453.438 s]
+progen : Out of 6908 galaxies, most common prog 1 appeared 1 times. 6438 had no progenitors.
+progen : Doing pair [151, 83] [t=453.73 s]
+yt : [INFO     ] 2019-06-28 09:59:33,916 Reading /home/rad/data/m50n512/s50/Groups/m50n512_083.hdf5
+yt : [INFO     ] 2019-06-28 09:59:34,069 Restoring galaxy attributes
+Returning BNDRY Particle IDs
+Returning BNDRY Particle IDs
+Returning BNDRY ID_Generations
+Returning BNDRY ID_Generations
+progen : Read ID info for 6407 current bndry parts and 1018 progenitor bndry parts [t=461.521 s]
+progen : Gathered ID info for 851 progenitor stars out of 6407 total stars [t=461.531 s]
+progen : Sorted progenitor IDs [t=461.531 s]
+progen : Out of 6908 galaxies, most common prog 1 appeared 1 times. 6463 had no progenitors.
+progen : Doing pair [151, 82] [t=461.824 s]
+yt : [INFO     ] 2019-06-28 09:59:42,010 Reading /home/rad/data/m50n512/s50/Groups/m50n512_082.hdf5
+yt : [INFO     ] 2019-06-28 09:59:42,170 Restoring galaxy attributes
+Returning BNDRY Particle IDs
+Returning BNDRY Particle IDs
+Returning BNDRY ID_Generations
+Returning BNDRY ID_Generations
+progen : Read ID info for 6407 current bndry parts and 978 progenitor bndry parts [t=468.264 s]
+progen : Gathered ID info for 803 progenitor stars out of 6407 total stars [t=468.272 s]
+progen : Sorted progenitor IDs [t=468.272 s]
+progen : Out of 6908 galaxies, most common prog 2 appeared 1 times. 6484 had no progenitors.
+progen : Doing pair [151, 81] [t=468.482 s]
+yt : [INFO     ] 2019-06-28 09:59:48,667 Reading /home/rad/data/m50n512/s50/Groups/m50n512_081.hdf5
+yt : [INFO     ] 2019-06-28 09:59:48,812 Restoring galaxy attributes
+Returning BNDRY Particle IDs
+Returning BNDRY Particle IDs
+Returning BNDRY ID_Generations
+Returning BNDRY ID_Generations
+progen : Read ID info for 6407 current bndry parts and 937 progenitor bndry parts [t=475.561 s]
+progen : Gathered ID info for 783 progenitor stars out of 6407 total stars [t=475.569 s]
+progen : Sorted progenitor IDs [t=475.57 s]
+progen : Out of 6908 galaxies, most common prog 0 appeared 1 times. 6512 had no progenitors.
+progen : Doing pair [151, 80] [t=475.847 s]
+yt : [INFO     ] 2019-06-28 09:59:56,033 Reading /home/rad/data/m50n512/s50/Groups/m50n512_080.hdf5
+yt : [INFO     ] 2019-06-28 09:59:56,200 Restoring galaxy attributes
+Returning BNDRY Particle IDs
+Returning BNDRY Particle IDs
+Returning BNDRY ID_Generations
+Returning BNDRY ID_Generations
+progen : Read ID info for 6407 current bndry parts and 886 progenitor bndry parts [t=483.023 s]
+progen : Gathered ID info for 737 progenitor stars out of 6407 total stars [t=483.034 s]
+progen : Sorted progenitor IDs [t=483.035 s]
+progen : Out of 6908 galaxies, most common prog 0 appeared 1 times. 6535 had no progenitors.
+progen : Doing pair [151, 79] [t=483.305 s]
+yt : [INFO     ] 2019-06-28 10:00:03,491 Reading /home/rad/data/m50n512/s50/Groups/m50n512_079.hdf5
+yt : [INFO     ] 2019-06-28 10:00:03,644 Restoring galaxy attributes
+Returning BNDRY Particle IDs
+Returning BNDRY Particle IDs
+Returning BNDRY ID_Generations
+Returning BNDRY ID_Generations
+progen : Read ID info for 6407 current bndry parts and 823 progenitor bndry parts [t=490.413 s]
+progen : Gathered ID info for 693 progenitor stars out of 6407 total stars [t=490.421 s]
+progen : Sorted progenitor IDs [t=490.422 s]
+progen : Out of 6908 galaxies, most common prog 0 appeared 1 times. 6560 had no progenitors.
+progen : Doing pair [151, 78] [t=490.641 s]
+yt : [INFO     ] 2019-06-28 10:00:10,826 Reading /home/rad/data/m50n512/s50/Groups/m50n512_078.hdf5
+yt : [INFO     ] 2019-06-28 10:00:10,988 Restoring galaxy attributes
+Returning BNDRY Particle IDs
+Returning BNDRY Particle IDs
+Returning BNDRY ID_Generations
+Returning BNDRY ID_Generations
+progen : Read ID info for 6407 current bndry parts and 772 progenitor bndry parts [t=498.191 s]
+progen : Gathered ID info for 662 progenitor stars out of 6407 total stars [t=498.199 s]
+progen : Sorted progenitor IDs [t=498.199 s]
+progen : Out of 6908 galaxies, most common prog 0 appeared 1 times. 6576 had no progenitors.
+progen : Doing pair [151, 77] [t=498.428 s]
+yt : [INFO     ] 2019-06-28 10:00:18,614 Reading /home/rad/data/m50n512/s50/Groups/m50n512_077.hdf5
+yt : [INFO     ] 2019-06-28 10:00:18,776 Restoring galaxy attributes
+Returning BNDRY Particle IDs
+Returning BNDRY Particle IDs
+Returning BNDRY ID_Generations
+Returning BNDRY ID_Generations
+progen : Read ID info for 6407 current bndry parts and 736 progenitor bndry parts [t=505.363 s]
+progen : Gathered ID info for 649 progenitor stars out of 6407 total stars [t=505.372 s]
+progen : Sorted progenitor IDs [t=505.372 s]
+progen : Out of 6908 galaxies, most common prog 0 appeared 1 times. 6595 had no progenitors.
+progen : Doing pair [151, 76] [t=505.611 s]
+yt : [INFO     ] 2019-06-28 10:00:25,797 Reading /home/rad/data/m50n512/s50/Groups/m50n512_076.hdf5
+yt : [INFO     ] 2019-06-28 10:00:25,949 Restoring galaxy attributes
+Returning BNDRY Particle IDs
+Returning BNDRY Particle IDs
+Returning BNDRY ID_Generations
+Returning BNDRY ID_Generations
+progen : Read ID info for 6407 current bndry parts and 702 progenitor bndry parts [t=513.506 s]
+progen : Gathered ID info for 623 progenitor stars out of 6407 total stars [t=513.515 s]
+progen : Sorted progenitor IDs [t=513.515 s]
+progen : Out of 6908 galaxies, most common prog 0 appeared 1 times. 6607 had no progenitors.
+progen : Doing pair [151, 75] [t=513.726 s]
+yt : [INFO     ] 2019-06-28 10:00:33,912 Reading /home/rad/data/m50n512/s50/Groups/m50n512_075.hdf5
+yt : [INFO     ] 2019-06-28 10:00:34,117 Restoring galaxy attributes
+Returning BNDRY Particle IDs
+Returning BNDRY Particle IDs
+Returning BNDRY ID_Generations
+Returning BNDRY ID_Generations
+progen : Read ID info for 6407 current bndry parts and 686 progenitor bndry parts [t=520.33 s]
+progen : Gathered ID info for 614 progenitor stars out of 6407 total stars [t=520.34 s]
+progen : Sorted progenitor IDs [t=520.34 s]
+progen : Out of 6908 galaxies, most common prog 0 appeared 1 times. 6622 had no progenitors.
+progen : Doing pair [151, 74] [t=520.574 s]
+yt : [INFO     ] 2019-06-28 10:00:40,759 Reading /home/rad/data/m50n512/s50/Groups/m50n512_074.hdf5
+yt : [INFO     ] 2019-06-28 10:00:40,944 Restoring galaxy attributes
+Returning BNDRY Particle IDs
+Returning BNDRY Particle IDs
+Returning BNDRY ID_Generations
+Returning BNDRY ID_Generations
+progen : Read ID info for 6407 current bndry parts and 669 progenitor bndry parts [t=527.969 s]
+progen : Gathered ID info for 603 progenitor stars out of 6407 total stars [t=527.977 s]
+progen : Sorted progenitor IDs [t=527.977 s]
+progen : Out of 6908 galaxies, most common prog 0 appeared 1 times. 6631 had no progenitors.
+progen : Doing pair [151, 73] [t=528.154 s]
+yt : [INFO     ] 2019-06-28 10:00:48,340 Reading /home/rad/data/m50n512/s50/Groups/m50n512_073.hdf5
+yt : [INFO     ] 2019-06-28 10:00:48,516 Restoring galaxy attributes
+Returning BNDRY Particle IDs
+Returning BNDRY Particle IDs
+Returning BNDRY ID_Generations
+Returning BNDRY ID_Generations
+progen : Read ID info for 6407 current bndry parts and 619 progenitor bndry parts [t=534.623 s]
+progen : Gathered ID info for 562 progenitor stars out of 6407 total stars [t=534.63 s]
+progen : Sorted progenitor IDs [t=534.631 s]
+progen : Out of 6908 galaxies, most common prog 0 appeared 1 times. 6644 had no progenitors.
+progen : Doing pair [151, 72] [t=534.83 s]
+yt : [INFO     ] 2019-06-28 10:00:55,016 Reading /home/rad/data/m50n512/s50/Groups/m50n512_072.hdf5
+yt : [INFO     ] 2019-06-28 10:00:55,165 Restoring galaxy attributes
+Returning BNDRY Particle IDs
+Returning BNDRY Particle IDs
+Returning BNDRY ID_Generations
+Returning BNDRY ID_Generations
+progen : Read ID info for 6407 current bndry parts and 598 progenitor bndry parts [t=541.67 s]
+progen : Gathered ID info for 537 progenitor stars out of 6407 total stars [t=541.679 s]
+progen : Sorted progenitor IDs [t=541.679 s]
+progen : Out of 6908 galaxies, most common prog 0 appeared 1 times. 6655 had no progenitors.
+progen : Doing pair [151, 71] [t=541.946 s]
+yt : [INFO     ] 2019-06-28 10:01:02,132 Reading /home/rad/data/m50n512/s50/Groups/m50n512_071.hdf5
+yt : [INFO     ] 2019-06-28 10:01:02,332 Restoring galaxy attributes
+Returning BNDRY Particle IDs
+Returning BNDRY Particle IDs
+Returning BNDRY ID_Generations
+Returning BNDRY ID_Generations
+progen : Read ID info for 6407 current bndry parts and 592 progenitor bndry parts [t=548.411 s]
+progen : Gathered ID info for 533 progenitor stars out of 6407 total stars [t=548.419 s]
+progen : Sorted progenitor IDs [t=548.419 s]
+progen : Out of 6908 galaxies, most common prog 0 appeared 1 times. 6665 had no progenitors.
+progen : Doing pair [151, 70] [t=548.669 s]
+yt : [INFO     ] 2019-06-28 10:01:08,855 Reading /home/rad/data/m50n512/s50/Groups/m50n512_070.hdf5
+yt : [INFO     ] 2019-06-28 10:01:09,086 Restoring galaxy attributes
+Returning BNDRY Particle IDs
+Returning BNDRY Particle IDs
+Returning BNDRY ID_Generations
+Returning BNDRY ID_Generations
+progen : Read ID info for 6407 current bndry parts and 532 progenitor bndry parts [t=554.393 s]
+progen : Gathered ID info for 485 progenitor stars out of 6407 total stars [t=554.402 s]
+progen : Sorted progenitor IDs [t=554.403 s]
+progen : Out of 6908 galaxies, most common prog 0 appeared 1 times. 6680 had no progenitors.
+progen : Doing pair [151, 69] [t=554.783 s]
+yt : [INFO     ] 2019-06-28 10:01:14,969 Reading /home/rad/data/m50n512/s50/Groups/m50n512_069.hdf5
+yt : [INFO     ] 2019-06-28 10:01:15,213 Restoring galaxy attributes
+Returning BNDRY Particle IDs
+Returning BNDRY Particle IDs
+Returning BNDRY ID_Generations
+Returning BNDRY ID_Generations
+progen : Read ID info for 6407 current bndry parts and 505 progenitor bndry parts [t=563.132 s]
+progen : Gathered ID info for 476 progenitor stars out of 6407 total stars [t=563.141 s]
+progen : Sorted progenitor IDs [t=563.141 s]
+progen : Out of 6908 galaxies, most common prog 0 appeared 1 times. 6700 had no progenitors.
+progen : Doing pair [151, 68] [t=563.429 s]
+yt : [INFO     ] 2019-06-28 10:01:23,615 Reading /home/rad/data/m50n512/s50/Groups/m50n512_068.hdf5
+yt : [INFO     ] 2019-06-28 10:01:23,924 Restoring galaxy attributes
+Returning BNDRY Particle IDs
+Returning BNDRY Particle IDs
+Returning BNDRY ID_Generations
+Returning BNDRY ID_Generations
+progen : Read ID info for 6407 current bndry parts and 479 progenitor bndry parts [t=570.97 s]
+progen : Gathered ID info for 450 progenitor stars out of 6407 total stars [t=570.978 s]
+progen : Sorted progenitor IDs [t=570.978 s]
+progen : Out of 6908 galaxies, most common prog 0 appeared 1 times. 6713 had no progenitors.
+progen : Doing pair [151, 67] [t=571.328 s]
+yt : [INFO     ] 2019-06-28 10:01:31,514 Reading /home/rad/data/m50n512/s50/Groups/m50n512_067.hdf5
+yt : [INFO     ] 2019-06-28 10:01:31,741 Restoring galaxy attributes
+Returning BNDRY Particle IDs
+Returning BNDRY Particle IDs
+Returning BNDRY ID_Generations
+Returning BNDRY ID_Generations
+progen : Read ID info for 6407 current bndry parts and 468 progenitor bndry parts [t=578.644 s]
+progen : Gathered ID info for 433 progenitor stars out of 6407 total stars [t=578.652 s]
+progen : Sorted progenitor IDs [t=578.653 s]
+progen : Out of 6908 galaxies, most common prog 0 appeared 1 times. 6721 had no progenitors.
+progen : Doing pair [151, 66] [t=578.949 s]
+yt : [INFO     ] 2019-06-28 10:01:39,135 Reading /home/rad/data/m50n512/s50/Groups/m50n512_066.hdf5
+yt : [INFO     ] 2019-06-28 10:01:39,419 Restoring galaxy attributes
+Returning BNDRY Particle IDs
+Returning BNDRY Particle IDs
+Returning BNDRY ID_Generations
+Returning BNDRY ID_Generations
+progen : Read ID info for 6407 current bndry parts and 414 progenitor bndry parts [t=586.328 s]
+progen : Gathered ID info for 393 progenitor stars out of 6407 total stars [t=586.336 s]
+progen : Sorted progenitor IDs [t=586.336 s]
+progen : Out of 6908 galaxies, most common prog 0 appeared 1 times. 6730 had no progenitors.
+progen : Doing pair [151, 65] [t=586.571 s]
+yt : [INFO     ] 2019-06-28 10:01:46,756 Reading /home/rad/data/m50n512/s50/Groups/m50n512_065.hdf5
+yt : [INFO     ] 2019-06-28 10:01:47,024 Restoring galaxy attributes
+Returning BNDRY Particle IDs
+Returning BNDRY Particle IDs
+Returning BNDRY ID_Generations
+Returning BNDRY ID_Generations
+progen : Read ID info for 6407 current bndry parts and 407 progenitor bndry parts [t=591.863 s]
+progen : Gathered ID info for 400 progenitor stars out of 6407 total stars [t=591.872 s]
+progen : Sorted progenitor IDs [t=591.872 s]
+progen : Out of 6908 galaxies, most common prog 0 appeared 1 times. 6736 had no progenitors.
+progen : Doing pair [151, 64] [t=592.111 s]
+yt : [INFO     ] 2019-06-28 10:01:52,297 Reading /home/rad/data/m50n512/s50/Groups/m50n512_064.hdf5
+yt : [INFO     ] 2019-06-28 10:01:52,553 Restoring galaxy attributes
+Returning BNDRY Particle IDs
+Returning BNDRY Particle IDs
+Returning BNDRY ID_Generations
+Returning BNDRY ID_Generations
+progen : Read ID info for 6407 current bndry parts and 391 progenitor bndry parts [t=598.86 s]
+progen : Gathered ID info for 386 progenitor stars out of 6407 total stars [t=598.867 s]
+progen : Sorted progenitor IDs [t=598.868 s]
+progen : Out of 6908 galaxies, most common prog 0 appeared 1 times. 6747 had no progenitors.
+progen : Doing pair [151, 63] [t=599.117 s]
+yt : [INFO     ] 2019-06-28 10:01:59,302 Reading /home/rad/data/m50n512/s50/Groups/m50n512_063.hdf5
+yt : [INFO     ] 2019-06-28 10:01:59,517 Restoring galaxy attributes
+Returning BNDRY Particle IDs
+Returning BNDRY Particle IDs
+Returning BNDRY ID_Generations
+Returning BNDRY ID_Generations
+progen : Read ID info for 6407 current bndry parts and 350 progenitor bndry parts [t=605.89 s]
+progen : Gathered ID info for 344 progenitor stars out of 6407 total stars [t=605.897 s]
+progen : Sorted progenitor IDs [t=605.897 s]
+progen : Out of 6908 galaxies, most common prog 0 appeared 1 times. 6758 had no progenitors.
+progen : Doing pair [151, 62] [t=606.06 s]
+yt : [INFO     ] 2019-06-28 10:02:06,246 Reading /home/rad/data/m50n512/s50/Groups/m50n512_062.hdf5
+yt : [INFO     ] 2019-06-28 10:02:06,533 Restoring galaxy attributes
+Returning BNDRY Particle IDs
+Returning BNDRY Particle IDs
+Returning BNDRY ID_Generations
+Returning BNDRY ID_Generations
+progen : Read ID info for 6407 current bndry parts and 325 progenitor bndry parts [t=612.558 s]
+progen : Gathered ID info for 319 progenitor stars out of 6407 total stars [t=612.566 s]
+progen : Sorted progenitor IDs [t=612.567 s]
+progen : Out of 6908 galaxies, most common prog 0 appeared 1 times. 6765 had no progenitors.
+progen : Doing pair [151, 61] [t=612.821 s]
+yt : [INFO     ] 2019-06-28 10:02:13,007 Reading /home/rad/data/m50n512/s50/Groups/m50n512_061.hdf5
+yt : [INFO     ] 2019-06-28 10:02:13,250 Restoring galaxy attributes
+Returning BNDRY Particle IDs
+Returning BNDRY Particle IDs
+Returning BNDRY ID_Generations
+Returning BNDRY ID_Generations
+progen : Read ID info for 6407 current bndry parts and 303 progenitor bndry parts [t=617.905 s]
+progen : Gathered ID info for 298 progenitor stars out of 6407 total stars [t=617.914 s]
+progen : Sorted progenitor IDs [t=617.914 s]
+progen : Out of 6908 galaxies, most common prog 0 appeared 1 times. 6772 had no progenitors.
+progen : Doing pair [151, 60] [t=618.176 s]
+yt : [INFO     ] 2019-06-28 10:02:18,362 Reading /home/rad/data/m50n512/s50/Groups/m50n512_060.hdf5
+yt : [INFO     ] 2019-06-28 10:02:18,602 Restoring galaxy attributes
+Returning BNDRY Particle IDs
+Returning BNDRY Particle IDs
+Returning BNDRY ID_Generations
+Returning BNDRY ID_Generations
+progen : Read ID info for 6407 current bndry parts and 287 progenitor bndry parts [t=624.889 s]
+progen : Gathered ID info for 283 progenitor stars out of 6407 total stars [t=624.896 s]
+progen : Sorted progenitor IDs [t=624.897 s]
+progen : Out of 6908 galaxies, most common prog 0 appeared 1 times. 6784 had no progenitors.
+progen : Doing pair [151, 59] [t=625.139 s]
+yt : [INFO     ] 2019-06-28 10:02:25,325 Reading /home/rad/data/m50n512/s50/Groups/m50n512_059.hdf5
+yt : [INFO     ] 2019-06-28 10:02:25,589 Restoring galaxy attributes
+Returning BNDRY Particle IDs
+Returning BNDRY Particle IDs
+Returning BNDRY ID_Generations
+Returning BNDRY ID_Generations
+progen : Read ID info for 6407 current bndry parts and 276 progenitor bndry parts [t=631.797 s]
+progen : Gathered ID info for 273 progenitor stars out of 6407 total stars [t=631.804 s]
+progen : Sorted progenitor IDs [t=631.805 s]
+progen : Out of 6908 galaxies, most common prog 0 appeared 1 times. 6790 had no progenitors.
+progen : Doing pair [151, 58] [t=632.036 s]
+yt : [INFO     ] 2019-06-28 10:02:32,222 Reading /home/rad/data/m50n512/s50/Groups/m50n512_058.hdf5
+yt : [INFO     ] 2019-06-28 10:02:32,469 Restoring galaxy attributes
+Returning BNDRY Particle IDs
+Returning BNDRY Particle IDs
+Returning BNDRY ID_Generations
+Returning BNDRY ID_Generations
+progen : Read ID info for 6407 current bndry parts and 271 progenitor bndry parts [t=637.001 s]
+progen : Gathered ID info for 268 progenitor stars out of 6407 total stars [t=637.008 s]
+progen : Sorted progenitor IDs [t=637.009 s]
+progen : Out of 6908 galaxies, most common prog 1 appeared 1 times. 6797 had no progenitors.
+progen : Doing pair [151, 57] [t=637.211 s]
+yt : [INFO     ] 2019-06-28 10:02:37,397 Reading /home/rad/data/m50n512/s50/Groups/m50n512_057.hdf5
+yt : [INFO     ] 2019-06-28 10:02:37,627 Restoring galaxy attributes
+Returning BNDRY Particle IDs
+Returning BNDRY Particle IDs
+Returning BNDRY ID_Generations
+Returning BNDRY ID_Generations
+progen : Read ID info for 6407 current bndry parts and 254 progenitor bndry parts [t=643.593 s]
+progen : Gathered ID info for 252 progenitor stars out of 6407 total stars [t=643.6 s]
+progen : Sorted progenitor IDs [t=643.601 s]
+progen : Out of 6908 galaxies, most common prog 2 appeared 1 times. 6807 had no progenitors.
+progen : Doing pair [151, 56] [t=643.837 s]
+yt : [INFO     ] 2019-06-28 10:02:44,023 Reading /home/rad/data/m50n512/s50/Groups/m50n512_056.hdf5
+yt : [INFO     ] 2019-06-28 10:02:44,262 Restoring galaxy attributes
+Returning BNDRY Particle IDs
+Returning BNDRY Particle IDs
+Returning BNDRY ID_Generations
+Returning BNDRY ID_Generations
+progen : Read ID info for 6407 current bndry parts and 231 progenitor bndry parts [t=649.585 s]
+progen : Gathered ID info for 229 progenitor stars out of 6407 total stars [t=649.592 s]
+progen : Sorted progenitor IDs [t=649.592 s]
+progen : Out of 6908 galaxies, most common prog 2 appeared 1 times. 6815 had no progenitors.
+progen : Doing pair [151, 55] [t=649.822 s]
+yt : [INFO     ] 2019-06-28 10:02:50,008 Reading /home/rad/data/m50n512/s50/Groups/m50n512_055.hdf5
+yt : [INFO     ] 2019-06-28 10:02:50,270 Restoring galaxy attributes
+Returning BNDRY Particle IDs
+Returning BNDRY Particle IDs
+Returning BNDRY ID_Generations
+Returning BNDRY ID_Generations
+progen : Read ID info for 6407 current bndry parts and 212 progenitor bndry parts [t=655.545 s]
+progen : Gathered ID info for 211 progenitor stars out of 6407 total stars [t=655.552 s]
+progen : Sorted progenitor IDs [t=655.553 s]
+progen : Out of 6908 galaxies, most common prog 2 appeared 1 times. 6822 had no progenitors.
+progen : Doing pair [151, 54] [t=655.753 s]
+yt : [INFO     ] 2019-06-28 10:02:55,939 Reading /home/rad/data/m50n512/s50/Groups/m50n512_054.hdf5
+yt : [INFO     ] 2019-06-28 10:02:56,197 Restoring galaxy attributes
+Returning BNDRY Particle IDs
+Returning BNDRY Particle IDs
+Returning BNDRY ID_Generations
+Returning BNDRY ID_Generations
+progen : Read ID info for 6407 current bndry parts and 215 progenitor bndry parts [t=661.188 s]
+progen : Gathered ID info for 214 progenitor stars out of 6407 total stars [t=661.195 s]
+progen : Sorted progenitor IDs [t=661.195 s]
+progen : Out of 6908 galaxies, most common prog 2 appeared 1 times. 6828 had no progenitors.
+progen : Doing pair [151, 53] [t=661.502 s]
+yt : [INFO     ] 2019-06-28 10:03:01,688 Reading /home/rad/data/m50n512/s50/Groups/m50n512_053.hdf5
+yt : [INFO     ] 2019-06-28 10:03:01,970 Restoring galaxy attributes
+Returning BNDRY Particle IDs
+Returning BNDRY Particle IDs
+Returning BNDRY ID_Generations
+Returning BNDRY ID_Generations
+progen : Read ID info for 6407 current bndry parts and 202 progenitor bndry parts [t=667.982 s]
+progen : Gathered ID info for 201 progenitor stars out of 6407 total stars [t=667.988 s]
+progen : Sorted progenitor IDs [t=667.989 s]
+progen : Out of 6908 galaxies, most common prog 2 appeared 1 times. 6831 had no progenitors.
+progen : Doing pair [151, 52] [t=668.199 s]
+yt : [INFO     ] 2019-06-28 10:03:08,385 Reading /home/rad/data/m50n512/s50/Groups/m50n512_052.hdf5
+yt : [INFO     ] 2019-06-28 10:03:08,557 Restoring galaxy attributes
+Returning BNDRY Particle IDs
+Returning BNDRY Particle IDs
+Returning BNDRY ID_Generations
+Returning BNDRY ID_Generations
+progen : Read ID info for 6407 current bndry parts and 187 progenitor bndry parts [t=673.473 s]
+progen : Gathered ID info for 186 progenitor stars out of 6407 total stars [t=673.479 s]
+progen : Sorted progenitor IDs [t=673.48 s]
+progen : Out of 6908 galaxies, most common prog 2 appeared 1 times. 6835 had no progenitors.
+progen : Doing pair [151, 51] [t=673.693 s]
+yt : [INFO     ] 2019-06-28 10:03:13,878 Reading /home/rad/data/m50n512/s50/Groups/m50n512_051.hdf5
+yt : [INFO     ] 2019-06-28 10:03:14,111 Restoring galaxy attributes
+Returning BNDRY Particle IDs
+Returning BNDRY Particle IDs
+Returning BNDRY ID_Generations
+Returning BNDRY ID_Generations
+progen : Read ID info for 6407 current bndry parts and 172 progenitor bndry parts [t=678.94 s]
+progen : Gathered ID info for 170 progenitor stars out of 6407 total stars [t=678.946 s]
+progen : Sorted progenitor IDs [t=678.946 s]
+progen : Out of 6908 galaxies, most common prog 2 appeared 1 times. 6840 had no progenitors.
+progen : Doing pair [151, 50] [t=679.12 s]
+yt : [INFO     ] 2019-06-28 10:03:19,305 Reading /home/rad/data/m50n512/s50/Groups/m50n512_050.hdf5
+yt : [INFO     ] 2019-06-28 10:03:19,525 Restoring galaxy attributes
+Returning BNDRY Particle IDs
+Returning BNDRY Particle IDs
+Returning BNDRY ID_Generations
+Returning BNDRY ID_Generations
+progen : Read ID info for 6407 current bndry parts and 156 progenitor bndry parts [t=684.123 s]
+progen : Gathered ID info for 156 progenitor stars out of 6407 total stars [t=684.129 s]
+progen : Sorted progenitor IDs [t=684.129 s]
+progen : Out of 6908 galaxies, most common prog 2 appeared 1 times. 6847 had no progenitors.
+progen : Doing pair [151, 49] [t=684.33 s]
+yt : [INFO     ] 2019-06-28 10:03:24,516 Reading /home/rad/data/m50n512/s50/Groups/m50n512_049.hdf5
+yt : [INFO     ] 2019-06-28 10:03:24,758 Restoring galaxy attributes
+Returning BNDRY Particle IDs
+Returning BNDRY Particle IDs
+Returning BNDRY ID_Generations
+Returning BNDRY ID_Generations
+progen : Read ID info for 6407 current bndry parts and 148 progenitor bndry parts [t=689.139 s]
+progen : Gathered ID info for 148 progenitor stars out of 6407 total stars [t=689.144 s]
+progen : Sorted progenitor IDs [t=689.144 s]
+progen : Out of 6908 galaxies, most common prog 2 appeared 1 times. 6850 had no progenitors.
+progen : Doing pair [151, 48] [t=689.348 s]
+yt : [INFO     ] 2019-06-28 10:03:29,534 Reading /home/rad/data/m50n512/s50/Groups/m50n512_048.hdf5
+yt : [INFO     ] 2019-06-28 10:03:29,784 Restoring galaxy attributes
+Returning BNDRY Particle IDs
+Returning BNDRY Particle IDs
+Returning BNDRY ID_Generations
+Returning BNDRY ID_Generations
+progen : Read ID info for 6407 current bndry parts and 138 progenitor bndry parts [t=694.166 s]
+progen : Gathered ID info for 137 progenitor stars out of 6407 total stars [t=694.171 s]
+progen : Sorted progenitor IDs [t=694.172 s]
+progen : Out of 6908 galaxies, most common prog 2 appeared 1 times. 6852 had no progenitors.
+progen : Doing pair [151, 47] [t=694.38 s]
+yt : [INFO     ] 2019-06-28 10:03:34,566 Reading /home/rad/data/m50n512/s50/Groups/m50n512_047.hdf5
+yt : [INFO     ] 2019-06-28 10:03:34,797 Restoring galaxy attributes
+Returning BNDRY Particle IDs
+Returning BNDRY Particle IDs
+Returning BNDRY ID_Generations
+Returning BNDRY ID_Generations
+progen : Read ID info for 6407 current bndry parts and 127 progenitor bndry parts [t=698.977 s]
+progen : Gathered ID info for 127 progenitor stars out of 6407 total stars [t=698.982 s]
+progen : Sorted progenitor IDs [t=698.983 s]
+progen : Out of 6908 galaxies, most common prog 0 appeared 1 times. 6857 had no progenitors.
+progen : Doing pair [151, 46] [t=699.194 s]
+yt : [INFO     ] 2019-06-28 10:03:39,380 Reading /home/rad/data/m50n512/s50/Groups/m50n512_046.hdf5
+yt : [INFO     ] 2019-06-28 10:03:39,621 Restoring galaxy attributes
+Returning BNDRY Particle IDs
+Returning BNDRY Particle IDs
+Returning BNDRY ID_Generations
+Returning BNDRY ID_Generations
+progen : Read ID info for 6407 current bndry parts and 115 progenitor bndry parts [t=702.841 s]
+progen : Gathered ID info for 115 progenitor stars out of 6407 total stars [t=702.846 s]
+progen : Sorted progenitor IDs [t=702.846 s]
+progen : Out of 6908 galaxies, most common prog 0 appeared 1 times. 6861 had no progenitors.
+progen : Doing pair [151, 45] [t=703.056 s]
+yt : [INFO     ] 2019-06-28 10:03:43,242 Reading /home/rad/data/m50n512/s50/Groups/m50n512_045.hdf5
+yt : [INFO     ] 2019-06-28 10:03:43,484 Restoring galaxy attributes
+Returning BNDRY Particle IDs
+Returning BNDRY Particle IDs
+Returning BNDRY ID_Generations
+Returning BNDRY ID_Generations
+progen : Read ID info for 6407 current bndry parts and 99 progenitor bndry parts [t=707.641 s]
+progen : Gathered ID info for 97 progenitor stars out of 6407 total stars [t=707.646 s]
+progen : Sorted progenitor IDs [t=707.646 s]
+progen : Out of 6908 galaxies, most common prog 0 appeared 1 times. 6865 had no progenitors.
+progen : Doing pair [151, 44] [t=707.852 s]
+yt : [INFO     ] 2019-06-28 10:03:48,038 Reading /home/rad/data/m50n512/s50/Groups/m50n512_044.hdf5
+yt : [INFO     ] 2019-06-28 10:03:48,267 Restoring galaxy attributes
+Returning BNDRY Particle IDs
+Returning BNDRY Particle IDs
+Returning BNDRY ID_Generations
+Returning BNDRY ID_Generations
+progen : Read ID info for 6407 current bndry parts and 90 progenitor bndry parts [t=711.872 s]
+progen : Gathered ID info for 90 progenitor stars out of 6407 total stars [t=711.876 s]
+progen : Sorted progenitor IDs [t=711.876 s]
+progen : Out of 6908 galaxies, most common prog 0 appeared 1 times. 6867 had no progenitors.
+progen : Doing pair [151, 43] [t=712.059 s]
+yt : [INFO     ] 2019-06-28 10:03:52,245 Reading /home/rad/data/m50n512/s50/Groups/m50n512_043.hdf5
+yt : [INFO     ] 2019-06-28 10:03:52,522 Restoring galaxy attributes
+Returning BNDRY Particle IDs
+Returning BNDRY Particle IDs
+Returning BNDRY ID_Generations
+Returning BNDRY ID_Generations
+progen : Read ID info for 6407 current bndry parts and 78 progenitor bndry parts [t=715.649 s]
+progen : Gathered ID info for 78 progenitor stars out of 6407 total stars [t=715.653 s]
+progen : Sorted progenitor IDs [t=715.653 s]
+progen : Out of 6908 galaxies, most common prog 0 appeared 1 times. 6872 had no progenitors.
+progen : Doing pair [151, 42] [t=715.927 s]
+yt : [INFO     ] 2019-06-28 10:03:56,113 Reading /home/rad/data/m50n512/s50/Groups/m50n512_042.hdf5
+yt : [INFO     ] 2019-06-28 10:03:56,390 Restoring galaxy attributes
+Returning BNDRY Particle IDs
+Returning BNDRY Particle IDs
+Returning BNDRY ID_Generations
+Returning BNDRY ID_Generations
+progen : Read ID info for 6407 current bndry parts and 75 progenitor bndry parts [t=720.203 s]
+progen : Gathered ID info for 75 progenitor stars out of 6407 total stars [t=720.206 s]
+progen : Sorted progenitor IDs [t=720.207 s]
+progen : Out of 6908 galaxies, most common prog 0 appeared 1 times. 6872 had no progenitors.
+progen : Doing pair [151, 41] [t=720.408 s]
+yt : [INFO     ] 2019-06-28 10:04:00,594 Reading /home/rad/data/m50n512/s50/Groups/m50n512_041.hdf5
+yt : [INFO     ] 2019-06-28 10:04:00,854 Restoring galaxy attributes
+Returning BNDRY Particle IDs
+Returning BNDRY Particle IDs
+Returning BNDRY ID_Generations
+Returning BNDRY ID_Generations
+progen : Read ID info for 6407 current bndry parts and 62 progenitor bndry parts [t=723.077 s]
+progen : Gathered ID info for 62 progenitor stars out of 6407 total stars [t=723.081 s]
+progen : Sorted progenitor IDs [t=723.081 s]
+progen : Out of 6908 galaxies, most common prog 0 appeared 1 times. 6879 had no progenitors.
+progen : Doing pair [151, 40] [t=723.263 s]
+yt : [INFO     ] 2019-06-28 10:04:03,449 Reading /home/rad/data/m50n512/s50/Groups/m50n512_040.hdf5
+yt : [INFO     ] 2019-06-28 10:04:03,673 Restoring galaxy attributes
+Returning BNDRY Particle IDs
+Returning BNDRY Particle IDs
+Returning BNDRY ID_Generations
+Returning BNDRY ID_Generations
+progen : Read ID info for 6407 current bndry parts and 52 progenitor bndry parts [t=726.608 s]
+progen : Gathered ID info for 52 progenitor stars out of 6407 total stars [t=726.611 s]
+progen : Sorted progenitor IDs [t=726.612 s]
+progen : Out of 6908 galaxies, most common prog 0 appeared 1 times. 6886 had no progenitors.
+progen : Doing pair [151, 39] [t=726.798 s]
+yt : [INFO     ] 2019-06-28 10:04:06,984 Reading /home/rad/data/m50n512/s50/Groups/m50n512_039.hdf5
+yt : [INFO     ] 2019-06-28 10:04:07,235 Restoring galaxy attributes
+Returning BNDRY Particle IDs
+Returning BNDRY Particle IDs
+Returning BNDRY ID_Generations
+Returning BNDRY ID_Generations
+progen : Read ID info for 6407 current bndry parts and 44 progenitor bndry parts [t=729.183 s]
+progen : Gathered ID info for 44 progenitor stars out of 6407 total stars [t=729.186 s]
+progen : Sorted progenitor IDs [t=729.187 s]
+progen : Out of 6908 galaxies, most common prog 0 appeared 1 times. 6889 had no progenitors.
+progen : Doing pair [151, 38] [t=729.375 s]
+yt : [INFO     ] 2019-06-28 10:04:09,561 Reading /home/rad/data/m50n512/s50/Groups/m50n512_038.hdf5
+yt : [INFO     ] 2019-06-28 10:04:09,811 Restoring galaxy attributes
+Returning BNDRY Particle IDs
+Returning BNDRY Particle IDs
+Returning BNDRY ID_Generations
+Returning BNDRY ID_Generations
+progen : Read ID info for 6407 current bndry parts and 28 progenitor bndry parts [t=732.439 s]
+progen : Gathered ID info for 28 progenitor stars out of 6407 total stars [t=732.442 s]
+progen : Sorted progenitor IDs [t=732.442 s]
+progen : Out of 6908 galaxies, most common prog 0 appeared 1 times. 6894 had no progenitors.
+progen : Doing pair [151, 37] [t=732.632 s]
+yt : [INFO     ] 2019-06-28 10:04:12,818 Reading /home/rad/data/m50n512/s50/Groups/m50n512_037.hdf5
+yt : [INFO     ] 2019-06-28 10:04:13,080 Restoring galaxy attributes
+Returning BNDRY Particle IDs
+Returning BNDRY Particle IDs
+Returning BNDRY ID_Generations
+Returning BNDRY ID_Generations
+progen : Read ID info for 6407 current bndry parts and 20 progenitor bndry parts [t=734.727 s]
+progen : Gathered ID info for 20 progenitor stars out of 6407 total stars [t=734.729 s]
+progen : Sorted progenitor IDs [t=734.73 s]
+progen : Out of 6908 galaxies, most common prog 0 appeared 1 times. 6898 had no progenitors.
+progen : Doing pair [151, 36] [t=734.914 s]
+yt : [INFO     ] 2019-06-28 10:04:15,100 Reading /home/rad/data/m50n512/s50/Groups/m50n512_036.hdf5
+yt : [INFO     ] 2019-06-28 10:04:15,368 Restoring galaxy attributes
+Returning BNDRY Particle IDs
+Returning BNDRY Particle IDs
+Returning BNDRY ID_Generations
+Returning BNDRY ID_Generations
+progen : Read ID info for 6407 current bndry parts and 17 progenitor bndry parts [t=736.893 s]
+progen : Gathered ID info for 17 progenitor stars out of 6407 total stars [t=736.896 s]
+progen : Sorted progenitor IDs [t=736.896 s]
+progen : Out of 6908 galaxies, most common prog 0 appeared 1 times. 6899 had no progenitors.
+progen : Doing pair [151, 35] [t=737.078 s]
+yt : [INFO     ] 2019-06-28 10:04:17,264 Reading /home/rad/data/m50n512/s50/Groups/m50n512_035.hdf5
+yt : [INFO     ] 2019-06-28 10:04:17,494 Restoring galaxy attributes
+Returning BNDRY Particle IDs
+Returning BNDRY Particle IDs
+Returning BNDRY ID_Generations
+Returning BNDRY ID_Generations
+progen : Read ID info for 6407 current bndry parts and 11 progenitor bndry parts [t=738.8 s]
+progen : Gathered ID info for 11 progenitor stars out of 6407 total stars [t=738.803 s]
+progen : Sorted progenitor IDs [t=738.803 s]
+progen : Out of 6908 galaxies, most common prog 0 appeared 1 times. 6902 had no progenitors.
+progen : Doing pair [151, 34] [t=738.987 s]
+yt : [INFO     ] 2019-06-28 10:04:19,173 Reading /home/rad/data/m50n512/s50/Groups/m50n512_034.hdf5
+yt : [INFO     ] 2019-06-28 10:04:19,419 Restoring galaxy attributes
+Returning BNDRY Particle IDs
+Returning BNDRY Particle IDs
+Returning BNDRY ID_Generations
+Returning BNDRY ID_Generations
+progen : Read ID info for 6407 current bndry parts and 8 progenitor bndry parts [t=741.448 s]
+progen : Gathered ID info for 8 progenitor stars out of 6407 total stars [t=741.45 s]
+progen : Sorted progenitor IDs [t=741.45 s]
+progen : Out of 6908 galaxies, most common prog 1 appeared 1 times. 6903 had no progenitors.
+progen : Doing pair [151, 33] [t=741.637 s]
+yt : [INFO     ] 2019-06-28 10:04:21,823 Reading /home/rad/data/m50n512/s50/Groups/m50n512_033.hdf5
+yt : [INFO     ] 2019-06-28 10:04:22,077 Restoring galaxy attributes
+Returning BNDRY Particle IDs
+Returning BNDRY Particle IDs
+Returning BNDRY ID_Generations
+Returning BNDRY ID_Generations
+progen : Read ID info for 6407 current bndry parts and 5 progenitor bndry parts [t=743.116 s]
+progen : Gathered ID info for 5 progenitor stars out of 6407 total stars [t=743.118 s]
+progen : Sorted progenitor IDs [t=743.118 s]
+progen : Out of 6908 galaxies, most common prog 0 appeared 1 times. 6905 had no progenitors.
+progen : Doing pair [151, 32] [t=743.276 s]
+yt : [INFO     ] 2019-06-28 10:04:23,462 Reading /home/rad/data/m50n512/s50/Groups/m50n512_032.hdf5
+yt : [INFO     ] 2019-06-28 10:04:23,699 Restoring galaxy attributes
+Returning BNDRY Particle IDs
+Returning BNDRY Particle IDs
+Returning BNDRY ID_Generations
+Returning BNDRY ID_Generations
+progen : Read ID info for 6407 current bndry parts and 5 progenitor bndry parts [t=744.643 s]
+progen : Gathered ID info for 5 progenitor stars out of 6407 total stars [t=744.645 s]
+progen : Sorted progenitor IDs [t=744.645 s]
+progen : Out of 6908 galaxies, most common prog 0 appeared 1 times. 6905 had no progenitors.
+progen : Doing pair [151, 31] [t=744.827 s]
+yt : [INFO     ] 2019-06-28 10:04:25,013 Reading /home/rad/data/m50n512/s50/Groups/m50n512_031.hdf5
+yt : [INFO     ] 2019-06-28 10:04:25,251 Restoring galaxy attributes
+Returning BNDRY Particle IDs
+Returning BNDRY Particle IDs
+Returning BNDRY ID_Generations
+Returning BNDRY ID_Generations
+progen : Read ID info for 6407 current bndry parts and 4 progenitor bndry parts [t=746.059 s]
+progen : Gathered ID info for 4 progenitor stars out of 6407 total stars [t=746.06 s]
+progen : Sorted progenitor IDs [t=746.061 s]
+progen : Out of 6908 galaxies, most common prog 0 appeared 1 times. 6906 had no progenitors.
+progen : Doing pair [151, 30] [t=746.235 s]
+yt : [INFO     ] 2019-06-28 10:04:26,421 Reading /home/rad/data/m50n512/s50/Groups/m50n512_030.hdf5
+yt : [INFO     ] 2019-06-28 10:04:26,648 Restoring galaxy attributes
+Returning BNDRY Particle IDs
+Returning BNDRY Particle IDs
+Returning BNDRY ID_Generations
+Returning BNDRY ID_Generations
+progen : Read ID info for 6407 current bndry parts and 4 progenitor bndry parts [t=747.359 s]
+progen : Gathered ID info for 4 progenitor stars out of 6407 total stars [t=747.361 s]
+progen : Sorted progenitor IDs [t=747.361 s]
+progen : Out of 6908 galaxies, most common prog 0 appeared 1 times. 6906 had no progenitors.
+progen : Doing pair [151, 29] [t=747.541 s]
+yt : [INFO     ] 2019-06-28 10:04:27,726 Reading /home/rad/data/m50n512/s50/Groups/m50n512_029.hdf5
+yt : [INFO     ] 2019-06-28 10:04:27,991 Restoring galaxy attributes
+Returning BNDRY Particle IDs
+Returning BNDRY Particle IDs
+Returning BNDRY ID_Generations
+Returning BNDRY ID_Generations
+progen : Read ID info for 6407 current bndry parts and 3 progenitor bndry parts [t=749.253 s]
+progen : Gathered ID info for 3 progenitor stars out of 6407 total stars [t=749.254 s]
+progen : Sorted progenitor IDs [t=749.255 s]
+progen : Out of 6908 galaxies, most common prog 2 appeared 1 times. 6906 had no progenitors.
+progen : Doing pair [151, 28] [t=749.427 s]
+yt : [INFO     ] 2019-06-28 10:04:29,613 Reading /home/rad/data/m50n512/s50/Groups/m50n512_028.hdf5
+yt : [INFO     ] 2019-06-28 10:04:29,906 Restoring galaxy attributes
+Returning BNDRY Particle IDs
+Returning BNDRY Particle IDs
+Returning BNDRY ID_Generations
+Returning BNDRY ID_Generations
+progen : Read ID info for 6407 current bndry parts and 1 progenitor bndry parts [t=750.425 s]
+progen : Gathered ID info for 1 progenitor stars out of 6407 total stars [t=750.426 s]
+progen : Sorted progenitor IDs [t=750.426 s]
+progen : Out of 6908 galaxies, most common prog 3 appeared 1 times. 6907 had no progenitors.
+progen : Doing pair [151, 27] [t=750.595 s]
+yt : [INFO     ] 2019-06-28 10:04:30,781 Reading /home/rad/data/m50n512/s50/Groups/m50n512_027.hdf5
+yt : [INFO     ] 2019-06-28 10:04:31,028 Restoring galaxy attributes
+Returning BNDRY Particle IDs
+no BNDRY particles present!
