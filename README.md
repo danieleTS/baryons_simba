@@ -14,7 +14,7 @@ Some codes require the following Python packages to run:
 - pygadgetreader https://github.com/dnarayanan/pygadgetreader
 
 
-baryons_simba Copyright (C) 2021 Daniele Sorini
+baryons_simba Copyright (C) 2021 Daniele Sorini and Sarah Appleby
 
 This program comes with ABSOLUTELY NO WARRANTY; for details type `show w'.
 This is free software, and you are welcome to redistribute it
