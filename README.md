@@ -20,4 +20,4 @@ baryons_simba Copyright (C) 2021 Daniele Sorini and Sarah Appleby
 This program comes with ABSOLUTELY NO WARRANTY.
 This is free software, and you are welcome to redistribute it
 under certain conditions.
-Read the LICENCE file for details.
+Read the LICENSE file for details.
