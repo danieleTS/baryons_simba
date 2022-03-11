@@ -17,6 +17,7 @@ Some codes require the following Python packages to run:
 Licence: GPL-3.0
 baryons_simba Copyright (C) 2021 Daniele Sorini and Sarah Appleby
 
-This program comes with ABSOLUTELY NO WARRANTY; for details type `show w'.
+This program comes with ABSOLUTELY NO WARRANTY.
 This is free software, and you are welcome to redistribute it
-under certain conditions; type `show c' for details.
+under certain conditions.
+Read the LICENCE file for details.
