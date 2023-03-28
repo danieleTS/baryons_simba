@@ -27,7 +27,7 @@ logr_min = -2 # log-distance in units of Rvir
 #logr_max = math.log10(5)
 logr_max = math.log10(50)
 rbins = 28 # nr of logr-bins
-logr = (logr_max-logr_min)/(rbins-1)
+dlogr = (logr_max-logr_min)/(rbins-1)
 
 photo_temp = 10.**4.5 # in K
 cold_temp = 1.e5
